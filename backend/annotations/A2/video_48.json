@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_48",
+  "started_at": "2026-08-18T11:47:55.499Z",
+  "submitted_at": "2026-08-18T11:50:55.569Z",
+  "elapsed_seconds": 180.07,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "intially a black screen, then a view of a maritime city fades in with ocean in front of it.\na boat (kaptan seref can written on it) appears and steers towards the camera view.\nin the next shot, we are looking from the inside of the boat and can see silhouetes of 6 people stading on the boat and looking towards the city  "
+  },
+  "tool_version": 1
+}

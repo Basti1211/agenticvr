@@ -1,0 +1,16 @@
+{
+  "annotator": "A4",
+  "video_id": "video_19",
+  "started_at": "2026-08-18T12:46:41.101Z",
+  "submitted_at": "2026-08-18T12:49:41.187Z",
+  "elapsed_seconds": 180.087,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Video shows a diver at the bottom of the ocean coming across a large coral reef with many small corals linign the floor. there are some fish in the background on the right, where its also brighter while the water appears darker on the left "
+  },
+  "tool_version": 1
+}

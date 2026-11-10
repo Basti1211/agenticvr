@@ -1,0 +1,16 @@
+{
+  "annotator": "A4",
+  "video_id": "video_38",
+  "started_at": "2026-08-18T12:01:05.820Z",
+  "submitted_at": "2026-08-18T12:04:05.982Z",
+  "elapsed_seconds": 180.161,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Video of a band performing a song. one lead guitarist who is seen singing into a microhpone , with abackup to the left of him. camera pans to show a third member sitting  at the drums in the background. all people have long air with the lead singer having piercings on their lower lip. "
+  },
+  "tool_version": 1
+}

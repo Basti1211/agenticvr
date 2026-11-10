@@ -1,0 +1,16 @@
+{
+  "annotator": "A6",
+  "video_id": "video_16",
+  "started_at": "2026-08-19T11:47:24.435Z",
+  "submitted_at": "2026-08-19T11:50:24.623Z",
+  "elapsed_seconds": 180.196,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Non-disgusting surgery. Showing internals. Two forceps; one coming from the left, one from the right. The one from the right has \"KARL\" written on it. They are fixing some organ in place. On the bottom left there is some weird fatty white brain looking blob that connects to some red-ish bigger blob that is moving a little thoughout. The work is being done at this connective part in the left third of the frame. Background dark yellow / brown, hard to perceive anything in the background.  "
+  },
+  "tool_version": 1
+}

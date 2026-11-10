@@ -1,0 +1,16 @@
+{
+  "annotator": "A4",
+  "video_id": "video_29",
+  "started_at": "2026-08-18T11:47:13.817Z",
+  "submitted_at": "2026-08-18T11:50:13.904Z",
+  "elapsed_seconds": 180.086,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Video inside the deep ocean, its very dark in the background with some flashlight illuminating the foreground.\nThe camera tracks a see-through plastic bag with a yellow label on the right, which seems to float through the current down there. Additionally, there are some yellow brownish algea floating around with some rapid movement"
+  },
+  "tool_version": 1
+}

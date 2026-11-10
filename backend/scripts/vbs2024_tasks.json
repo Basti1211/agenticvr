@@ -1,0 +1,324 @@
+[
+  {
+    "name": "vbs24-kis-t1",
+    "task_type": "Textual Known Item Search",
+    "input": {
+      "text": "A girl and a man run up a small hill. There is a flagpole with a Canadian flag on top. There are white/green benches, a lamppost and stairs up the hill. The flagpole is on top of a stone structure with a cannon.",
+      "text_hints": [
+        "A girl and a man run up a small hill. There is a flagpole with a Canadian flag on top.",
+        "A girl and a man run up a small hill. There is a flagpole with a Canadian flag on top. There are white/green benches, a lamppost and stairs up the hill. ",
+        "A girl and a man run up a small hill. There is a flagpole with a Canadian flag on top. There are white/green benches, a lamppost and stairs up the hill. The flagpole is on top of a stone structure with a cannon."
+      ]
+    },
+    "target": {
+      "file": "10423.mp4",
+      "start_ms": 24800,
+      "end_ms": 39500
+    }
+  },
+  {
+    "name": "vbs24-kis-t2",
+    "task_type": "Textual Known Item Search",
+    "input": {
+      "text": "A herd of donkeys/mules are walking down a walkway with steps, followed by a herdsman. The animals are saddled, with blankets in different color. The herdsman wears a bonnet and carries a stick.",
+      "text_hints": [
+        "A herd of donkeys/mules are walking down a walkway with stepsstairs, followed by a herdsman.\t",
+        "A herd of donkeys/mules are walking down a walkway with steps, followed by a herdsman. The animals are saddled, with blankets in different color. ",
+        "A herd of donkeys/mules are walking down a walkway with steps, followed by a herdsman. The animals are saddled, with blankets in different color. The herdsman wears a bonnet and carries a stick."
+      ]
+    },
+    "target": {
+      "file": "07504.mp4",
+      "start_ms": 22700,
+      "end_ms": 34000
+    }
+  },
+  {
+    "name": "vbs24-kis-t5",
+    "task_type": "Textual Known Item Search",
+    "input": {
+      "text": "Time lapse shot of a woman and a man (both Asian) sitting on a bench and directing their cameras towards the viewer. The wooden bench is under a tree and in its shadow, surrounded by grass. The man carries a black backpack, the woman a leather shoulder bag, and both wear sunglasses.",
+      "text_hints": [
+        "Time lapse shot of a woman and a man (both Asian) sitting on a bench and directing their cameras towards the viewer.",
+        "Time lapse shot of a woman and a man (both Asian) sitting on a bench and directing their cameras towards the viewer. The wooden bench is under a tree and in its shadow, surrounded by grass. ",
+        "Time lapse shot of a woman and a man (both Asian) sitting on a bench and directing their cameras towards the viewer. The wooden bench is under a tree and in its shadow, surrounded by grass. The man carries a black backpack, the woman a leather shoulder bag, and both wear sunglasses."
+      ]
+    },
+    "target": {
+      "file": "04757.mp4",
+      "start_ms": 103230,
+      "end_ms": 104500
+    }
+  },
+  {
+    "name": "vbs24-kis-t6",
+    "task_type": "Textual Known Item Search",
+    "input": {
+      "text": "A man, leaning forward, looks back over his shoulder, where a smiling bride is walking towards him. The bride puts her arm around his neck. The scene is outdoors, the man wears a striped shirt, black jacket and glasses with black/gray frame.",
+      "text_hints": [
+        "A man, leaning forward, looks back over his shoulder, where a smiling bride is walking towards him. ",
+        "A man, leaning forward, looks back over his shoulder, where a smiling bride is walking towards him. The bride puts her arm around his neck. ",
+        "A man, leaning forward, looks back over his shoulder, where a smiling bride is walking towards him. The bride puts her arm around his neck. The scene is outdoors, the man wears a striped shirt, black jacket and glasses with black/gray frame."
+      ]
+    },
+    "target": {
+      "file": "14494.mp4",
+      "start_ms": 11380,
+      "end_ms": 15300
+    }
+  },
+  {
+    "name": "vbs24-kis-t7",
+    "task_type": "Textual Known Item Search",
+    "input": {
+      "text": "We see a girl in a dark dress pushing the door of a convenience store, after it closes, she runs away. There are two bikes and four trash cans in front of the shop windows.\tThe store's brand colors are green, white and blue. ",
+      "text_hints": [
+        "We see a girl in a dark dress pushing the door of a convenience store, after it closes, she runs away. ",
+        "We see a girl in a dark dress pushing the door of a convenience store, after it closes, she runs away. There are two bikes and four trash cans in front of the shop windows.",
+        "We see a girl in a dark dress pushing the door of a convenience store, after it closes, she runs away. There are two bikes and four trash cans in front of the shop windows.\tThe store's brand colors are green, white and blue. "
+      ]
+    },
+    "target": {
+      "file": "17216.mp4",
+      "start_ms": 483200,
+      "end_ms": 490500
+    }
+  },
+  {
+    "name": "vbs24-kis-t8",
+    "task_type": "Textual Known Item Search",
+    "input": {
+      "text": "A camera man is pushed on a dolly along a track on a race circuit, with red tents and a roofed grandstand in the background. We see two closer shots of the camera man and the three men pushing/pulling the dolly, and between them a wider shot of the dolly moving to the right. In the last two shots, a red and white racecar rolling forward in front of the grandstand is being filmed.",
+      "text_hints": [
+        "A camera man is pushed on a dolly along a track on a race circuit, with red tents and a roofed grandstand in the background.",
+        "A camera man is pushed on a dolly along a track on a race circuit, with red tents and a roofed grandstand in the background. We see two closer shots of the camera man and the three men pushing/pulling the dolly, and between them a wider shot of the dolly moving to the right.",
+        "A camera man is pushed on a dolly along a track on a race circuit, with red tents and a roofed grandstand in the background. We see two closer shots of the camera man and the three men pushing/pulling the dolly, and between them a wider shot of the dolly moving to the right. In the last two shots, a red and white racecar rolling forward in front of the grandstand is being filmed."
+      ]
+    },
+    "target": {
+      "file": "06427.mp4",
+      "start_ms": 185100,
+      "end_ms": 188700
+    }
+  },
+  {
+    "name": "vbs24-avs2",
+    "task_type": "Ad-hoc Video Search NoSeg",
+    "input": {
+      "text": "Find shots taken from a vehicle in motion, that is visibly following a red double decker bus."
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs24-avs4",
+    "task_type": "Ad-hoc Video Search NoSeg",
+    "input": {
+      "text": "Find shots showing at least one person holding a transparent container (e.g. glass) with a straw in it, but not drinking from it."
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs24-avs7",
+    "task_type": "Ad-hoc Video Search NoSeg",
+    "input": {
+      "text": "Find shots of a person opening a beverage can (e.g. beer or soda), and with liquid being spilled."
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs24-avs8",
+    "task_type": "Ad-hoc Video Search NoSeg",
+    "input": {
+      "text": "Find shots showing a dynamic departure/arrival board/screen or platform display, showing at least one time."
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs24-avs9",
+    "task_type": "Ad-hoc Video Search NoSeg",
+    "input": {
+      "text": "Find shots of an outdoor analog clock (e.g., church/tower clock), large enough to be readable, with hands indicating a time between 1.00 and 3.00."
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs24-qa1",
+    "task_type": "VBS Question & Answer Video Text",
+    "input": {
+      "video": {
+        "file": "11423.mp4",
+        "start_ms": 103500,
+        "end_ms": 110000
+      },
+      "text": "In which city did this conference take place?"
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs24-qa3",
+    "task_type": "VBS Question & Answer Video Text",
+    "input": {
+      "video": {
+        "file": "03757.mp4",
+        "start_ms": 150000,
+        "end_ms": 169000
+      },
+      "text": "How many nights do we see passing in the video until this segment?"
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs24-qa4",
+    "task_type": "VBS Question & Answer Video Text",
+    "input": {
+      "video": {
+        "file": "13874.mp4",
+        "start_ms": 333000,
+        "end_ms": 342000
+      },
+      "text": "When this hiker reaches the summit, there are two other hikers that carry their backpacks. What are the colors of these backpacks?"
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs24-qa5",
+    "task_type": "VBS Question & Answer Video Text",
+    "input": {
+      "video": {
+        "file": "08416.mp4",
+        "start_ms": 179500,
+        "end_ms": 186000
+      },
+      "text": "What does the text message from Jane say?"
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs24-kis-v1",
+    "task_type": "Visual Known Item Search",
+    "input": {
+      "video": {
+        "file": "06100.mp4",
+        "start_ms": 335900,
+        "end_ms": 351500
+      }
+    },
+    "target": {
+      "file": "06100.mp4",
+      "start_ms": 335900,
+      "end_ms": 351500
+    }
+  },
+  {
+    "name": "vbs24-kis-v2",
+    "task_type": "Visual Known Item Search",
+    "input": {
+      "video": {
+        "file": "12751.mp4",
+        "start_ms": 79500,
+        "end_ms": 96000
+      }
+    },
+    "target": {
+      "file": "12751.mp4",
+      "start_ms": 79500,
+      "end_ms": 96000
+    }
+  },
+  {
+    "name": "vbs24-kis-v-lhe1",
+    "task_type": "Visual Known Item Search",
+    "input": {
+      "video": {
+        "file": "LHE61.mp4",
+        "start_ms": 2051000,
+        "end_ms": 2080000
+      }
+    },
+    "target": {
+      "file": "LHE61.mp4",
+      "start_ms": 2051000,
+      "end_ms": 2080000
+    }
+  },
+  {
+    "name": "vbs24-kis-v-lhe2",
+    "task_type": "Visual Known Item Search",
+    "input": {
+      "video": {
+        "file": "LHE46.mp4",
+        "start_ms": 1152000,
+        "end_ms": 1180000
+      }
+    },
+    "target": {
+      "file": "LHE46.mp4",
+      "start_ms": 1152000,
+      "end_ms": 1180000
+    }
+  },
+  {
+    "name": "vbs24-kis-v-lhe3",
+    "task_type": "Visual Known Item Search",
+    "input": {
+      "video": {
+        "file": "LHE41.mp4",
+        "start_ms": 25180,
+        "end_ms": 25270
+      }
+    },
+    "target": {
+      "file": "LHE41.mp4",
+      "start_ms": 25180,
+      "end_ms": 25270
+    }
+  },
+  {
+    "name": "vbs24-kis-v-mvk1",
+    "task_type": "Visual Known Item Search",
+    "input": {
+      "video": {
+        "file": "GreenEgg_Sep2021_0020.mp4",
+        "start_ms": 8000,
+        "end_ms": 15000
+      }
+    },
+    "target": {
+      "file": "GreenEgg_Sep2021_0020.mp4",
+      "start_ms": 8000,
+      "end_ms": 15000
+    }
+  },
+  {
+    "name": "vbs24-kis-v-mvk2",
+    "task_type": "Visual Known Item Search",
+    "input": {
+      "video": {
+        "file": "Tulamben1_Jun2022_0038.mp4",
+        "start_ms": 20800,
+        "end_ms": 36000
+      }
+    },
+    "target": {
+      "file": "Tulamben1_Jun2022_0038.mp4",
+      "start_ms": 20800,
+      "end_ms": 36000
+    }
+  },
+  {
+    "name": "vbs24-kis-v-mvk3",
+    "task_type": "Visual Known Item Search",
+    "input": {
+      "video": {
+        "file": "Molokini_Jul2022_0071.mp4",
+        "start_ms": 16500,
+        "end_ms": 24000
+      }
+    },
+    "target": {
+      "file": "Molokini_Jul2022_0071.mp4",
+      "start_ms": 16500,
+      "end_ms": 24000
+    }
+  }
+]

@@ -1,0 +1,8238 @@
+[
+  {
+    "name": "vbs24-avs2",
+    "accepted": [
+      {
+        "file": "videos/15026.mp4",
+        "start_ms": 136066,
+        "end_ms": 136068
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 145480,
+        "end_ms": 145800
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 125880,
+        "end_ms": 126200
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 118600,
+        "end_ms": 119040
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 118200,
+        "end_ms": 118560
+      },
+      {
+        "file": "videos/13830.mp4",
+        "start_ms": 125000,
+        "end_ms": 125001
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 125000,
+        "end_ms": 125001
+      },
+      {
+        "file": "videos/09615.mp4",
+        "start_ms": 184000,
+        "end_ms": 184001
+      },
+      {
+        "file": "videos/13498.mp4",
+        "start_ms": 99066,
+        "end_ms": 99733
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 119080,
+        "end_ms": 119680
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 145657,
+        "end_ms": 145659
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 145240,
+        "end_ms": 145440
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 144400,
+        "end_ms": 145200
+      },
+      {
+        "file": "videos/13477.mp4",
+        "start_ms": 130841,
+        "end_ms": 130841
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 124960,
+        "end_ms": 125480
+      },
+      {
+        "file": "videos/13830.mp4",
+        "start_ms": 124840,
+        "end_ms": 126080
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 145000,
+        "end_ms": 145000
+      },
+      {
+        "file": "videos/15201.mp4",
+        "start_ms": 1170669,
+        "end_ms": 1173472
+      },
+      {
+        "file": "videos/01424.mp4",
+        "start_ms": 209800,
+        "end_ms": 209800
+      },
+      {
+        "file": "videos/07394.mp4",
+        "start_ms": 137000,
+        "end_ms": 137001
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 119000,
+        "end_ms": 119001
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 146000,
+        "end_ms": 146001
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 153560,
+        "end_ms": 154200
+      },
+      {
+        "file": "videos/11726.mp4",
+        "start_ms": 208333,
+        "end_ms": 208800
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 118820,
+        "end_ms": 118820
+      },
+      {
+        "file": "videos/02382.mp4",
+        "start_ms": 12720,
+        "end_ms": 13200
+      },
+      {
+        "file": "videos/11726.mp4",
+        "start_ms": 210000,
+        "end_ms": 210000
+      },
+      {
+        "file": "videos/11726.mp4",
+        "start_ms": 207866,
+        "end_ms": 208300
+      },
+      {
+        "file": "videos/11726.mp4",
+        "start_ms": 206800,
+        "end_ms": 207033
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 139080,
+        "end_ms": 139640
+      },
+      {
+        "file": "videos/11726.mp4",
+        "start_ms": 210333,
+        "end_ms": 210800
+      },
+      {
+        "file": "videos/11726.mp4",
+        "start_ms": 210100,
+        "end_ms": 210300
+      },
+      {
+        "file": "videos/11726.mp4",
+        "start_ms": 209400,
+        "end_ms": 209733
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 119736,
+        "end_ms": 119738
+      },
+      {
+        "file": "videos/11726.mp4",
+        "start_ms": 210833,
+        "end_ms": 211100
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 115000,
+        "end_ms": 115001
+      },
+      {
+        "file": "videos/13498.mp4",
+        "start_ms": 99000,
+        "end_ms": 99001
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 132000,
+        "end_ms": 132001
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 195000,
+        "end_ms": 195001
+      },
+      {
+        "file": "videos/11726.mp4",
+        "start_ms": 209766,
+        "end_ms": 210066
+      },
+      {
+        "file": "videos/11726.mp4",
+        "start_ms": 207066,
+        "end_ms": 207433
+      },
+      {
+        "file": "videos/07394.mp4",
+        "start_ms": 137512,
+        "end_ms": 138179
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 139680,
+        "end_ms": 144240
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 146720,
+        "end_ms": 147080
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 94960,
+        "end_ms": 95240
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 144280,
+        "end_ms": 144360
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 115360,
+        "end_ms": 115760
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 153040,
+        "end_ms": 153520
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 145840,
+        "end_ms": 146680
+      },
+      {
+        "file": "videos/13477.mp4",
+        "start_ms": 130933,
+        "end_ms": 131015
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 77000,
+        "end_ms": 77001
+      },
+      {
+        "file": "videos/11406.mp4",
+        "start_ms": 598000,
+        "end_ms": 598001
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 153000,
+        "end_ms": 153001
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 117000,
+        "end_ms": 117001
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 115440,
+        "end_ms": 118560
+      },
+      {
+        "file": "videos/09127.mp4",
+        "start_ms": 206360,
+        "end_ms": 206360
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 145340,
+        "end_ms": 145340
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 144800,
+        "end_ms": 144800
+      },
+      {
+        "file": "videos/09615.mp4",
+        "start_ms": 185280,
+        "end_ms": 185280
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 125220,
+        "end_ms": 125220
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 132240,
+        "end_ms": 132240
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 118380,
+        "end_ms": 118380
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 145640,
+        "end_ms": 145640
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 146260,
+        "end_ms": 146260
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 146900,
+        "end_ms": 146900
+      },
+      {
+        "file": "videos/13830.mp4",
+        "start_ms": 125460,
+        "end_ms": 125460
+      },
+      {
+        "file": "videos/11406.mp4",
+        "start_ms": 321000,
+        "end_ms": 321001
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 94000,
+        "end_ms": 94001
+      },
+      {
+        "file": "videos/13477.mp4",
+        "start_ms": 130333,
+        "end_ms": 130750
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 76971,
+        "end_ms": 76972
+      },
+      {
+        "file": "videos/13498.mp4",
+        "start_ms": 99666,
+        "end_ms": 99666
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 152560,
+        "end_ms": 153000
+      },
+      {
+        "file": "videos/13498.mp4",
+        "start_ms": 99766,
+        "end_ms": 100033
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 132560,
+        "end_ms": 132920
+      },
+      {
+        "file": "videos/01041.mp4",
+        "start_ms": 101720,
+        "end_ms": 101800
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 115800,
+        "end_ms": 116160
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 125520,
+        "end_ms": 125840
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 86560,
+        "end_ms": 86680
+      },
+      {
+        "file": "videos/08494.mp4",
+        "start_ms": 420736,
+        "end_ms": 432932
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 131620,
+        "end_ms": 131620
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 133120,
+        "end_ms": 133120
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 128480,
+        "end_ms": 128480
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 128100,
+        "end_ms": 128100
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 124560,
+        "end_ms": 124560
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 119380,
+        "end_ms": 119380
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 141960,
+        "end_ms": 141960
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 118020,
+        "end_ms": 118020
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 132740,
+        "end_ms": 132740
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 139360,
+        "end_ms": 139360
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 119040,
+        "end_ms": 119040
+      },
+      {
+        "file": "videos/13498.mp4",
+        "start_ms": 99900,
+        "end_ms": 99900
+      },
+      {
+        "file": "videos/07394.mp4",
+        "start_ms": 81000,
+        "end_ms": 84000
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 129479,
+        "end_ms": 130680
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 130720,
+        "end_ms": 130800
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 130840,
+        "end_ms": 131280
+      },
+      {
+        "file": "videos/11406.mp4",
+        "start_ms": 321200,
+        "end_ms": 321200
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 95280,
+        "end_ms": 95880
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 126040,
+        "end_ms": 126040
+      },
+      {
+        "file": "videos/13498.mp4",
+        "start_ms": 99399,
+        "end_ms": 99399
+      },
+      {
+        "file": "videos/11726.mp4",
+        "start_ms": 208083,
+        "end_ms": 208083
+      },
+      {
+        "file": "videos/13477.mp4",
+        "start_ms": 130766,
+        "end_ms": 130916
+      },
+      {
+        "file": "videos/02983.mp4",
+        "start_ms": 132198,
+        "end_ms": 132532
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 131320,
+        "end_ms": 131920
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 131960,
+        "end_ms": 132520
+      },
+      {
+        "file": "videos/01424.mp4",
+        "start_ms": 209129,
+        "end_ms": 209131
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 132960,
+        "end_ms": 133280
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 133320,
+        "end_ms": 133880
+      },
+      {
+        "file": "videos/09127.mp4",
+        "start_ms": 198720,
+        "end_ms": 199320
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 145847,
+        "end_ms": 145849
+      },
+      {
+        "file": "videos/11726.mp4",
+        "start_ms": 207000,
+        "end_ms": 207001
+      },
+      {
+        "file": "videos/17036.mp4",
+        "start_ms": 293120,
+        "end_ms": 293600
+      },
+      {
+        "file": "videos/11726.mp4",
+        "start_ms": 208633,
+        "end_ms": 208633
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 116200,
+        "end_ms": 116640
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 116680,
+        "end_ms": 117120
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 117160,
+        "end_ms": 117840
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 117880,
+        "end_ms": 118160
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 93840,
+        "end_ms": 94440
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 11000,
+        "end_ms": 11480
+      },
+      {
+        "file": "videos/01424.mp4",
+        "start_ms": 209640,
+        "end_ms": 209960
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 164960,
+        "end_ms": 165040
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 119000,
+        "end_ms": 119000
+      },
+      {
+        "file": "videos/09615.mp4",
+        "start_ms": 172340,
+        "end_ms": 172340
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 194960,
+        "end_ms": 194960
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 112880,
+        "end_ms": 113320
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 94480,
+        "end_ms": 94920
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 195920,
+        "end_ms": 195920
+      },
+      {
+        "file": "videos/13498.mp4",
+        "start_ms": 98533,
+        "end_ms": 100533
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 152780,
+        "end_ms": 152780
+      },
+      {
+        "file": "videos/13477.mp4",
+        "start_ms": 130933,
+        "end_ms": 131016
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 101600,
+        "end_ms": 101880
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 98480,
+        "end_ms": 98960
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 144320,
+        "end_ms": 144320
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 113840,
+        "end_ms": 113840
+      },
+      {
+        "file": "videos/11726.mp4",
+        "start_ms": 208433,
+        "end_ms": 210433
+      },
+      {
+        "file": "videos/13498.mp4",
+        "start_ms": 99899,
+        "end_ms": 99899
+      },
+      {
+        "file": "videos/13477.mp4",
+        "start_ms": 130974,
+        "end_ms": 130974
+      },
+      {
+        "file": "videos/13477.mp4",
+        "start_ms": 130840,
+        "end_ms": 130840
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 194360,
+        "end_ms": 196040
+      },
+      {
+        "file": "videos/11726.mp4",
+        "start_ms": 210966,
+        "end_ms": 210966
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 94140,
+        "end_ms": 94140
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 117000,
+        "end_ms": 117000
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 101740,
+        "end_ms": 101740
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 145460,
+        "end_ms": 145461
+      },
+      {
+        "file": "videos/10149.mp4",
+        "start_ms": 40520,
+        "end_ms": 42520
+      },
+      {
+        "file": "videos/13830.mp4",
+        "start_ms": 125480,
+        "end_ms": 125480
+      }
+    ],
+    "rejected": [
+      {
+        "file": "videos/16213.mp4",
+        "start_ms": 729862,
+        "end_ms": 729862
+      },
+      {
+        "file": "videos/11406.mp4",
+        "start_ms": 85600,
+        "end_ms": 87360
+      },
+      {
+        "file": "videos/06809.mp4",
+        "start_ms": 2324088,
+        "end_ms": 2324322
+      },
+      {
+        "file": "videos/16908.mp4",
+        "start_ms": 110480,
+        "end_ms": 114080
+      },
+      {
+        "file": "videos/01041.mp4",
+        "start_ms": 101720,
+        "end_ms": 101800
+      },
+      {
+        "file": "videos/11665.mp4",
+        "start_ms": 89320,
+        "end_ms": 93120
+      },
+      {
+        "file": "videos/11710.mp4",
+        "start_ms": 84459,
+        "end_ms": 89672
+      },
+      {
+        "file": "videos/02983.mp4",
+        "start_ms": 16766,
+        "end_ms": 16766
+      },
+      {
+        "file": "videos/04611.mp4",
+        "start_ms": 75080,
+        "end_ms": 75560
+      },
+      {
+        "file": "videos/13644.mp4",
+        "start_ms": 16916,
+        "end_ms": 17183
+      },
+      {
+        "file": "videos/01025.mp4",
+        "start_ms": 751280,
+        "end_ms": 751480
+      },
+      {
+        "file": "videos/01424.mp4",
+        "start_ms": 187840,
+        "end_ms": 188040
+      },
+      {
+        "file": "videos/08026.mp4",
+        "start_ms": 39000,
+        "end_ms": 40000
+      },
+      {
+        "file": "videos/01041.mp4",
+        "start_ms": 101759,
+        "end_ms": 101759
+      },
+      {
+        "file": "videos/08875.mp4",
+        "start_ms": 81714,
+        "end_ms": 84617
+      },
+      {
+        "file": "videos/13498.mp4",
+        "start_ms": 99000,
+        "end_ms": 99000
+      },
+      {
+        "file": "videos/04611.mp4",
+        "start_ms": 32200,
+        "end_ms": 32320
+      },
+      {
+        "file": "videos/10577.mp4",
+        "start_ms": 34200,
+        "end_ms": 35080
+      },
+      {
+        "file": "videos/12000.mp4",
+        "start_ms": 129160,
+        "end_ms": 132680
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 128360,
+        "end_ms": 128600
+      },
+      {
+        "file": "videos/11112.mp4",
+        "start_ms": 420680,
+        "end_ms": 424640
+      },
+      {
+        "file": "videos/13477.mp4",
+        "start_ms": 130765,
+        "end_ms": 130916
+      },
+      {
+        "file": "videos/11518.mp4",
+        "start_ms": 62195,
+        "end_ms": 65665
+      },
+      {
+        "file": "videos/14666.mp4",
+        "start_ms": 632400,
+        "end_ms": 632840
+      },
+      {
+        "file": "videos/05177.mp4",
+        "start_ms": 91883,
+        "end_ms": 93802
+      },
+      {
+        "file": "videos/02983.mp4",
+        "start_ms": 132565,
+        "end_ms": 133133
+      },
+      {
+        "file": "videos/02983.mp4",
+        "start_ms": 114447,
+        "end_ms": 116282
+      },
+      {
+        "file": "videos/06357.mp4",
+        "start_ms": 89389,
+        "end_ms": 89856
+      },
+      {
+        "file": "videos/14008.mp4",
+        "start_ms": 168480,
+        "end_ms": 172760
+      },
+      {
+        "file": "videos/12511.mp4",
+        "start_ms": 140273,
+        "end_ms": 142675
+      },
+      {
+        "file": "videos/00181.mp4",
+        "start_ms": 45295,
+        "end_ms": 45920
+      },
+      {
+        "file": "videos/13830.mp4",
+        "start_ms": 59000,
+        "end_ms": 59001
+      },
+      {
+        "file": "videos/17140.mp4",
+        "start_ms": 87128,
+        "end_ms": 102143
+      },
+      {
+        "file": "videos/04611.mp4",
+        "start_ms": 36700,
+        "end_ms": 36700
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 115560,
+        "end_ms": 115560
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 11240,
+        "end_ms": 11240
+      },
+      {
+        "file": "videos/05398.mp4",
+        "start_ms": 98932,
+        "end_ms": 101367
+      },
+      {
+        "file": "videos/15564.mp4",
+        "start_ms": 21938,
+        "end_ms": 23023
+      },
+      {
+        "file": "videos/02961.mp4",
+        "start_ms": 103960,
+        "end_ms": 104640
+      },
+      {
+        "file": "videos/12080.mp4",
+        "start_ms": 19919,
+        "end_ms": 27427
+      },
+      {
+        "file": "videos/11518.mp4",
+        "start_ms": 63930,
+        "end_ms": 63930
+      },
+      {
+        "file": "videos/05398.mp4",
+        "start_ms": 27110,
+        "end_ms": 27110
+      },
+      {
+        "file": "videos/09127.mp4",
+        "start_ms": 101360,
+        "end_ms": 101800
+      },
+      {
+        "file": "videos/08026.mp4",
+        "start_ms": 17160,
+        "end_ms": 17320
+      },
+      {
+        "file": "videos/08026.mp4",
+        "start_ms": 13480,
+        "end_ms": 14000
+      },
+      {
+        "file": "videos/08026.mp4",
+        "start_ms": 6880,
+        "end_ms": 7280
+      },
+      {
+        "file": "videos/14666.mp4",
+        "start_ms": 247480,
+        "end_ms": 248120
+      },
+      {
+        "file": "videos/17036.mp4",
+        "start_ms": 293360,
+        "end_ms": 293360
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 154240,
+        "end_ms": 154440
+      },
+      {
+        "file": "videos/08160.mp4",
+        "start_ms": 585520,
+        "end_ms": 585760
+      },
+      {
+        "file": "videos/00373.mp4",
+        "start_ms": 19458,
+        "end_ms": 23166
+      },
+      {
+        "file": "videos/14324.mp4",
+        "start_ms": 246280,
+        "end_ms": 249000
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 164800,
+        "end_ms": 164800
+      },
+      {
+        "file": "videos/08026.mp4",
+        "start_ms": 34340,
+        "end_ms": 34340
+      },
+      {
+        "file": "videos/13830.mp4",
+        "start_ms": 54160,
+        "end_ms": 54160
+      },
+      {
+        "file": "videos/12000.mp4",
+        "start_ms": 118020,
+        "end_ms": 129120
+      },
+      {
+        "file": "videos/14982.mp4",
+        "start_ms": 1050924,
+        "end_ms": 1051258
+      },
+      {
+        "file": "videos/13477.mp4",
+        "start_ms": 130333,
+        "end_ms": 130750
+      },
+      {
+        "file": "videos/01424.mp4",
+        "start_ms": 209640,
+        "end_ms": 209960
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 119160,
+        "end_ms": 119160
+      },
+      {
+        "file": "videos/12701.mp4",
+        "start_ms": 301000,
+        "end_ms": 301367
+      },
+      {
+        "file": "videos/09028.mp4",
+        "start_ms": 120000,
+        "end_ms": 120001
+      },
+      {
+        "file": "videos/02983.mp4",
+        "start_ms": 132849,
+        "end_ms": 132849
+      },
+      {
+        "file": "videos/09615.mp4",
+        "start_ms": 194240,
+        "end_ms": 195880
+      },
+      {
+        "file": "videos/08077.mp4",
+        "start_ms": 494880,
+        "end_ms": 496280
+      },
+      {
+        "file": "videos/07394.mp4",
+        "start_ms": 81956,
+        "end_ms": 81956
+      },
+      {
+        "file": "videos/05972.mp4",
+        "start_ms": 48548,
+        "end_ms": 48982
+      },
+      {
+        "file": "videos/12519.mp4",
+        "start_ms": 20061,
+        "end_ms": 26067
+      },
+      {
+        "file": "videos/11406.mp4",
+        "start_ms": 88240,
+        "end_ms": 88240
+      },
+      {
+        "file": "videos/13866.mp4",
+        "start_ms": 72760,
+        "end_ms": 73680
+      },
+      {
+        "file": "videos/10070.mp4",
+        "start_ms": 418618,
+        "end_ms": 419886
+      },
+      {
+        "file": "videos/05177.mp4",
+        "start_ms": 91528,
+        "end_ms": 91528
+      },
+      {
+        "file": "videos/11710.mp4",
+        "start_ms": 536911,
+        "end_ms": 541332
+      },
+      {
+        "file": "videos/04611.mp4",
+        "start_ms": 32840,
+        "end_ms": 34520
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 11000,
+        "end_ms": 11480
+      },
+      {
+        "file": "videos/11406.mp4",
+        "start_ms": 81920,
+        "end_ms": 85560
+      },
+      {
+        "file": "videos/09615.mp4",
+        "start_ms": 171560,
+        "end_ms": 171560
+      },
+      {
+        "file": "videos/13644.mp4",
+        "start_ms": 16749,
+        "end_ms": 16749
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 117160,
+        "end_ms": 117840
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 85960,
+        "end_ms": 86520
+      },
+      {
+        "file": "videos/10149.mp4",
+        "start_ms": 38720,
+        "end_ms": 40480
+      },
+      {
+        "file": "videos/13477.mp4",
+        "start_ms": 171050,
+        "end_ms": 171166
+      },
+      {
+        "file": "videos/04611.mp4",
+        "start_ms": 362440,
+        "end_ms": 363800
+      },
+      {
+        "file": "videos/13477.mp4",
+        "start_ms": 29200,
+        "end_ms": 32633
+      },
+      {
+        "file": "videos/02382.mp4",
+        "start_ms": 15311,
+        "end_ms": 15313
+      },
+      {
+        "file": "videos/06608.mp4",
+        "start_ms": 2050960,
+        "end_ms": 2051920
+      },
+      {
+        "file": "videos/06949.mp4",
+        "start_ms": 86240,
+        "end_ms": 86240
+      },
+      {
+        "file": "videos/00257.mp4",
+        "start_ms": 3211,
+        "end_ms": 7340
+      }
+    ]
+  },
+  {
+    "name": "vbs24-qa1",
+    "accepted": [
+      "Zurich",
+      "zurich",
+      "ZURICH"
+    ],
+    "rejected": [
+      "Mexico",
+      "London",
+      "Germany",
+      "san francisco",
+      "switzerland",
+      "Switzerland",
+      "San Diego"
+    ]
+  },
+  {
+    "name": "vbs24-avs4",
+    "accepted": [
+      {
+        "file": "videos/07474.mp4",
+        "start_ms": 253000,
+        "end_ms": 254000
+      },
+      {
+        "file": "videos/01808.mp4",
+        "start_ms": 298000,
+        "end_ms": 298001
+      },
+      {
+        "file": "videos/09484.mp4",
+        "start_ms": 212000,
+        "end_ms": 212001
+      },
+      {
+        "file": "videos/10193.mp4",
+        "start_ms": 161780,
+        "end_ms": 161780
+      },
+      {
+        "file": "videos/01808.mp4",
+        "start_ms": 296663,
+        "end_ms": 298831
+      },
+      {
+        "file": "videos/04738.mp4",
+        "start_ms": 3294,
+        "end_ms": 4212
+      },
+      {
+        "file": "videos/10193.mp4",
+        "start_ms": 161160,
+        "end_ms": 162400
+      },
+      {
+        "file": "videos/07474.mp4",
+        "start_ms": 252541,
+        "end_ms": 254541
+      },
+      {
+        "file": "videos/06147.mp4",
+        "start_ms": 135733,
+        "end_ms": 135733
+      },
+      {
+        "file": "videos/15814.mp4",
+        "start_ms": 212680,
+        "end_ms": 214680
+      },
+      {
+        "file": "videos/03875.mp4",
+        "start_ms": 160760,
+        "end_ms": 164360
+      },
+      {
+        "file": "videos/09515.mp4",
+        "start_ms": 167375,
+        "end_ms": 168500
+      },
+      {
+        "file": "videos/15814.mp4",
+        "start_ms": 212745,
+        "end_ms": 214614
+      },
+      {
+        "file": "videos/07474.mp4",
+        "start_ms": 253083,
+        "end_ms": 254041
+      },
+      {
+        "file": "videos/09874.mp4",
+        "start_ms": 115600,
+        "end_ms": 116440
+      },
+      {
+        "file": "videos/03869.mp4",
+        "start_ms": 255213,
+        "end_ms": 258341
+      },
+      {
+        "file": "videos/05895.mp4",
+        "start_ms": 56756,
+        "end_ms": 58591
+      },
+      {
+        "file": "videos/16970.mp4",
+        "start_ms": 334040,
+        "end_ms": 335200
+      },
+      {
+        "file": "videos/09874.mp4",
+        "start_ms": 116020,
+        "end_ms": 116020
+      },
+      {
+        "file": "videos/00367.mp4",
+        "start_ms": 1062227,
+        "end_ms": 1066190
+      },
+      {
+        "file": "videos/03869.mp4",
+        "start_ms": 255000,
+        "end_ms": 258000
+      },
+      {
+        "file": "videos/03869.mp4",
+        "start_ms": 256000,
+        "end_ms": 256001
+      },
+      {
+        "file": "videos/14410.mp4",
+        "start_ms": 227000,
+        "end_ms": 227001
+      },
+      {
+        "file": "videos/09484.mp4",
+        "start_ms": 209000,
+        "end_ms": 213000
+      },
+      {
+        "file": "videos/03869.mp4",
+        "start_ms": 256777,
+        "end_ms": 256777
+      },
+      {
+        "file": "videos/05693.mp4",
+        "start_ms": 188500,
+        "end_ms": 190500
+      },
+      {
+        "file": "videos/06147.mp4",
+        "start_ms": 136000,
+        "end_ms": 136001
+      },
+      {
+        "file": "videos/12274.mp4",
+        "start_ms": 162000,
+        "end_ms": 162001
+      },
+      {
+        "file": "videos/15026.mp4",
+        "start_ms": 184480,
+        "end_ms": 184840
+      },
+      {
+        "file": "videos/07474.mp4",
+        "start_ms": 253561,
+        "end_ms": 253561
+      },
+      {
+        "file": "videos/09484.mp4",
+        "start_ms": 209776,
+        "end_ms": 213746
+      },
+      {
+        "file": "videos/13109.mp4",
+        "start_ms": 246000,
+        "end_ms": 246001
+      },
+      {
+        "file": "videos/09874.mp4",
+        "start_ms": 116000,
+        "end_ms": 116001
+      },
+      {
+        "file": "videos/04252.mp4",
+        "start_ms": 121000,
+        "end_ms": 121001
+      },
+      {
+        "file": "videos/07474.mp4",
+        "start_ms": 253000,
+        "end_ms": 253001
+      },
+      {
+        "file": "videos/03875.mp4",
+        "start_ms": 214000,
+        "end_ms": 214001
+      },
+      {
+        "file": "videos/09036.mp4",
+        "start_ms": 33000,
+        "end_ms": 33001
+      },
+      {
+        "file": "videos/12662.mp4",
+        "start_ms": 138480,
+        "end_ms": 143200
+      },
+      {
+        "file": "videos/12274.mp4",
+        "start_ms": 161369,
+        "end_ms": 162245
+      },
+      {
+        "file": "videos/10244.mp4",
+        "start_ms": 97055,
+        "end_ms": 97055
+      },
+      {
+        "file": "videos/01808.mp4",
+        "start_ms": 297747,
+        "end_ms": 297747
+      },
+      {
+        "file": "videos/02654.mp4",
+        "start_ms": 41508,
+        "end_ms": 41908
+      },
+      {
+        "file": "videos/15814.mp4",
+        "start_ms": 213947,
+        "end_ms": 213947
+      },
+      {
+        "file": "videos/15026.mp4",
+        "start_ms": 184880,
+        "end_ms": 186280
+      },
+      {
+        "file": "videos/16008.mp4",
+        "start_ms": 1217600,
+        "end_ms": 1220240
+      },
+      {
+        "file": "videos/05693.mp4",
+        "start_ms": 188541,
+        "end_ms": 190500
+      },
+      {
+        "file": "videos/09474.mp4",
+        "start_ms": 97697,
+        "end_ms": 98098
+      },
+      {
+        "file": "videos/05709.mp4",
+        "start_ms": 131920,
+        "end_ms": 133120
+      },
+      {
+        "file": "videos/09474.mp4",
+        "start_ms": 93860,
+        "end_ms": 94327
+      },
+      {
+        "file": "videos/16112.mp4",
+        "start_ms": 197364,
+        "end_ms": 197664
+      },
+      {
+        "file": "videos/08566.mp4",
+        "start_ms": 178440,
+        "end_ms": 179700
+      },
+      {
+        "file": "videos/15358.mp4",
+        "start_ms": 136780,
+        "end_ms": 136780
+      },
+      {
+        "file": "videos/15026.mp4",
+        "start_ms": 184660,
+        "end_ms": 184660
+      },
+      {
+        "file": "videos/05986.mp4",
+        "start_ms": 161000,
+        "end_ms": 162000
+      },
+      {
+        "file": "videos/07474.mp4",
+        "start_ms": 253125,
+        "end_ms": 253125
+      },
+      {
+        "file": "videos/03875.mp4",
+        "start_ms": 215360,
+        "end_ms": 215360
+      },
+      {
+        "file": "videos/09515.mp4",
+        "start_ms": 153041,
+        "end_ms": 153041
+      },
+      {
+        "file": "videos/05895.mp4",
+        "start_ms": 58000,
+        "end_ms": 60000
+      },
+      {
+        "file": "videos/15814.mp4",
+        "start_ms": 213000,
+        "end_ms": 213001
+      },
+      {
+        "file": "videos/14325.mp4",
+        "start_ms": 313000,
+        "end_ms": 313001
+      },
+      {
+        "file": "videos/09474.mp4",
+        "start_ms": 93260,
+        "end_ms": 95260
+      },
+      {
+        "file": "videos/09036.mp4",
+        "start_ms": 33262,
+        "end_ms": 33262
+      },
+      {
+        "file": "videos/13925.mp4",
+        "start_ms": 56598,
+        "end_ms": 58641
+      },
+      {
+        "file": "videos/05596.mp4",
+        "start_ms": 173160,
+        "end_ms": 173960
+      },
+      {
+        "file": "videos/14982.mp4",
+        "start_ms": 1456496,
+        "end_ms": 1458540
+      },
+      {
+        "file": "videos/01577.mp4",
+        "start_ms": 100933,
+        "end_ms": 100933
+      },
+      {
+        "file": "videos/05986.mp4",
+        "start_ms": 161960,
+        "end_ms": 161960
+      },
+      {
+        "file": "videos/06147.mp4",
+        "start_ms": 134733,
+        "end_ms": 136733
+      },
+      {
+        "file": "videos/12274.mp4",
+        "start_ms": 161807,
+        "end_ms": 161807
+      },
+      {
+        "file": "videos/12274.mp4",
+        "start_ms": 183683,
+        "end_ms": 184225
+      },
+      {
+        "file": "videos/16976.mp4",
+        "start_ms": 108258,
+        "end_ms": 108258
+      },
+      {
+        "file": "videos/03875.mp4",
+        "start_ms": 214800,
+        "end_ms": 215920
+      },
+      {
+        "file": "videos/03875.mp4",
+        "start_ms": 215960,
+        "end_ms": 216640
+      },
+      {
+        "file": "videos/00151.mp4",
+        "start_ms": 366833,
+        "end_ms": 368701
+      },
+      {
+        "file": "videos/09474.mp4",
+        "start_ms": 94093,
+        "end_ms": 94093
+      },
+      {
+        "file": "videos/03875.mp4",
+        "start_ms": 216680,
+        "end_ms": 217240
+      },
+      {
+        "file": "videos/10193.mp4",
+        "start_ms": 160760,
+        "end_ms": 162760
+      },
+      {
+        "file": "videos/15026.mp4",
+        "start_ms": 183560,
+        "end_ms": 184440
+      },
+      {
+        "file": "videos/09484.mp4",
+        "start_ms": 210745,
+        "end_ms": 212745
+      },
+      {
+        "file": "videos/12274.mp4",
+        "start_ms": 161000,
+        "end_ms": 162000
+      },
+      {
+        "file": "videos/03878.mp4",
+        "start_ms": 92842,
+        "end_ms": 97222
+      },
+      {
+        "file": "videos/08960.mp4",
+        "start_ms": 513028,
+        "end_ms": 513028
+      },
+      {
+        "file": "videos/12725.mp4",
+        "start_ms": 5000,
+        "end_ms": 5001
+      },
+      {
+        "file": "videos/07474.mp4",
+        "start_ms": 254219,
+        "end_ms": 254221
+      },
+      {
+        "file": "videos/13109.mp4",
+        "start_ms": 245954,
+        "end_ms": 246496
+      },
+      {
+        "file": "videos/07474.mp4",
+        "start_ms": 237791,
+        "end_ms": 239041
+      },
+      {
+        "file": "videos/11890.mp4",
+        "start_ms": 177720,
+        "end_ms": 180400
+      },
+      {
+        "file": "videos/10018.mp4",
+        "start_ms": 95520,
+        "end_ms": 96000
+      },
+      {
+        "file": "videos/15026.mp4",
+        "start_ms": 23080,
+        "end_ms": 24440
+      },
+      {
+        "file": "videos/09874.mp4",
+        "start_ms": 115000,
+        "end_ms": 117000
+      },
+      {
+        "file": "videos/06391.mp4",
+        "start_ms": 214063,
+        "end_ms": 214063
+      },
+      {
+        "file": "videos/04553.mp4",
+        "start_ms": 37000,
+        "end_ms": 37001
+      },
+      {
+        "file": "videos/14231.mp4",
+        "start_ms": 611000,
+        "end_ms": 611001
+      },
+      {
+        "file": "videos/13118.mp4",
+        "start_ms": 83000,
+        "end_ms": 83001
+      },
+      {
+        "file": "videos/13118.mp4",
+        "start_ms": 82000,
+        "end_ms": 82001
+      },
+      {
+        "file": "videos/10193.mp4",
+        "start_ms": 151080,
+        "end_ms": 152240
+      },
+      {
+        "file": "videos/14231.mp4",
+        "start_ms": 610676,
+        "end_ms": 612878
+      },
+      {
+        "file": "videos/03869.mp4",
+        "start_ms": 255713,
+        "end_ms": 257713
+      },
+      {
+        "file": "videos/15814.mp4",
+        "start_ms": 213709,
+        "end_ms": 213709
+      },
+      {
+        "file": "videos/15026.mp4",
+        "start_ms": 23759,
+        "end_ms": 23759
+      },
+      {
+        "file": "videos/00030.mp4",
+        "start_ms": 176440,
+        "end_ms": 179320
+      },
+      {
+        "file": "videos/07981.mp4",
+        "start_ms": 69040,
+        "end_ms": 71560
+      },
+      {
+        "file": "videos/16342.mp4",
+        "start_ms": 782166,
+        "end_ms": 782791
+      },
+      {
+        "file": "videos/00030.mp4",
+        "start_ms": 114480,
+        "end_ms": 114480
+      },
+      {
+        "file": "videos/07981.mp4",
+        "start_ms": 69280,
+        "end_ms": 71280
+      },
+      {
+        "file": "videos/08323.mp4",
+        "start_ms": 283560,
+        "end_ms": 286160
+      },
+      {
+        "file": "videos/14231.mp4",
+        "start_ms": 610778,
+        "end_ms": 612778
+      },
+      {
+        "file": "videos/09484.mp4",
+        "start_ms": 211077,
+        "end_ms": 211077
+      },
+      {
+        "file": "videos/09484.mp4",
+        "start_ms": 210711,
+        "end_ms": 210713
+      },
+      {
+        "file": "videos/14231.mp4",
+        "start_ms": 611978,
+        "end_ms": 611978
+      },
+      {
+        "file": "videos/02654.mp4",
+        "start_ms": 38404,
+        "end_ms": 38404
+      },
+      {
+        "file": "videos/00002.mp4",
+        "start_ms": 119052,
+        "end_ms": 123123
+      },
+      {
+        "file": "videos/09484.mp4",
+        "start_ms": 235034,
+        "end_ms": 235034
+      },
+      {
+        "file": "videos/10193.mp4",
+        "start_ms": 151660,
+        "end_ms": 151660
+      },
+      {
+        "file": "videos/00002.mp4",
+        "start_ms": 119887,
+        "end_ms": 121887
+      },
+      {
+        "file": "videos/15823.mp4",
+        "start_ms": 7020,
+        "end_ms": 7020
+      }
+    ],
+    "rejected": [
+      {
+        "file": "videos/01824.mp4",
+        "start_ms": 324600,
+        "end_ms": 324600
+      },
+      {
+        "file": "videos/01824.mp4",
+        "start_ms": 327480,
+        "end_ms": 327480
+      },
+      {
+        "file": "videos/13876.mp4",
+        "start_ms": 86553,
+        "end_ms": 86920
+      },
+      {
+        "file": "videos/07781.mp4",
+        "start_ms": 207106,
+        "end_ms": 207807
+      },
+      {
+        "file": "videos/15814.mp4",
+        "start_ms": 212000,
+        "end_ms": 214000
+      },
+      {
+        "file": "videos/15498.mp4",
+        "start_ms": 147800,
+        "end_ms": 148760
+      },
+      {
+        "file": "videos/16545.mp4",
+        "start_ms": 158000,
+        "end_ms": 160000
+      },
+      {
+        "file": "videos/11827.mp4",
+        "start_ms": 1674105,
+        "end_ms": 1676207
+      },
+      {
+        "file": "videos/02628.mp4",
+        "start_ms": 84720,
+        "end_ms": 88920
+      },
+      {
+        "file": "videos/15235.mp4",
+        "start_ms": 24020,
+        "end_ms": 24780
+      },
+      {
+        "file": "videos/15814.mp4",
+        "start_ms": 213679,
+        "end_ms": 213679
+      },
+      {
+        "file": "videos/10244.mp4",
+        "start_ms": 109000,
+        "end_ms": 113000
+      },
+      {
+        "file": "videos/16540.mp4",
+        "start_ms": 397720,
+        "end_ms": 399360
+      },
+      {
+        "file": "videos/17157.mp4",
+        "start_ms": 89200,
+        "end_ms": 91960
+      },
+      {
+        "file": "videos/16008.mp4",
+        "start_ms": 1220280,
+        "end_ms": 1220480
+      },
+      {
+        "file": "videos/13876.mp4",
+        "start_ms": 83349,
+        "end_ms": 84217
+      },
+      {
+        "file": "videos/05895.mp4",
+        "start_ms": 55607,
+        "end_ms": 55609
+      },
+      {
+        "file": "videos/13925.mp4",
+        "start_ms": 163538,
+        "end_ms": 166583
+      },
+      {
+        "file": "videos/15358.mp4",
+        "start_ms": 134840,
+        "end_ms": 138720
+      },
+      {
+        "file": "videos/14982.mp4",
+        "start_ms": 2080828,
+        "end_ms": 2082914
+      },
+      {
+        "file": "videos/00641.mp4",
+        "start_ms": 166860,
+        "end_ms": 166860
+      },
+      {
+        "file": "videos/04021.mp4",
+        "start_ms": 252085,
+        "end_ms": 253953
+      },
+      {
+        "file": "videos/04372.mp4",
+        "start_ms": 55120,
+        "end_ms": 56280
+      },
+      {
+        "file": "videos/00290.mp4",
+        "start_ms": 72872,
+        "end_ms": 73239
+      },
+      {
+        "file": "videos/05895.mp4",
+        "start_ms": 53486,
+        "end_ms": 56723
+      },
+      {
+        "file": "videos/05352.mp4",
+        "start_ms": 115200,
+        "end_ms": 116133
+      },
+      {
+        "file": "videos/12517.mp4",
+        "start_ms": 77000,
+        "end_ms": 78000
+      },
+      {
+        "file": "videos/13473.mp4",
+        "start_ms": 323874,
+        "end_ms": 323874
+      },
+      {
+        "file": "videos/16545.mp4",
+        "start_ms": 153194,
+        "end_ms": 158783
+      },
+      {
+        "file": "videos/03875.mp4",
+        "start_ms": 78440,
+        "end_ms": 79960
+      },
+      {
+        "file": "videos/13534.mp4",
+        "start_ms": 144000,
+        "end_ms": 144001
+      },
+      {
+        "file": "videos/11809.mp4",
+        "start_ms": 390123,
+        "end_ms": 390123
+      },
+      {
+        "file": "videos/04996.mp4",
+        "start_ms": 119720,
+        "end_ms": 121800
+      },
+      {
+        "file": "videos/14428.mp4",
+        "start_ms": 400960,
+        "end_ms": 402320
+      },
+      {
+        "file": "videos/08777.mp4",
+        "start_ms": 204470,
+        "end_ms": 204804
+      },
+      {
+        "file": "videos/09474.mp4",
+        "start_ms": 175525,
+        "end_ms": 175525
+      },
+      {
+        "file": "videos/06600.mp4",
+        "start_ms": 151860,
+        "end_ms": 152986
+      },
+      {
+        "file": "videos/15358.mp4",
+        "start_ms": 193380,
+        "end_ms": 193380
+      },
+      {
+        "file": "videos/09028.mp4",
+        "start_ms": 297880,
+        "end_ms": 297880
+      },
+      {
+        "file": "videos/12077.mp4",
+        "start_ms": 88129,
+        "end_ms": 88963
+      },
+      {
+        "file": "videos/15932.mp4",
+        "start_ms": 1641320,
+        "end_ms": 1648440
+      },
+      {
+        "file": "videos/13876.mp4",
+        "start_ms": 76910,
+        "end_ms": 77644
+      },
+      {
+        "file": "videos/04553.mp4",
+        "start_ms": 36520,
+        "end_ms": 37480
+      },
+      {
+        "file": "videos/06364.mp4",
+        "start_ms": 149816,
+        "end_ms": 150150
+      },
+      {
+        "file": "videos/10058.mp4",
+        "start_ms": 218766,
+        "end_ms": 218766
+      },
+      {
+        "file": "videos/13876.mp4",
+        "start_ms": 82215,
+        "end_ms": 82615
+      },
+      {
+        "file": "videos/16731.mp4",
+        "start_ms": 150466,
+        "end_ms": 150934
+      },
+      {
+        "file": "videos/03638.mp4",
+        "start_ms": 125680,
+        "end_ms": 126800
+      },
+      {
+        "file": "videos/03831.mp4",
+        "start_ms": 117958,
+        "end_ms": 124125
+      },
+      {
+        "file": "videos/06147.mp4",
+        "start_ms": 170625,
+        "end_ms": 170625
+      },
+      {
+        "file": "videos/05352.mp4",
+        "start_ms": 57200,
+        "end_ms": 58133
+      },
+      {
+        "file": "videos/09531.mp4",
+        "start_ms": 157000,
+        "end_ms": 159000
+      },
+      {
+        "file": "videos/01424.mp4",
+        "start_ms": 70560,
+        "end_ms": 71400
+      },
+      {
+        "file": "videos/12707.mp4",
+        "start_ms": 135677,
+        "end_ms": 135969
+      },
+      {
+        "file": "videos/11505.mp4",
+        "start_ms": 44477,
+        "end_ms": 44711
+      },
+      {
+        "file": "videos/03875.mp4",
+        "start_ms": 162560,
+        "end_ms": 162560
+      },
+      {
+        "file": "videos/08662.mp4",
+        "start_ms": 18160,
+        "end_ms": 19120
+      },
+      {
+        "file": "videos/13876.mp4",
+        "start_ms": 82649,
+        "end_ms": 83249
+      },
+      {
+        "file": "videos/08676.mp4",
+        "start_ms": 593880,
+        "end_ms": 594200
+      },
+      {
+        "file": "videos/13876.mp4",
+        "start_ms": 83283,
+        "end_ms": 83316
+      },
+      {
+        "file": "videos/13876.mp4",
+        "start_ms": 84250,
+        "end_ms": 85418
+      },
+      {
+        "file": "videos/00876.mp4",
+        "start_ms": 61561,
+        "end_ms": 61686
+      },
+      {
+        "file": "videos/13876.mp4",
+        "start_ms": 85452,
+        "end_ms": 85885
+      },
+      {
+        "file": "videos/13876.mp4",
+        "start_ms": 85919,
+        "end_ms": 86519
+      },
+      {
+        "file": "videos/14947.mp4",
+        "start_ms": 114656,
+        "end_ms": 117951
+      },
+      {
+        "file": "videos/16937.mp4",
+        "start_ms": 285520,
+        "end_ms": 286160
+      },
+      {
+        "file": "videos/15026.mp4",
+        "start_ms": 8800,
+        "end_ms": 9240
+      },
+      {
+        "file": "videos/09396.mp4",
+        "start_ms": 93720,
+        "end_ms": 94440
+      },
+      {
+        "file": "videos/02053.mp4",
+        "start_ms": 316566,
+        "end_ms": 318067
+      },
+      {
+        "file": "videos/15469.mp4",
+        "start_ms": 94561,
+        "end_ms": 95095
+      },
+      {
+        "file": "videos/00194.mp4",
+        "start_ms": 165700,
+        "end_ms": 166333
+      },
+      {
+        "file": "videos/15026.mp4",
+        "start_ms": 9020,
+        "end_ms": 9020
+      },
+      {
+        "file": "videos/07474.mp4",
+        "start_ms": 0,
+        "end_ms": 2
+      },
+      {
+        "file": "videos/04187.mp4",
+        "start_ms": 60193,
+        "end_ms": 70303
+      },
+      {
+        "file": "videos/07652.mp4",
+        "start_ms": 20600,
+        "end_ms": 21280
+      },
+      {
+        "file": "videos/11008.mp4",
+        "start_ms": 113446,
+        "end_ms": 116241
+      },
+      {
+        "file": "videos/14346.mp4",
+        "start_ms": 828527,
+        "end_ms": 830095
+      },
+      {
+        "file": "videos/15026.mp4",
+        "start_ms": 9019,
+        "end_ms": 9019
+      },
+      {
+        "file": "videos/13556.mp4",
+        "start_ms": 303000,
+        "end_ms": 303001
+      },
+      {
+        "file": "videos/04973.mp4",
+        "start_ms": 94227,
+        "end_ms": 95261
+      },
+      {
+        "file": "videos/14311.mp4",
+        "start_ms": 124440,
+        "end_ms": 125080
+      },
+      {
+        "file": "videos/14311.mp4",
+        "start_ms": 125120,
+        "end_ms": 125920
+      },
+      {
+        "file": "videos/12722.mp4",
+        "start_ms": 32920,
+        "end_ms": 33560
+      },
+      {
+        "file": "videos/00119.mp4",
+        "start_ms": 1540760,
+        "end_ms": 1541040
+      },
+      {
+        "file": "videos/14147.mp4",
+        "start_ms": 407006,
+        "end_ms": 407140
+      },
+      {
+        "file": "videos/10633.mp4",
+        "start_ms": 76543,
+        "end_ms": 77377
+      },
+      {
+        "file": "videos/08021.mp4",
+        "start_ms": 167267,
+        "end_ms": 168034
+      },
+      {
+        "file": "videos/16646.mp4",
+        "start_ms": 166480,
+        "end_ms": 167440
+      },
+      {
+        "file": "videos/15026.mp4",
+        "start_ms": 166420,
+        "end_ms": 166420
+      },
+      {
+        "file": "videos/00197.mp4",
+        "start_ms": 169148,
+        "end_ms": 169148
+      },
+      {
+        "file": "videos/12725.mp4",
+        "start_ms": 4640,
+        "end_ms": 10040
+      },
+      {
+        "file": "videos/06579.mp4",
+        "start_ms": 239080,
+        "end_ms": 243920
+      },
+      {
+        "file": "videos/07847.mp4",
+        "start_ms": 58000,
+        "end_ms": 59000
+      },
+      {
+        "file": "videos/07139.mp4",
+        "start_ms": 13221,
+        "end_ms": 14431
+      },
+      {
+        "file": "videos/09515.mp4",
+        "start_ms": 167937,
+        "end_ms": 167937
+      },
+      {
+        "file": "videos/08206.mp4",
+        "start_ms": 1234960,
+        "end_ms": 1236360
+      },
+      {
+        "file": "videos/12331.mp4",
+        "start_ms": 94000,
+        "end_ms": 96000
+      },
+      {
+        "file": "videos/12610.mp4",
+        "start_ms": 189375,
+        "end_ms": 193166
+      },
+      {
+        "file": "videos/15026.mp4",
+        "start_ms": 184000,
+        "end_ms": 184000
+      },
+      {
+        "file": "videos/04411.mp4",
+        "start_ms": 9476,
+        "end_ms": 10143
+      },
+      {
+        "file": "videos/09279.mp4",
+        "start_ms": 53678,
+        "end_ms": 54220
+      },
+      {
+        "file": "videos/05021.mp4",
+        "start_ms": 151249,
+        "end_ms": 151249
+      },
+      {
+        "file": "videos/03676.mp4",
+        "start_ms": 243520,
+        "end_ms": 244040
+      },
+      {
+        "file": "videos/13876.mp4",
+        "start_ms": 82949,
+        "end_ms": 82949
+      },
+      {
+        "file": "videos/08578.mp4",
+        "start_ms": 1083582,
+        "end_ms": 1088087
+      },
+      {
+        "file": "videos/09222.mp4",
+        "start_ms": 81300,
+        "end_ms": 81300
+      },
+      {
+        "file": "videos/10019.mp4",
+        "start_ms": 505046,
+        "end_ms": 510134
+      },
+      {
+        "file": "videos/14539.mp4",
+        "start_ms": 1176240,
+        "end_ms": 1176640
+      },
+      {
+        "file": "videos/12010.mp4",
+        "start_ms": 150160,
+        "end_ms": 153720
+      },
+      {
+        "file": "videos/07077.mp4",
+        "start_ms": 40000,
+        "end_ms": 41633
+      },
+      {
+        "file": "videos/11009.mp4",
+        "start_ms": 463463,
+        "end_ms": 466257
+      },
+      {
+        "file": "videos/05442.mp4",
+        "start_ms": 23189,
+        "end_ms": 25792
+      },
+      {
+        "file": "videos/03484.mp4",
+        "start_ms": 65632,
+        "end_ms": 71571
+      },
+      {
+        "file": "videos/14311.mp4",
+        "start_ms": 74920,
+        "end_ms": 76760
+      },
+      {
+        "file": "videos/12009.mp4",
+        "start_ms": 279200,
+        "end_ms": 281680
+      },
+      {
+        "file": "videos/15026.mp4",
+        "start_ms": 8840,
+        "end_ms": 8840
+      },
+      {
+        "file": "videos/00674.mp4",
+        "start_ms": 45178,
+        "end_ms": 47080
+      },
+      {
+        "file": "videos/15621.mp4",
+        "start_ms": 92380,
+        "end_ms": 92380
+      },
+      {
+        "file": "videos/11859.mp4",
+        "start_ms": 174841,
+        "end_ms": 175208
+      },
+      {
+        "file": "videos/03989.mp4",
+        "start_ms": 179760,
+        "end_ms": 182520
+      },
+      {
+        "file": "videos/17120.mp4",
+        "start_ms": 158480,
+        "end_ms": 159880
+      },
+      {
+        "file": "videos/10369.mp4",
+        "start_ms": 304560,
+        "end_ms": 310400
+      },
+      {
+        "file": "videos/03327.mp4",
+        "start_ms": 12800,
+        "end_ms": 14520
+      },
+      {
+        "file": "videos/15358.mp4",
+        "start_ms": 191240,
+        "end_ms": 195520
+      },
+      {
+        "file": "videos/13473.mp4",
+        "start_ms": 328249,
+        "end_ms": 328249
+      },
+      {
+        "file": "videos/15498.mp4",
+        "start_ms": 148000,
+        "end_ms": 148001
+      },
+      {
+        "file": "videos/16025.mp4",
+        "start_ms": 1425000,
+        "end_ms": 1425001
+      },
+      {
+        "file": "videos/03676.mp4",
+        "start_ms": 243000,
+        "end_ms": 243001
+      },
+      {
+        "file": "videos/09515.mp4",
+        "start_ms": 162000,
+        "end_ms": 162001
+      },
+      {
+        "file": "videos/14292.mp4",
+        "start_ms": 1591389,
+        "end_ms": 1592390
+      },
+      {
+        "file": "videos/13876.mp4",
+        "start_ms": 124891,
+        "end_ms": 124958
+      },
+      {
+        "file": "videos/14899.mp4",
+        "start_ms": 1673254,
+        "end_ms": 1678468
+      },
+      {
+        "file": "videos/12331.mp4",
+        "start_ms": 95136,
+        "end_ms": 95136
+      },
+      {
+        "file": "videos/04175.mp4",
+        "start_ms": 214333,
+        "end_ms": 214900
+      },
+      {
+        "file": "videos/16937.mp4",
+        "start_ms": 180080,
+        "end_ms": 185120
+      },
+      {
+        "file": "videos/16285.mp4",
+        "start_ms": 101367,
+        "end_ms": 108408
+      },
+      {
+        "file": "videos/10247.mp4",
+        "start_ms": 38872,
+        "end_ms": 43960
+      },
+      {
+        "file": "videos/09531.mp4",
+        "start_ms": 157782,
+        "end_ms": 159117
+      },
+      {
+        "file": "videos/15814.mp4",
+        "start_ms": 210710,
+        "end_ms": 210710
+      },
+      {
+        "file": "videos/02211.mp4",
+        "start_ms": 75742,
+        "end_ms": 77452
+      },
+      {
+        "file": "videos/01424.mp4",
+        "start_ms": 150200,
+        "end_ms": 151160
+      },
+      {
+        "file": "videos/04773.mp4",
+        "start_ms": 113280,
+        "end_ms": 121760
+      },
+      {
+        "file": "videos/06167.mp4",
+        "start_ms": 660291,
+        "end_ms": 661625
+      },
+      {
+        "file": "videos/05437.mp4",
+        "start_ms": 80847,
+        "end_ms": 82749
+      },
+      {
+        "file": "videos/03278.mp4",
+        "start_ms": 679200,
+        "end_ms": 679880
+      },
+      {
+        "file": "videos/10019.mp4",
+        "start_ms": 501626,
+        "end_ms": 504545
+      },
+      {
+        "file": "videos/06646.mp4",
+        "start_ms": 154921,
+        "end_ms": 156456
+      },
+      {
+        "file": "videos/06841.mp4",
+        "start_ms": 167360,
+        "end_ms": 167960
+      },
+      {
+        "file": "videos/12180.mp4",
+        "start_ms": 21640,
+        "end_ms": 23320
+      },
+      {
+        "file": "videos/04040.mp4",
+        "start_ms": 274480,
+        "end_ms": 277000
+      },
+      {
+        "file": "videos/05053.mp4",
+        "start_ms": 296337,
+        "end_ms": 296713
+      },
+      {
+        "file": "videos/06720.mp4",
+        "start_ms": 1306972,
+        "end_ms": 1309266
+      },
+      {
+        "file": "videos/15328.mp4",
+        "start_ms": 634233,
+        "end_ms": 634333
+      },
+      {
+        "file": "videos/09102.mp4",
+        "start_ms": 148680,
+        "end_ms": 155480
+      },
+      {
+        "file": "videos/14139.mp4",
+        "start_ms": 257390,
+        "end_ms": 257390
+      },
+      {
+        "file": "videos/02725.mp4",
+        "start_ms": 191658,
+        "end_ms": 192859
+      },
+      {
+        "file": "videos/12331.mp4",
+        "start_ms": 94135,
+        "end_ms": 96346
+      },
+      {
+        "file": "videos/09515.mp4",
+        "start_ms": 115249,
+        "end_ms": 115249
+      },
+      {
+        "file": "videos/00219.mp4",
+        "start_ms": 87920,
+        "end_ms": 88320
+      },
+      {
+        "file": "videos/15835.mp4",
+        "start_ms": 1080640,
+        "end_ms": 1085200
+      },
+      {
+        "file": "videos/14899.mp4",
+        "start_ms": 526150,
+        "end_ms": 526943
+      },
+      {
+        "file": "videos/16029.mp4",
+        "start_ms": 92759,
+        "end_ms": 95662
+      },
+      {
+        "file": "videos/03397.mp4",
+        "start_ms": 36820,
+        "end_ms": 36820
+      },
+      {
+        "file": "videos/07963.mp4",
+        "start_ms": 726040,
+        "end_ms": 728440
+      },
+      {
+        "file": "videos/09515.mp4",
+        "start_ms": 163000,
+        "end_ms": 163001
+      },
+      {
+        "file": "videos/00585.mp4",
+        "start_ms": 274640,
+        "end_ms": 275840
+      },
+      {
+        "file": "videos/09515.mp4",
+        "start_ms": 112812,
+        "end_ms": 112812
+      },
+      {
+        "file": "videos/06338.mp4",
+        "start_ms": 176000,
+        "end_ms": 180000
+      }
+    ]
+  },
+  {
+    "name": "vbs24-avs7",
+    "accepted": [
+      {
+        "file": "videos/15498.mp4",
+        "start_ms": 175560,
+        "end_ms": 176560
+      },
+      {
+        "file": "videos/04897.mp4",
+        "start_ms": 134840,
+        "end_ms": 136440
+      }
+    ],
+    "rejected": [
+      {
+        "file": "videos/06874.mp4",
+        "start_ms": 162533,
+        "end_ms": 165033
+      },
+      {
+        "file": "videos/05303.mp4",
+        "start_ms": 43410,
+        "end_ms": 43777
+      },
+      {
+        "file": "videos/11536.mp4",
+        "start_ms": 113822,
+        "end_ms": 114614
+      },
+      {
+        "file": "videos/00638.mp4",
+        "start_ms": 158800,
+        "end_ms": 159120
+      },
+      {
+        "file": "videos/00638.mp4",
+        "start_ms": 46680,
+        "end_ms": 47000
+      },
+      {
+        "file": "videos/09351.mp4",
+        "start_ms": 237839,
+        "end_ms": 237841
+      },
+      {
+        "file": "videos/00638.mp4",
+        "start_ms": 157000,
+        "end_ms": 157760
+      },
+      {
+        "file": "videos/05737.mp4",
+        "start_ms": 37170,
+        "end_ms": 37637
+      },
+      {
+        "file": "videos/16857.mp4",
+        "start_ms": 93193,
+        "end_ms": 93993
+      },
+      {
+        "file": "videos/11453.mp4",
+        "start_ms": 79946,
+        "end_ms": 79946
+      },
+      {
+        "file": "videos/16857.mp4",
+        "start_ms": 85085,
+        "end_ms": 88088
+      },
+      {
+        "file": "videos/00638.mp4",
+        "start_ms": 44880,
+        "end_ms": 45640
+      },
+      {
+        "file": "videos/02118.mp4",
+        "start_ms": 105230,
+        "end_ms": 105855
+      },
+      {
+        "file": "videos/12836.mp4",
+        "start_ms": 151752,
+        "end_ms": 151752
+      },
+      {
+        "file": "videos/06354.mp4",
+        "start_ms": 136402,
+        "end_ms": 139839
+      },
+      {
+        "file": "videos/05999.mp4",
+        "start_ms": 1211877,
+        "end_ms": 1212002
+      },
+      {
+        "file": "videos/10401.mp4",
+        "start_ms": 1069618,
+        "end_ms": 1069618
+      },
+      {
+        "file": "videos/02275.mp4",
+        "start_ms": 310800,
+        "end_ms": 311520
+      },
+      {
+        "file": "videos/15498.mp4",
+        "start_ms": 176060,
+        "end_ms": 176060
+      },
+      {
+        "file": "videos/08482.mp4",
+        "start_ms": 43176,
+        "end_ms": 43176
+      },
+      {
+        "file": "videos/15940.mp4",
+        "start_ms": 478208,
+        "end_ms": 479791
+      },
+      {
+        "file": "videos/11945.mp4",
+        "start_ms": 427301,
+        "end_ms": 428886
+      },
+      {
+        "file": "videos/06629.mp4",
+        "start_ms": 524000,
+        "end_ms": 526000
+      },
+      {
+        "file": "videos/06874.mp4",
+        "start_ms": 158466,
+        "end_ms": 158466
+      },
+      {
+        "file": "videos/03449.mp4",
+        "start_ms": 30488,
+        "end_ms": 49174
+      },
+      {
+        "file": "videos/09153.mp4",
+        "start_ms": 192000,
+        "end_ms": 200000
+      },
+      {
+        "file": "videos/09351.mp4",
+        "start_ms": 239593,
+        "end_ms": 239593
+      },
+      {
+        "file": "videos/06748.mp4",
+        "start_ms": 131240,
+        "end_ms": 135480
+      },
+      {
+        "file": "videos/05346.mp4",
+        "start_ms": 47366,
+        "end_ms": 47366
+      },
+      {
+        "file": "videos/14410.mp4",
+        "start_ms": 251317,
+        "end_ms": 251317
+      },
+      {
+        "file": "videos/12274.mp4",
+        "start_ms": 166124,
+        "end_ms": 166249
+      },
+      {
+        "file": "videos/00638.mp4",
+        "start_ms": 155080,
+        "end_ms": 156280
+      },
+      {
+        "file": "videos/03374.mp4",
+        "start_ms": 191540,
+        "end_ms": 191540
+      },
+      {
+        "file": "videos/15119.mp4",
+        "start_ms": 474320,
+        "end_ms": 479120
+      },
+      {
+        "file": "videos/12126.mp4",
+        "start_ms": 419377,
+        "end_ms": 424924
+      },
+      {
+        "file": "videos/12713.mp4",
+        "start_ms": 314066,
+        "end_ms": 314400
+      },
+      {
+        "file": "videos/16456.mp4",
+        "start_ms": 118218,
+        "end_ms": 118485
+      },
+      {
+        "file": "videos/06421.mp4",
+        "start_ms": 198781,
+        "end_ms": 199490
+      },
+      {
+        "file": "videos/07510.mp4",
+        "start_ms": 91080,
+        "end_ms": 91880
+      },
+      {
+        "file": "videos/13876.mp4",
+        "start_ms": 86219,
+        "end_ms": 86219
+      },
+      {
+        "file": "videos/13876.mp4",
+        "start_ms": 85668,
+        "end_ms": 85668
+      },
+      {
+        "file": "videos/16232.mp4",
+        "start_ms": 6047,
+        "end_ms": 6047
+      },
+      {
+        "file": "videos/08578.mp4",
+        "start_ms": 1085834,
+        "end_ms": 1085834
+      },
+      {
+        "file": "videos/16232.mp4",
+        "start_ms": 6010,
+        "end_ms": 6012
+      },
+      {
+        "file": "videos/12155.mp4",
+        "start_ms": 623520,
+        "end_ms": 623880
+      },
+      {
+        "file": "videos/03728.mp4",
+        "start_ms": 557323,
+        "end_ms": 559091
+      },
+      {
+        "file": "videos/07722.mp4",
+        "start_ms": 1433,
+        "end_ms": 8866
+      },
+      {
+        "file": "videos/00876.mp4",
+        "start_ms": 72781,
+        "end_ms": 73198
+      },
+      {
+        "file": "videos/02725.mp4",
+        "start_ms": 202502,
+        "end_ms": 202502
+      },
+      {
+        "file": "videos/13727.mp4",
+        "start_ms": 491520,
+        "end_ms": 493800
+      },
+      {
+        "file": "videos/03710.mp4",
+        "start_ms": 81400,
+        "end_ms": 83520
+      }
+    ]
+  },
+  {
+    "name": "vbs24-avs8",
+    "accepted": [
+      {
+        "file": "videos/03124.mp4",
+        "start_ms": 5600,
+        "end_ms": 12240
+      },
+      {
+        "file": "videos/02801.mp4",
+        "start_ms": 36466,
+        "end_ms": 36468
+      },
+      {
+        "file": "videos/15559.mp4",
+        "start_ms": 19853,
+        "end_ms": 24357
+      },
+      {
+        "file": "videos/17106.mp4",
+        "start_ms": 175160,
+        "end_ms": 176840
+      },
+      {
+        "file": "videos/05526.mp4",
+        "start_ms": 205960,
+        "end_ms": 208880
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 197700,
+        "end_ms": 197700
+      },
+      {
+        "file": "videos/07478.mp4",
+        "start_ms": 47614,
+        "end_ms": 49949
+      },
+      {
+        "file": "videos/13352.mp4",
+        "start_ms": 194894,
+        "end_ms": 197697
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 680312,
+        "end_ms": 681147
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 680000,
+        "end_ms": 681000
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 680729,
+        "end_ms": 680729
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 1212240,
+        "end_ms": 1212240
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 43000,
+        "end_ms": 43000
+      },
+      {
+        "file": "videos/17106.mp4",
+        "start_ms": 175000,
+        "end_ms": 176000
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 197000,
+        "end_ms": 198000
+      },
+      {
+        "file": "videos/03201.mp4",
+        "start_ms": 60268,
+        "end_ms": 60769
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 793866,
+        "end_ms": 794066
+      },
+      {
+        "file": "videos/16213.mp4",
+        "start_ms": 24240,
+        "end_ms": 24240
+      },
+      {
+        "file": "videos/13655.mp4",
+        "start_ms": 8540,
+        "end_ms": 8540
+      },
+      {
+        "file": "videos/15225.mp4",
+        "start_ms": 93226,
+        "end_ms": 95862
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 196660,
+        "end_ms": 196660
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 41640,
+        "end_ms": 44360
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 1219200,
+        "end_ms": 1219200
+      },
+      {
+        "file": "videos/06821.mp4",
+        "start_ms": 1052600,
+        "end_ms": 1055200
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 41000,
+        "end_ms": 44000
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 1213320,
+        "end_ms": 1213640
+      },
+      {
+        "file": "videos/03187.mp4",
+        "start_ms": 33679,
+        "end_ms": 33679
+      },
+      {
+        "file": "videos/07478.mp4",
+        "start_ms": 48781,
+        "end_ms": 48781
+      },
+      {
+        "file": "videos/17106.mp4",
+        "start_ms": 176000,
+        "end_ms": 176000
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 1213480,
+        "end_ms": 1213480
+      },
+      {
+        "file": "videos/03124.mp4",
+        "start_ms": 16980,
+        "end_ms": 16980
+      },
+      {
+        "file": "videos/02740.mp4",
+        "start_ms": 4720,
+        "end_ms": 5880
+      },
+      {
+        "file": "videos/02290.mp4",
+        "start_ms": 19000,
+        "end_ms": 22000
+      },
+      {
+        "file": "videos/04453.mp4",
+        "start_ms": 37391,
+        "end_ms": 37391
+      },
+      {
+        "file": "videos/00264.mp4",
+        "start_ms": 17000,
+        "end_ms": 20000
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 463963,
+        "end_ms": 465832
+      },
+      {
+        "file": "videos/03201.mp4",
+        "start_ms": 58933,
+        "end_ms": 59225
+      },
+      {
+        "file": "videos/03278.mp4",
+        "start_ms": 715000,
+        "end_ms": 718000
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 668520,
+        "end_ms": 671760
+      },
+      {
+        "file": "videos/07739.mp4",
+        "start_ms": 16662,
+        "end_ms": 16662
+      },
+      {
+        "file": "videos/11020.mp4",
+        "start_ms": 21854,
+        "end_ms": 21854
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 793966,
+        "end_ms": 793966
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 695494,
+        "end_ms": 696328
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 197280,
+        "end_ms": 198120
+      },
+      {
+        "file": "videos/13988.mp4",
+        "start_ms": 777360,
+        "end_ms": 777360
+      },
+      {
+        "file": "videos/13375.mp4",
+        "start_ms": 176200,
+        "end_ms": 178040
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 196080,
+        "end_ms": 197240
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 790949,
+        "end_ms": 790949
+      },
+      {
+        "file": "videos/02740.mp4",
+        "start_ms": 5000,
+        "end_ms": 6000
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 791699,
+        "end_ms": 791699
+      },
+      {
+        "file": "videos/00264.mp4",
+        "start_ms": 17517,
+        "end_ms": 20820
+      },
+      {
+        "file": "videos/00264.mp4",
+        "start_ms": 19168,
+        "end_ms": 19168
+      },
+      {
+        "file": "videos/03201.mp4",
+        "start_ms": 60518,
+        "end_ms": 60518
+      },
+      {
+        "file": "videos/11556.mp4",
+        "start_ms": 23070,
+        "end_ms": 23070
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 791349,
+        "end_ms": 791349
+      },
+      {
+        "file": "videos/15225.mp4",
+        "start_ms": 95895,
+        "end_ms": 96262
+      },
+      {
+        "file": "videos/15808.mp4",
+        "start_ms": 238020,
+        "end_ms": 238020
+      },
+      {
+        "file": "videos/07414.mp4",
+        "start_ms": 4796,
+        "end_ms": 4796
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 792899,
+        "end_ms": 792899
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 681681,
+        "end_ms": 681681
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 789083,
+        "end_ms": 789083
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 680992,
+        "end_ms": 680994
+      },
+      {
+        "file": "videos/16213.mp4",
+        "start_ms": 24224,
+        "end_ms": 24224
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 1212020,
+        "end_ms": 1212020
+      },
+      {
+        "file": "videos/03187.mp4",
+        "start_ms": 32000,
+        "end_ms": 34000
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 790549,
+        "end_ms": 790549
+      },
+      {
+        "file": "videos/16213.mp4",
+        "start_ms": 23957,
+        "end_ms": 24524
+      },
+      {
+        "file": "videos/02740.mp4",
+        "start_ms": 3040,
+        "end_ms": 4680
+      },
+      {
+        "file": "videos/03124.mp4",
+        "start_ms": 15840,
+        "end_ms": 18120
+      },
+      {
+        "file": "videos/14331.mp4",
+        "start_ms": 1420,
+        "end_ms": 1420
+      },
+      {
+        "file": "videos/11250.mp4",
+        "start_ms": 81460,
+        "end_ms": 81460
+      },
+      {
+        "file": "videos/05246.mp4",
+        "start_ms": 41395,
+        "end_ms": 41395
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 681697,
+        "end_ms": 681697
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 670140,
+        "end_ms": 670140
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 464897,
+        "end_ms": 464897
+      },
+      {
+        "file": "videos/08875.mp4",
+        "start_ms": 61427,
+        "end_ms": 61427
+      },
+      {
+        "file": "videos/12695.mp4",
+        "start_ms": 80740,
+        "end_ms": 80740
+      },
+      {
+        "file": "videos/13686.mp4",
+        "start_ms": 21100,
+        "end_ms": 21100
+      },
+      {
+        "file": "videos/05246.mp4",
+        "start_ms": 40727,
+        "end_ms": 40727
+      },
+      {
+        "file": "videos/07394.mp4",
+        "start_ms": 9195,
+        "end_ms": 9195
+      },
+      {
+        "file": "videos/02740.mp4",
+        "start_ms": 5300,
+        "end_ms": 5300
+      },
+      {
+        "file": "videos/05246.mp4",
+        "start_ms": 41394,
+        "end_ms": 41394
+      },
+      {
+        "file": "videos/15821.mp4",
+        "start_ms": 66666,
+        "end_ms": 73106
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 197680,
+        "end_ms": 197680
+      },
+      {
+        "file": "videos/02428.mp4",
+        "start_ms": 62120,
+        "end_ms": 65360
+      },
+      {
+        "file": "videos/15821.mp4",
+        "start_ms": 103069,
+        "end_ms": 104971
+      },
+      {
+        "file": "videos/00264.mp4",
+        "start_ms": 19152,
+        "end_ms": 19152
+      },
+      {
+        "file": "videos/03278.mp4",
+        "start_ms": 716660,
+        "end_ms": 716660
+      },
+      {
+        "file": "videos/11020.mp4",
+        "start_ms": 22147,
+        "end_ms": 23565
+      },
+      {
+        "file": "videos/11020.mp4",
+        "start_ms": 21604,
+        "end_ms": 22105
+      },
+      {
+        "file": "videos/16498.mp4",
+        "start_ms": 24607,
+        "end_ms": 26443
+      },
+      {
+        "file": "videos/12695.mp4",
+        "start_ms": 79120,
+        "end_ms": 82360
+      },
+      {
+        "file": "videos/14311.mp4",
+        "start_ms": 444320,
+        "end_ms": 445120
+      },
+      {
+        "file": "videos/05526.mp4",
+        "start_ms": 207420,
+        "end_ms": 207420
+      },
+      {
+        "file": "videos/03187.mp4",
+        "start_ms": 33680,
+        "end_ms": 33680
+      },
+      {
+        "file": "videos/08078.mp4",
+        "start_ms": 15500,
+        "end_ms": 17250
+      },
+      {
+        "file": "videos/07414.mp4",
+        "start_ms": 2000,
+        "end_ms": 6000
+      },
+      {
+        "file": "videos/02290.mp4",
+        "start_ms": 21104,
+        "end_ms": 21104
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 42880,
+        "end_ms": 42880
+      },
+      {
+        "file": "videos/15686.mp4",
+        "start_ms": 93479,
+        "end_ms": 93479
+      },
+      {
+        "file": "videos/07739.mp4",
+        "start_ms": 15000,
+        "end_ms": 17000
+      },
+      {
+        "file": "videos/00159.mp4",
+        "start_ms": 94960,
+        "end_ms": 95760
+      },
+      {
+        "file": "videos/07478.mp4",
+        "start_ms": 49983,
+        "end_ms": 50016
+      },
+      {
+        "file": "videos/13655.mp4",
+        "start_ms": 8120,
+        "end_ms": 8120
+      },
+      {
+        "file": "videos/14311.mp4",
+        "start_ms": 4800,
+        "end_ms": 4800
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 788100,
+        "end_ms": 790066
+      },
+      {
+        "file": "videos/17106.mp4",
+        "start_ms": 175700,
+        "end_ms": 175702
+      },
+      {
+        "file": "videos/11020.mp4",
+        "start_ms": 22856,
+        "end_ms": 22856
+      },
+      {
+        "file": "videos/05246.mp4",
+        "start_ms": 40999,
+        "end_ms": 41791
+      },
+      {
+        "file": "videos/08566.mp4",
+        "start_ms": 256709,
+        "end_ms": 256709
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 790100,
+        "end_ms": 790433
+      },
+      {
+        "file": "videos/15225.mp4",
+        "start_ms": 94544,
+        "end_ms": 94544
+      },
+      {
+        "file": "videos/08566.mp4",
+        "start_ms": 256000,
+        "end_ms": 256001
+      },
+      {
+        "file": "videos/15225.mp4",
+        "start_ms": 94000,
+        "end_ms": 94001
+      },
+      {
+        "file": "videos/15225.mp4",
+        "start_ms": 131564,
+        "end_ms": 131564
+      },
+      {
+        "file": "videos/03187.mp4",
+        "start_ms": 33000,
+        "end_ms": 33001
+      },
+      {
+        "file": "videos/00264.mp4",
+        "start_ms": 19000,
+        "end_ms": 19001
+      },
+      {
+        "file": "videos/08875.mp4",
+        "start_ms": 61000,
+        "end_ms": 61001
+      },
+      {
+        "file": "videos/16213.mp4",
+        "start_ms": 24000,
+        "end_ms": 24001
+      },
+      {
+        "file": "videos/02740.mp4",
+        "start_ms": 5000,
+        "end_ms": 5001
+      },
+      {
+        "file": "videos/13238.mp4",
+        "start_ms": 135000,
+        "end_ms": 135001
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 790266,
+        "end_ms": 790266
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 43000,
+        "end_ms": 43001
+      },
+      {
+        "file": "videos/07478.mp4",
+        "start_ms": 48000,
+        "end_ms": 48001
+      },
+      {
+        "file": "videos/03278.mp4",
+        "start_ms": 715000,
+        "end_ms": 715001
+      },
+      {
+        "file": "videos/07394.mp4",
+        "start_ms": 9000,
+        "end_ms": 9001
+      },
+      {
+        "file": "videos/05246.mp4",
+        "start_ms": 41000,
+        "end_ms": 41001
+      },
+      {
+        "file": "videos/01071.mp4",
+        "start_ms": 7000,
+        "end_ms": 7001
+      },
+      {
+        "file": "videos/03124.mp4",
+        "start_ms": 11000,
+        "end_ms": 11001
+      },
+      {
+        "file": "videos/17106.mp4",
+        "start_ms": 176000,
+        "end_ms": 176001
+      },
+      {
+        "file": "videos/15342.mp4",
+        "start_ms": 7000,
+        "end_ms": 9120
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 789000,
+        "end_ms": 789001
+      },
+      {
+        "file": "videos/11020.mp4",
+        "start_ms": 41000,
+        "end_ms": 41001
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 790466,
+        "end_ms": 790633
+      },
+      {
+        "file": "videos/08875.mp4",
+        "start_ms": 60693,
+        "end_ms": 62162
+      },
+      {
+        "file": "videos/09278.mp4",
+        "start_ms": 760559,
+        "end_ms": 763362
+      },
+      {
+        "file": "videos/03124.mp4",
+        "start_ms": 8920,
+        "end_ms": 8920
+      },
+      {
+        "file": "videos/07478.mp4",
+        "start_ms": 48782,
+        "end_ms": 48782
+      },
+      {
+        "file": "videos/07414.mp4",
+        "start_ms": 2835,
+        "end_ms": 2835
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 790666,
+        "end_ms": 791233
+      },
+      {
+        "file": "videos/02290.mp4",
+        "start_ms": 19811,
+        "end_ms": 22397
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 681180,
+        "end_ms": 682214
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 791266,
+        "end_ms": 791433
+      },
+      {
+        "file": "videos/15821.mp4",
+        "start_ms": 36236,
+        "end_ms": 41408
+      },
+      {
+        "file": "videos/11594.mp4",
+        "start_ms": 11179,
+        "end_ms": 11179
+      },
+      {
+        "file": "videos/04453.mp4",
+        "start_ms": 36494,
+        "end_ms": 38288
+      },
+      {
+        "file": "videos/08563.mp4",
+        "start_ms": 274000,
+        "end_ms": 277933
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 791466,
+        "end_ms": 791933
+      },
+      {
+        "file": "videos/02740.mp4",
+        "start_ms": 5920,
+        "end_ms": 6520
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 197890,
+        "end_ms": 197892
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 791966,
+        "end_ms": 793833
+      },
+      {
+        "file": "videos/02290.mp4",
+        "start_ms": 21100,
+        "end_ms": 21100
+      },
+      {
+        "file": "videos/11020.mp4",
+        "start_ms": 41833,
+        "end_ms": 41833
+      },
+      {
+        "file": "videos/17103.mp4",
+        "start_ms": 409740,
+        "end_ms": 409740
+      },
+      {
+        "file": "videos/13988.mp4",
+        "start_ms": 776720,
+        "end_ms": 778000
+      },
+      {
+        "file": "videos/03187.mp4",
+        "start_ms": 32440,
+        "end_ms": 34920
+      },
+      {
+        "file": "videos/13477.mp4",
+        "start_ms": 200233,
+        "end_ms": 201166
+      },
+      {
+        "file": "videos/07478.mp4",
+        "start_ms": 49999,
+        "end_ms": 49999
+      },
+      {
+        "file": "videos/09335.mp4",
+        "start_ms": 14241,
+        "end_ms": 14243
+      },
+      {
+        "file": "videos/07394.mp4",
+        "start_ms": 9174,
+        "end_ms": 9174
+      },
+      {
+        "file": "videos/11556.mp4",
+        "start_ms": 15820,
+        "end_ms": 30320
+      },
+      {
+        "file": "videos/01071.mp4",
+        "start_ms": 7440,
+        "end_ms": 7440
+      },
+      {
+        "file": "videos/15342.mp4",
+        "start_ms": 7040,
+        "end_ms": 7040
+      },
+      {
+        "file": "videos/00226.mp4",
+        "start_ms": 178052,
+        "end_ms": 183099
+      },
+      {
+        "file": "videos/02740.mp4",
+        "start_ms": 6220,
+        "end_ms": 6220
+      },
+      {
+        "file": "videos/01071.mp4",
+        "start_ms": 7459,
+        "end_ms": 7459
+      },
+      {
+        "file": "videos/15342.mp4",
+        "start_ms": 8059,
+        "end_ms": 8059
+      },
+      {
+        "file": "videos/11020.mp4",
+        "start_ms": 40832,
+        "end_ms": 42834
+      },
+      {
+        "file": "videos/14311.mp4",
+        "start_ms": 56000,
+        "end_ms": 56001
+      },
+      {
+        "file": "videos/15821.mp4",
+        "start_ms": 38822,
+        "end_ms": 38822
+      },
+      {
+        "file": "videos/11020.mp4",
+        "start_ms": 41826,
+        "end_ms": 41826
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 197800,
+        "end_ms": 197800
+      },
+      {
+        "file": "videos/16774.mp4",
+        "start_ms": 250984,
+        "end_ms": 250984
+      },
+      {
+        "file": "videos/16498.mp4",
+        "start_ms": 25525,
+        "end_ms": 25525
+      },
+      {
+        "file": "videos/14311.mp4",
+        "start_ms": 56060,
+        "end_ms": 56060
+      },
+      {
+        "file": "videos/17103.mp4",
+        "start_ms": 409200,
+        "end_ms": 409200
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 50660,
+        "end_ms": 50660
+      },
+      {
+        "file": "videos/08875.mp4",
+        "start_ms": 61428,
+        "end_ms": 61428
+      },
+      {
+        "file": "videos/17103.mp4",
+        "start_ms": 408720,
+        "end_ms": 410760
+      },
+      {
+        "file": "videos/07394.mp4",
+        "start_ms": 8091,
+        "end_ms": 10301
+      },
+      {
+        "file": "videos/13352.mp4",
+        "start_ms": 192592,
+        "end_ms": 194861
+      },
+      {
+        "file": "videos/07414.mp4",
+        "start_ms": 2961,
+        "end_ms": 6631
+      },
+      {
+        "file": "videos/01808.mp4",
+        "start_ms": 867,
+        "end_ms": 2402
+      },
+      {
+        "file": "videos/04453.mp4",
+        "start_ms": 36000,
+        "end_ms": 38000
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 681819,
+        "end_ms": 681821
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 49360,
+        "end_ms": 51960
+      },
+      {
+        "file": "videos/02801.mp4",
+        "start_ms": 36202,
+        "end_ms": 36202
+      },
+      {
+        "file": "videos/02290.mp4",
+        "start_ms": 19853,
+        "end_ms": 19853
+      },
+      {
+        "file": "videos/02740.mp4",
+        "start_ms": 3860,
+        "end_ms": 3860
+      },
+      {
+        "file": "videos/12695.mp4",
+        "start_ms": 81167,
+        "end_ms": 81169
+      },
+      {
+        "file": "videos/07394.mp4",
+        "start_ms": 8090,
+        "end_ms": 10301
+      },
+      {
+        "file": "videos/16213.mp4",
+        "start_ms": 24433,
+        "end_ms": 24435
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 700800,
+        "end_ms": 702068
+      },
+      {
+        "file": "videos/08566.mp4",
+        "start_ms": 254140,
+        "end_ms": 259279
+      },
+      {
+        "file": "videos/02801.mp4",
+        "start_ms": 33800,
+        "end_ms": 33800
+      },
+      {
+        "file": "videos/13375.mp4",
+        "start_ms": 177120,
+        "end_ms": 177120
+      },
+      {
+        "file": "videos/03124.mp4",
+        "start_ms": 5000,
+        "end_ms": 12000
+      },
+      {
+        "file": "videos/01071.mp4",
+        "start_ms": 6720,
+        "end_ms": 8200
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 681327,
+        "end_ms": 681329
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 1211200,
+        "end_ms": 1212840
+      },
+      {
+        "file": "videos/05246.mp4",
+        "start_ms": 40498,
+        "end_ms": 40957
+      },
+      {
+        "file": "videos/02801.mp4",
+        "start_ms": 35668,
+        "end_ms": 35668
+      },
+      {
+        "file": "videos/04575.mp4",
+        "start_ms": 149691,
+        "end_ms": 150567
+      },
+      {
+        "file": "videos/17106.mp4",
+        "start_ms": 176654,
+        "end_ms": 176656
+      },
+      {
+        "file": "videos/15225.mp4",
+        "start_ms": 131865,
+        "end_ms": 132532
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 696933,
+        "end_ms": 696935
+      },
+      {
+        "file": "videos/03201.mp4",
+        "start_ms": 59267,
+        "end_ms": 59726
+      },
+      {
+        "file": "videos/11594.mp4",
+        "start_ms": 10320,
+        "end_ms": 10320
+      },
+      {
+        "file": "videos/15225.mp4",
+        "start_ms": 93827,
+        "end_ms": 93827
+      },
+      {
+        "file": "videos/03278.mp4",
+        "start_ms": 457720,
+        "end_ms": 462600
+      },
+      {
+        "file": "videos/02801.mp4",
+        "start_ms": 34417,
+        "end_ms": 34417
+      },
+      {
+        "file": "videos/07414.mp4",
+        "start_ms": 4670,
+        "end_ms": 4670
+      },
+      {
+        "file": "videos/15225.mp4",
+        "start_ms": 95161,
+        "end_ms": 95161
+      },
+      {
+        "file": "videos/07739.mp4",
+        "start_ms": 15807,
+        "end_ms": 17517
+      },
+      {
+        "file": "videos/03124.mp4",
+        "start_ms": 18160,
+        "end_ms": 19240
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 42194,
+        "end_ms": 42196
+      },
+      {
+        "file": "videos/03278.mp4",
+        "start_ms": 716640,
+        "end_ms": 716640
+      },
+      {
+        "file": "videos/03187.mp4",
+        "start_ms": 32680,
+        "end_ms": 34680
+      },
+      {
+        "file": "videos/03124.mp4",
+        "start_ms": 18700,
+        "end_ms": 18700
+      },
+      {
+        "file": "videos/10577.mp4",
+        "start_ms": 18000,
+        "end_ms": 18001
+      },
+      {
+        "file": "videos/15527.mp4",
+        "start_ms": 278000,
+        "end_ms": 278001
+      },
+      {
+        "file": "videos/00268.mp4",
+        "start_ms": 120000,
+        "end_ms": 120001
+      },
+      {
+        "file": "videos/14331.mp4",
+        "start_ms": 0,
+        "end_ms": 2000
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 42418,
+        "end_ms": 42420
+      },
+      {
+        "file": "videos/15686.mp4",
+        "start_ms": 101375,
+        "end_ms": 103375
+      },
+      {
+        "file": "videos/05246.mp4",
+        "start_ms": 41503,
+        "end_ms": 41505
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 197720,
+        "end_ms": 197720
+      },
+      {
+        "file": "videos/01071.mp4",
+        "start_ms": 6000,
+        "end_ms": 8000
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 1213680,
+        "end_ms": 1224720
+      },
+      {
+        "file": "videos/16821.mp4",
+        "start_ms": 60833,
+        "end_ms": 64750
+      },
+      {
+        "file": "videos/07394.mp4",
+        "start_ms": 9196,
+        "end_ms": 9196
+      },
+      {
+        "file": "videos/13352.mp4",
+        "start_ms": 1759724,
+        "end_ms": 1762093
+      },
+      {
+        "file": "videos/15808.mp4",
+        "start_ms": 236202,
+        "end_ms": 239839
+      },
+      {
+        "file": "videos/07783.mp4",
+        "start_ms": 294494,
+        "end_ms": 296663
+      },
+      {
+        "file": "videos/15821.mp4",
+        "start_ms": 104020,
+        "end_ms": 104020
+      },
+      {
+        "file": "videos/01071.mp4",
+        "start_ms": 7579,
+        "end_ms": 7581
+      },
+      {
+        "file": "videos/05246.mp4",
+        "start_ms": 40540,
+        "end_ms": 40540
+      },
+      {
+        "file": "videos/03278.mp4",
+        "start_ms": 715160,
+        "end_ms": 718160
+      },
+      {
+        "file": "videos/16774.mp4",
+        "start_ms": 247847,
+        "end_ms": 250984
+      },
+      {
+        "file": "videos/14311.mp4",
+        "start_ms": 3720,
+        "end_ms": 5880
+      },
+      {
+        "file": "videos/13352.mp4",
+        "start_ms": 196295,
+        "end_ms": 196295
+      },
+      {
+        "file": "videos/01071.mp4",
+        "start_ms": 7460,
+        "end_ms": 7460
+      },
+      {
+        "file": "videos/03201.mp4",
+        "start_ms": 59079,
+        "end_ms": 59079
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 1202000,
+        "end_ms": 1202000
+      },
+      {
+        "file": "videos/03053.mp4",
+        "start_ms": 86560,
+        "end_ms": 91480
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 42000,
+        "end_ms": 44000
+      },
+      {
+        "file": "videos/03187.mp4",
+        "start_ms": 33263,
+        "end_ms": 33265
+      },
+      {
+        "file": "videos/15225.mp4",
+        "start_ms": 96078,
+        "end_ms": 96078
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 465000,
+        "end_ms": 465001
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 681000,
+        "end_ms": 681001
+      },
+      {
+        "file": "videos/02740.mp4",
+        "start_ms": 6000,
+        "end_ms": 6001
+      },
+      {
+        "file": "videos/01071.mp4",
+        "start_ms": 7360,
+        "end_ms": 7360
+      },
+      {
+        "file": "videos/16213.mp4",
+        "start_ms": 23656,
+        "end_ms": 23656
+      },
+      {
+        "file": "videos/12505.mp4",
+        "start_ms": 77760,
+        "end_ms": 84400
+      },
+      {
+        "file": "videos/15527.mp4",
+        "start_ms": 278800,
+        "end_ms": 278800
+      },
+      {
+        "file": "videos/09912.mp4",
+        "start_ms": 434000,
+        "end_ms": 434001
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 1211000,
+        "end_ms": 1211001
+      },
+      {
+        "file": "videos/02740.mp4",
+        "start_ms": 5600,
+        "end_ms": 5600
+      },
+      {
+        "file": "videos/10069.mp4",
+        "start_ms": 436760,
+        "end_ms": 438960
+      },
+      {
+        "file": "videos/17106.mp4",
+        "start_ms": 176120,
+        "end_ms": 176120
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 792060,
+        "end_ms": 792062
+      },
+      {
+        "file": "videos/07739.mp4",
+        "start_ms": 16899,
+        "end_ms": 16901
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 792066,
+        "end_ms": 792066
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 701434,
+        "end_ms": 701434
+      },
+      {
+        "file": "videos/00159.mp4",
+        "start_ms": 95360,
+        "end_ms": 95360
+      },
+      {
+        "file": "videos/16213.mp4",
+        "start_ms": 24859,
+        "end_ms": 24861
+      },
+      {
+        "file": "videos/03187.mp4",
+        "start_ms": 32439,
+        "end_ms": 34920
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 789066,
+        "end_ms": 789066
+      },
+      {
+        "file": "videos/00077.mp4",
+        "start_ms": 12645,
+        "end_ms": 14147
+      },
+      {
+        "file": "videos/12695.mp4",
+        "start_ms": 79000,
+        "end_ms": 82000
+      },
+      {
+        "file": "videos/14331.mp4",
+        "start_ms": 1760,
+        "end_ms": 1762
+      },
+      {
+        "file": "videos/07394.mp4",
+        "start_ms": 8000,
+        "end_ms": 10000
+      },
+      {
+        "file": "videos/16774.mp4",
+        "start_ms": 249415,
+        "end_ms": 249415
+      },
+      {
+        "file": "videos/09335.mp4",
+        "start_ms": 18384,
+        "end_ms": 18384
+      },
+      {
+        "file": "videos/16133.mp4",
+        "start_ms": 19720,
+        "end_ms": 19720
+      },
+      {
+        "file": "videos/14311.mp4",
+        "start_ms": 444720,
+        "end_ms": 444720
+      },
+      {
+        "file": "videos/04751.mp4",
+        "start_ms": 11060,
+        "end_ms": 11060
+      },
+      {
+        "file": "videos/07783.mp4",
+        "start_ms": 295578,
+        "end_ms": 295578
+      },
+      {
+        "file": "videos/04751.mp4",
+        "start_ms": 13580,
+        "end_ms": 13580
+      },
+      {
+        "file": "videos/13352.mp4",
+        "start_ms": 1760908,
+        "end_ms": 1760908
+      },
+      {
+        "file": "videos/04751.mp4",
+        "start_ms": 12560,
+        "end_ms": 12560
+      },
+      {
+        "file": "videos/13352.mp4",
+        "start_ms": 193726,
+        "end_ms": 193726
+      },
+      {
+        "file": "videos/15342.mp4",
+        "start_ms": 8060,
+        "end_ms": 8060
+      },
+      {
+        "file": "videos/15821.mp4",
+        "start_ms": 102735,
+        "end_ms": 103036
+      },
+      {
+        "file": "videos/14331.mp4",
+        "start_ms": 520,
+        "end_ms": 2320
+      },
+      {
+        "file": "videos/01808.mp4",
+        "start_ms": 1634,
+        "end_ms": 1634
+      },
+      {
+        "file": "videos/06895.mp4",
+        "start_ms": 210000,
+        "end_ms": 211000
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 49000,
+        "end_ms": 51000
+      },
+      {
+        "file": "videos/13655.mp4",
+        "start_ms": 8200,
+        "end_ms": 8880
+      },
+      {
+        "file": "videos/00077.mp4",
+        "start_ms": 13396,
+        "end_ms": 13396
+      },
+      {
+        "file": "videos/03201.mp4",
+        "start_ms": 59524,
+        "end_ms": 59526
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 792000,
+        "end_ms": 792001
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 1216000,
+        "end_ms": 1216001
+      },
+      {
+        "file": "videos/04751.mp4",
+        "start_ms": 12000,
+        "end_ms": 12001
+      },
+      {
+        "file": "videos/03278.mp4",
+        "start_ms": 717000,
+        "end_ms": 717001
+      },
+      {
+        "file": "videos/06821.mp4",
+        "start_ms": 1053900,
+        "end_ms": 1053900
+      },
+      {
+        "file": "videos/07526.mp4",
+        "start_ms": 1568266,
+        "end_ms": 1569234
+      },
+      {
+        "file": "videos/03278.mp4",
+        "start_ms": 715640,
+        "end_ms": 717640
+      },
+      {
+        "file": "videos/15527.mp4",
+        "start_ms": 277360,
+        "end_ms": 280360
+      },
+      {
+        "file": "videos/12695.mp4",
+        "start_ms": 80920,
+        "end_ms": 80920
+      },
+      {
+        "file": "videos/03201.mp4",
+        "start_ms": 59768,
+        "end_ms": 60226
+      },
+      {
+        "file": "videos/07394.mp4",
+        "start_ms": 9175,
+        "end_ms": 9175
+      },
+      {
+        "file": "videos/04751.mp4",
+        "start_ms": 13440,
+        "end_ms": 13720
+      },
+      {
+        "file": "videos/16601.mp4",
+        "start_ms": 51340,
+        "end_ms": 51340
+      },
+      {
+        "file": "videos/16774.mp4",
+        "start_ms": 251134,
+        "end_ms": 251134
+      },
+      {
+        "file": "videos/02290.mp4",
+        "start_ms": 22000,
+        "end_ms": 22001
+      },
+      {
+        "file": "videos/15559.mp4",
+        "start_ms": 23000,
+        "end_ms": 23001
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 196000,
+        "end_ms": 196001
+      },
+      {
+        "file": "videos/15559.mp4",
+        "start_ms": 20833,
+        "end_ms": 20835
+      },
+      {
+        "file": "videos/15821.mp4",
+        "start_ms": 36000,
+        "end_ms": 41000
+      },
+      {
+        "file": "videos/08875.mp4",
+        "start_ms": 60428,
+        "end_ms": 62428
+      },
+      {
+        "file": "videos/16213.mp4",
+        "start_ms": 23957,
+        "end_ms": 23957
+      },
+      {
+        "file": "videos/12080.mp4",
+        "start_ms": 123923,
+        "end_ms": 135351
+      },
+      {
+        "file": "videos/08563.mp4",
+        "start_ms": 275966,
+        "end_ms": 275966
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 1268480,
+        "end_ms": 1268480
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 1213080,
+        "end_ms": 1213080
+      },
+      {
+        "file": "videos/07394.mp4",
+        "start_ms": 8133,
+        "end_ms": 8133
+      },
+      {
+        "file": "videos/11030.mp4",
+        "start_ms": 320593,
+        "end_ms": 320595
+      },
+      {
+        "file": "videos/15559.mp4",
+        "start_ms": 22105,
+        "end_ms": 22105
+      },
+      {
+        "file": "videos/05390.mp4",
+        "start_ms": 29966,
+        "end_ms": 46466
+      },
+      {
+        "file": "videos/16133.mp4",
+        "start_ms": 19000,
+        "end_ms": 19001
+      },
+      {
+        "file": "videos/13352.mp4",
+        "start_ms": 196000,
+        "end_ms": 196001
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 17440,
+        "end_ms": 17440
+      },
+      {
+        "file": "videos/02290.mp4",
+        "start_ms": 20100,
+        "end_ms": 22100
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 681047,
+        "end_ms": 681047
+      },
+      {
+        "file": "videos/08003.mp4",
+        "start_ms": 1396778,
+        "end_ms": 1396778
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 1212880,
+        "end_ms": 1213280
+      },
+      {
+        "file": "videos/17106.mp4",
+        "start_ms": 175800,
+        "end_ms": 175800
+      },
+      {
+        "file": "videos/11020.mp4",
+        "start_ms": 22534,
+        "end_ms": 22536
+      },
+      {
+        "file": "videos/16133.mp4",
+        "start_ms": 19280,
+        "end_ms": 20200
+      },
+      {
+        "file": "videos/16774.mp4",
+        "start_ms": 251017,
+        "end_ms": 251251
+      },
+      {
+        "file": "videos/16601.mp4",
+        "start_ms": 50320,
+        "end_ms": 50760
+      },
+      {
+        "file": "videos/02801.mp4",
+        "start_ms": 34784,
+        "end_ms": 34784
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 43160,
+        "end_ms": 43160
+      },
+      {
+        "file": "videos/02438.mp4",
+        "start_ms": 13080,
+        "end_ms": 13080
+      },
+      {
+        "file": "videos/02740.mp4",
+        "start_ms": 2480,
+        "end_ms": 3000
+      },
+      {
+        "file": "videos/02740.mp4",
+        "start_ms": 2240,
+        "end_ms": 2440
+      },
+      {
+        "file": "videos/03187.mp4",
+        "start_ms": 33760,
+        "end_ms": 33760
+      },
+      {
+        "file": "videos/13485.mp4",
+        "start_ms": 41659,
+        "end_ms": 41659
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 791000,
+        "end_ms": 793000
+      },
+      {
+        "file": "videos/02290.mp4",
+        "start_ms": 20983,
+        "end_ms": 20985
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 679714,
+        "end_ms": 681714
+      },
+      {
+        "file": "videos/02801.mp4",
+        "start_ms": 35969,
+        "end_ms": 36436
+      },
+      {
+        "file": "videos/13686.mp4",
+        "start_ms": 21000,
+        "end_ms": 21200
+      },
+      {
+        "file": "videos/07414.mp4",
+        "start_ms": 2752,
+        "end_ms": 2919
+      },
+      {
+        "file": "videos/03201.mp4",
+        "start_ms": 59496,
+        "end_ms": 59496
+      },
+      {
+        "file": "videos/16601.mp4",
+        "start_ms": 50000,
+        "end_ms": 51000
+      },
+      {
+        "file": "videos/16774.mp4",
+        "start_ms": 251000,
+        "end_ms": 251000
+      },
+      {
+        "file": "videos/11030.mp4",
+        "start_ms": 321680,
+        "end_ms": 321960
+      },
+      {
+        "file": "videos/03187.mp4",
+        "start_ms": 32479,
+        "end_ms": 32479
+      },
+      {
+        "file": "videos/16133.mp4",
+        "start_ms": 19740,
+        "end_ms": 19740
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 790500,
+        "end_ms": 790500
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 197320,
+        "end_ms": 197320
+      },
+      {
+        "file": "videos/13655.mp4",
+        "start_ms": 8920,
+        "end_ms": 9200
+      },
+      {
+        "file": "videos/16213.mp4",
+        "start_ms": 23990,
+        "end_ms": 23990
+      },
+      {
+        "file": "videos/03278.mp4",
+        "start_ms": 461480,
+        "end_ms": 461480
+      },
+      {
+        "file": "videos/13477.mp4",
+        "start_ms": 19000,
+        "end_ms": 19001
+      },
+      {
+        "file": "videos/02438.mp4",
+        "start_ms": 12000,
+        "end_ms": 12001
+      },
+      {
+        "file": "videos/15821.mp4",
+        "start_ms": 68735,
+        "end_ms": 68735
+      },
+      {
+        "file": "videos/03053.mp4",
+        "start_ms": 122320,
+        "end_ms": 132840
+      },
+      {
+        "file": "videos/16866.mp4",
+        "start_ms": 791500,
+        "end_ms": 791500
+      },
+      {
+        "file": "videos/02801.mp4",
+        "start_ms": 33533,
+        "end_ms": 34067
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 196680,
+        "end_ms": 198680
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 681000,
+        "end_ms": 682000
+      },
+      {
+        "file": "videos/05806.mp4",
+        "start_ms": 117871,
+        "end_ms": 117873
+      },
+      {
+        "file": "videos/07414.mp4",
+        "start_ms": 4000,
+        "end_ms": 4001
+      },
+      {
+        "file": "videos/15821.mp4",
+        "start_ms": 38000,
+        "end_ms": 38001
+      },
+      {
+        "file": "videos/11020.mp4",
+        "start_ms": 22000,
+        "end_ms": 22001
+      },
+      {
+        "file": "videos/02801.mp4",
+        "start_ms": 34601,
+        "end_ms": 34968
+      },
+      {
+        "file": "videos/16601.mp4",
+        "start_ms": 50800,
+        "end_ms": 51880
+      },
+      {
+        "file": "videos/02801.mp4",
+        "start_ms": 35402,
+        "end_ms": 35935
+      },
+      {
+        "file": "videos/08566.mp4",
+        "start_ms": 254140,
+        "end_ms": 259280
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 696533,
+        "end_ms": 696535
+      },
+      {
+        "file": "videos/11594.mp4",
+        "start_ms": 7440,
+        "end_ms": 10240
+      },
+      {
+        "file": "videos/15821.mp4",
+        "start_ms": 67000,
+        "end_ms": 67001
+      },
+      {
+        "file": "videos/15821.mp4",
+        "start_ms": 103000,
+        "end_ms": 103001
+      },
+      {
+        "file": "videos/12505.mp4",
+        "start_ms": 81000,
+        "end_ms": 81001
+      },
+      {
+        "file": "videos/15686.mp4",
+        "start_ms": 92875,
+        "end_ms": 94083
+      },
+      {
+        "file": "videos/15727.mp4",
+        "start_ms": 297458,
+        "end_ms": 303500
+      },
+      {
+        "file": "videos/01208.mp4",
+        "start_ms": 679695,
+        "end_ms": 679695
+      },
+      {
+        "file": "videos/13988.mp4",
+        "start_ms": 777000,
+        "end_ms": 777001
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 18575,
+        "end_ms": 18577
+      },
+      {
+        "file": "videos/08078.mp4",
+        "start_ms": 16395,
+        "end_ms": 16395
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 1198440,
+        "end_ms": 1205560
+      },
+      {
+        "file": "videos/11250.mp4",
+        "start_ms": 81080,
+        "end_ms": 81840
+      },
+      {
+        "file": "videos/02740.mp4",
+        "start_ms": 6063,
+        "end_ms": 6065
+      },
+      {
+        "file": "videos/03124.mp4",
+        "start_ms": 7920,
+        "end_ms": 9920
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 30140,
+        "end_ms": 30140
+      },
+      {
+        "file": "videos/00159.mp4",
+        "start_ms": 94000,
+        "end_ms": 95000
+      }
+    ],
+    "rejected": [
+      {
+        "file": "videos/02801.mp4",
+        "start_ms": 34267,
+        "end_ms": 34567
+      },
+      {
+        "file": "videos/00378.mp4",
+        "start_ms": 651560,
+        "end_ms": 657560
+      },
+      {
+        "file": "videos/06573.mp4",
+        "start_ms": 31698,
+        "end_ms": 36770
+      },
+      {
+        "file": "videos/04575.mp4",
+        "start_ms": 149000,
+        "end_ms": 150000
+      },
+      {
+        "file": "videos/16213.mp4",
+        "start_ms": 23000,
+        "end_ms": 24000
+      },
+      {
+        "file": "videos/13599.mp4",
+        "start_ms": 179560,
+        "end_ms": 183520
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 695911,
+        "end_ms": 695911
+      },
+      {
+        "file": "videos/13313.mp4",
+        "start_ms": 9809,
+        "end_ms": 13713
+      },
+      {
+        "file": "videos/13686.mp4",
+        "start_ms": 22040,
+        "end_ms": 22040
+      },
+      {
+        "file": "videos/12683.mp4",
+        "start_ms": 186720,
+        "end_ms": 190840
+      },
+      {
+        "file": "videos/05610.mp4",
+        "start_ms": 121754,
+        "end_ms": 123523
+      },
+      {
+        "file": "videos/12686.mp4",
+        "start_ms": 11378,
+        "end_ms": 16082
+      },
+      {
+        "file": "videos/11594.mp4",
+        "start_ms": 10280,
+        "end_ms": 12080
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 378378,
+        "end_ms": 381914
+      },
+      {
+        "file": "videos/15036.mp4",
+        "start_ms": 85018,
+        "end_ms": 86286
+      },
+      {
+        "file": "videos/05331.mp4",
+        "start_ms": 677560,
+        "end_ms": 679040
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 156422,
+        "end_ms": 157790
+      },
+      {
+        "file": "videos/00378.mp4",
+        "start_ms": 657600,
+        "end_ms": 657960
+      },
+      {
+        "file": "videos/05444.mp4",
+        "start_ms": 1360460,
+        "end_ms": 1360460
+      },
+      {
+        "file": "videos/13058.mp4",
+        "start_ms": 389000,
+        "end_ms": 389001
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 696000,
+        "end_ms": 696001
+      },
+      {
+        "file": "videos/13467.mp4",
+        "start_ms": 23960,
+        "end_ms": 24440
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 58600,
+        "end_ms": 60480
+      },
+      {
+        "file": "videos/02428.mp4",
+        "start_ms": 63739,
+        "end_ms": 63739
+      },
+      {
+        "file": "videos/13485.mp4",
+        "start_ms": 40680,
+        "end_ms": 42640
+      },
+      {
+        "file": "videos/06573.mp4",
+        "start_ms": 31531,
+        "end_ms": 31664
+      },
+      {
+        "file": "videos/01401.mp4",
+        "start_ms": 2613944,
+        "end_ms": 2614712
+      },
+      {
+        "file": "videos/14311.mp4",
+        "start_ms": 4000,
+        "end_ms": 4001
+      },
+      {
+        "file": "videos/06529.mp4",
+        "start_ms": 125000,
+        "end_ms": 129000
+      },
+      {
+        "file": "videos/13599.mp4",
+        "start_ms": 181540,
+        "end_ms": 181540
+      },
+      {
+        "file": "videos/13238.mp4",
+        "start_ms": 133925,
+        "end_ms": 133925
+      },
+      {
+        "file": "videos/05331.mp4",
+        "start_ms": 677320,
+        "end_ms": 677520
+      },
+      {
+        "file": "videos/01548.mp4",
+        "start_ms": 318885,
+        "end_ms": 318885
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 697096,
+        "end_ms": 697096
+      },
+      {
+        "file": "videos/03356.mp4",
+        "start_ms": 101267,
+        "end_ms": 102669
+      },
+      {
+        "file": "videos/07739.mp4",
+        "start_ms": 15849,
+        "end_ms": 15849
+      },
+      {
+        "file": "videos/07047.mp4",
+        "start_ms": 58506,
+        "end_ms": 58508
+      },
+      {
+        "file": "videos/12716.mp4",
+        "start_ms": 499880,
+        "end_ms": 504000
+      },
+      {
+        "file": "videos/13655.mp4",
+        "start_ms": 9060,
+        "end_ms": 9060
+      },
+      {
+        "file": "videos/08752.mp4",
+        "start_ms": 29262,
+        "end_ms": 30697
+      },
+      {
+        "file": "videos/13686.mp4",
+        "start_ms": 21240,
+        "end_ms": 22840
+      },
+      {
+        "file": "videos/11020.mp4",
+        "start_ms": 21000,
+        "end_ms": 22000
+      },
+      {
+        "file": "videos/03408.mp4",
+        "start_ms": 85560,
+        "end_ms": 85560
+      },
+      {
+        "file": "videos/12351.mp4",
+        "start_ms": 12874,
+        "end_ms": 12874
+      },
+      {
+        "file": "videos/03408.mp4",
+        "start_ms": 143000,
+        "end_ms": 143480
+      },
+      {
+        "file": "videos/16653.mp4",
+        "start_ms": 1181880,
+        "end_ms": 1183048
+      },
+      {
+        "file": "videos/15371.mp4",
+        "start_ms": 137800,
+        "end_ms": 138533
+      },
+      {
+        "file": "videos/08266.mp4",
+        "start_ms": 258839,
+        "end_ms": 259920
+      },
+      {
+        "file": "videos/08312.mp4",
+        "start_ms": 72080,
+        "end_ms": 72760
+      },
+      {
+        "file": "videos/14789.mp4",
+        "start_ms": 363000,
+        "end_ms": 366880
+      },
+      {
+        "file": "videos/05954.mp4",
+        "start_ms": 16000,
+        "end_ms": 18000
+      },
+      {
+        "file": "videos/13467.mp4",
+        "start_ms": 25319,
+        "end_ms": 25319
+      },
+      {
+        "file": "videos/08566.mp4",
+        "start_ms": 256700,
+        "end_ms": 256700
+      },
+      {
+        "file": "videos/09591.mp4",
+        "start_ms": 658699,
+        "end_ms": 658949
+      },
+      {
+        "file": "videos/13238.mp4",
+        "start_ms": 133925,
+        "end_ms": 137137
+      },
+      {
+        "file": "videos/13467.mp4",
+        "start_ms": 25220,
+        "end_ms": 25220
+      },
+      {
+        "file": "videos/13467.mp4",
+        "start_ms": 24480,
+        "end_ms": 25960
+      },
+      {
+        "file": "videos/03408.mp4",
+        "start_ms": 84640,
+        "end_ms": 86520
+      },
+      {
+        "file": "videos/01973.mp4",
+        "start_ms": 528480,
+        "end_ms": 529760
+      },
+      {
+        "file": "videos/00645.mp4",
+        "start_ms": 699200,
+        "end_ms": 700680
+      },
+      {
+        "file": "videos/15990.mp4",
+        "start_ms": 109400,
+        "end_ms": 109400
+      },
+      {
+        "file": "videos/04575.mp4",
+        "start_ms": 150129,
+        "end_ms": 150129
+      },
+      {
+        "file": "videos/12140.mp4",
+        "start_ms": 67167,
+        "end_ms": 67167
+      },
+      {
+        "file": "videos/14292.mp4",
+        "start_ms": 167167,
+        "end_ms": 168568
+      },
+      {
+        "file": "videos/16213.mp4",
+        "start_ms": 23390,
+        "end_ms": 23923
+      },
+      {
+        "file": "videos/17216.mp4",
+        "start_ms": 1283860,
+        "end_ms": 1283860
+      },
+      {
+        "file": "videos/05760.mp4",
+        "start_ms": 96029,
+        "end_ms": 97997
+      },
+      {
+        "file": "videos/15527.mp4",
+        "start_ms": 277299,
+        "end_ms": 277299
+      },
+      {
+        "file": "videos/00183.mp4",
+        "start_ms": 194260,
+        "end_ms": 194260
+      },
+      {
+        "file": "videos/06042.mp4",
+        "start_ms": 453360,
+        "end_ms": 453760
+      },
+      {
+        "file": "videos/15527.mp4",
+        "start_ms": 277000,
+        "end_ms": 277000
+      },
+      {
+        "file": "videos/13238.mp4",
+        "start_ms": 133000,
+        "end_ms": 137000
+      },
+      {
+        "file": "videos/13238.mp4",
+        "start_ms": 135531,
+        "end_ms": 135531
+      },
+      {
+        "file": "videos/16516.mp4",
+        "start_ms": 206339,
+        "end_ms": 206339
+      },
+      {
+        "file": "videos/04101.mp4",
+        "start_ms": 10710,
+        "end_ms": 11378
+      },
+      {
+        "file": "videos/13238.mp4",
+        "start_ms": 135392,
+        "end_ms": 135394
+      },
+      {
+        "file": "videos/13157.mp4",
+        "start_ms": 81000,
+        "end_ms": 89000
+      },
+      {
+        "file": "videos/09591.mp4",
+        "start_ms": 662682,
+        "end_ms": 662682
+      },
+      {
+        "file": "videos/03004.mp4",
+        "start_ms": 301717,
+        "end_ms": 301717
+      },
+      {
+        "file": "videos/08398.mp4",
+        "start_ms": 212100,
+        "end_ms": 212333
+      },
+      {
+        "file": "videos/08415.mp4",
+        "start_ms": 872704,
+        "end_ms": 872704
+      },
+      {
+        "file": "videos/05189.mp4",
+        "start_ms": 135401,
+        "end_ms": 136369
+      },
+      {
+        "file": "videos/06515.mp4",
+        "start_ms": 5933,
+        "end_ms": 5933
+      },
+      {
+        "file": "videos/12140.mp4",
+        "start_ms": 65765,
+        "end_ms": 68601
+      },
+      {
+        "file": "videos/04041.mp4",
+        "start_ms": 482523,
+        "end_ms": 486819
+      },
+      {
+        "file": "videos/12901.mp4",
+        "start_ms": 243240,
+        "end_ms": 243240
+      },
+      {
+        "file": "videos/01185.mp4",
+        "start_ms": 82640,
+        "end_ms": 84640
+      },
+      {
+        "file": "videos/10069.mp4",
+        "start_ms": 437840,
+        "end_ms": 437840
+      },
+      {
+        "file": "videos/02976.mp4",
+        "start_ms": 240566,
+        "end_ms": 240566
+      },
+      {
+        "file": "videos/11867.mp4",
+        "start_ms": 138104,
+        "end_ms": 139772
+      },
+      {
+        "file": "videos/09484.mp4",
+        "start_ms": 193259,
+        "end_ms": 193259
+      },
+      {
+        "file": "videos/12042.mp4",
+        "start_ms": 276800,
+        "end_ms": 283240
+      },
+      {
+        "file": "videos/16653.mp4",
+        "start_ms": 1180012,
+        "end_ms": 1181847
+      },
+      {
+        "file": "videos/05345.mp4",
+        "start_ms": 263972,
+        "end_ms": 264555
+      },
+      {
+        "file": "videos/07526.mp4",
+        "start_ms": 1569469,
+        "end_ms": 1569469
+      },
+      {
+        "file": "videos/15036.mp4",
+        "start_ms": 146779,
+        "end_ms": 146779
+      },
+      {
+        "file": "videos/16653.mp4",
+        "start_ms": 106000,
+        "end_ms": 107000
+      },
+      {
+        "file": "videos/07058.mp4",
+        "start_ms": 533280,
+        "end_ms": 534360
+      },
+      {
+        "file": "videos/13485.mp4",
+        "start_ms": 41640,
+        "end_ms": 41640
+      },
+      {
+        "file": "videos/15417.mp4",
+        "start_ms": 695000,
+        "end_ms": 696000
+      },
+      {
+        "file": "videos/01163.mp4",
+        "start_ms": 1634,
+        "end_ms": 5005
+      },
+      {
+        "file": "videos/00697.mp4",
+        "start_ms": 83000,
+        "end_ms": 84000
+      },
+      {
+        "file": "videos/04110.mp4",
+        "start_ms": 765160,
+        "end_ms": 769000
+      },
+      {
+        "file": "videos/13238.mp4",
+        "start_ms": 135530,
+        "end_ms": 135530
+      },
+      {
+        "file": "videos/05728.mp4",
+        "start_ms": 491880,
+        "end_ms": 492600
+      },
+      {
+        "file": "videos/06529.mp4",
+        "start_ms": 125425,
+        "end_ms": 129729
+      },
+      {
+        "file": "videos/16134.mp4",
+        "start_ms": 1690400,
+        "end_ms": 1690400
+      },
+      {
+        "file": "videos/17152.mp4",
+        "start_ms": 662057,
+        "end_ms": 662057
+      },
+      {
+        "file": "videos/12380.mp4",
+        "start_ms": 218284,
+        "end_ms": 218284
+      }
+    ]
+  },
+  {
+    "name": "vbs24-qa3",
+    "accepted": [
+      "Three",
+      "three",
+      "3"
+    ],
+    "rejected": [
+      "7",
+      "6",
+      "1",
+      "2",
+      "fourteen",
+      "two",
+      "ten",
+      "5",
+      "4",
+      "eight",
+      "seven",
+      "six"
+    ]
+  },
+  {
+    "name": "vbs24-qa4",
+    "accepted": [
+      "Green Red",
+      "red an yellow",
+      "red and green",
+      "red and yellow",
+      "red yellow",
+      "red and greenish-yellow",
+      "red&green",
+      "red,green",
+      "one red second green/black",
+      "green and red",
+      "yellow red",
+      "one red and one green",
+      "red and a yellow black one",
+      "green red",
+      "red green",
+      "red and green black"
+    ],
+    "rejected": [
+      "red",
+      "red and black",
+      "red and black/gray",
+      "one red and the other yellow and black",
+      "black and red",
+      "brown and black",
+      "one red and one black",
+      "red yellow",
+      "orange and white",
+      "green",
+      "red and purple",
+      "yellow and purple",
+      "white and black/grey",
+      "red black"
+    ]
+  },
+  {
+    "name": "vbs24-avs9",
+    "accepted": [
+      {
+        "file": "videos/14666.mp4",
+        "start_ms": 395840,
+        "end_ms": 396760
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 110760,
+        "end_ms": 111120
+      },
+      {
+        "file": "videos/11181.mp4",
+        "start_ms": 248666,
+        "end_ms": 253000
+      },
+      {
+        "file": "videos/16094.mp4",
+        "start_ms": 530500,
+        "end_ms": 532500
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 109560,
+        "end_ms": 110720
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 111947,
+        "end_ms": 111949
+      },
+      {
+        "file": "videos/03725.mp4",
+        "start_ms": 53080,
+        "end_ms": 53080
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 112340,
+        "end_ms": 112340
+      },
+      {
+        "file": "videos/01562.mp4",
+        "start_ms": 85620,
+        "end_ms": 85620
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 112080,
+        "end_ms": 112600
+      },
+      {
+        "file": "videos/11181.mp4",
+        "start_ms": 18500,
+        "end_ms": 18500
+      },
+      {
+        "file": "videos/16094.mp4",
+        "start_ms": 531316,
+        "end_ms": 531316
+      },
+      {
+        "file": "videos/09145.mp4",
+        "start_ms": 127840,
+        "end_ms": 129880
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 111700,
+        "end_ms": 111700
+      },
+      {
+        "file": "videos/16084.mp4",
+        "start_ms": 19280,
+        "end_ms": 19520
+      },
+      {
+        "file": "videos/14666.mp4",
+        "start_ms": 396299,
+        "end_ms": 396299
+      },
+      {
+        "file": "videos/01987.mp4",
+        "start_ms": 40760,
+        "end_ms": 42040
+      },
+      {
+        "file": "videos/03725.mp4",
+        "start_ms": 52080,
+        "end_ms": 54080
+      },
+      {
+        "file": "videos/05625.mp4",
+        "start_ms": 36379,
+        "end_ms": 36379
+      },
+      {
+        "file": "videos/11181.mp4",
+        "start_ms": 18866,
+        "end_ms": 20066
+      },
+      {
+        "file": "videos/14666.mp4",
+        "start_ms": 394880,
+        "end_ms": 394880
+      },
+      {
+        "file": "videos/16094.mp4",
+        "start_ms": 525400,
+        "end_ms": 537233
+      },
+      {
+        "file": "videos/10468.mp4",
+        "start_ms": 54071,
+        "end_ms": 54073
+      },
+      {
+        "file": "videos/13481.mp4",
+        "start_ms": 396000,
+        "end_ms": 396001
+      },
+      {
+        "file": "videos/11181.mp4",
+        "start_ms": 19000,
+        "end_ms": 19001
+      },
+      {
+        "file": "videos/16094.mp4",
+        "start_ms": 537266,
+        "end_ms": 537600
+      },
+      {
+        "file": "videos/11181.mp4",
+        "start_ms": 18200,
+        "end_ms": 18800
+      },
+      {
+        "file": "videos/16084.mp4",
+        "start_ms": 20360,
+        "end_ms": 22360
+      },
+      {
+        "file": "videos/05717.mp4",
+        "start_ms": 1064663,
+        "end_ms": 1064663
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 111360,
+        "end_ms": 112040
+      },
+      {
+        "file": "videos/16094.mp4",
+        "start_ms": 537633,
+        "end_ms": 537866
+      },
+      {
+        "file": "videos/06608.mp4",
+        "start_ms": 2124480,
+        "end_ms": 2124600
+      },
+      {
+        "file": "videos/00524.mp4",
+        "start_ms": 193000,
+        "end_ms": 197000
+      },
+      {
+        "file": "videos/01987.mp4",
+        "start_ms": 41328,
+        "end_ms": 41330
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 111240,
+        "end_ms": 111240
+      },
+      {
+        "file": "videos/10468.mp4",
+        "start_ms": 53000,
+        "end_ms": 55000
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 110940,
+        "end_ms": 110940
+      },
+      {
+        "file": "videos/00524.mp4",
+        "start_ms": 230396,
+        "end_ms": 234467
+      },
+      {
+        "file": "videos/03532.mp4",
+        "start_ms": 18200,
+        "end_ms": 19200
+      },
+      {
+        "file": "videos/10468.mp4",
+        "start_ms": 53266,
+        "end_ms": 55266
+      },
+      {
+        "file": "videos/06608.mp4",
+        "start_ms": 2121000,
+        "end_ms": 2121001
+      },
+      {
+        "file": "videos/14666.mp4",
+        "start_ms": 394000,
+        "end_ms": 394001
+      },
+      {
+        "file": "videos/16084.mp4",
+        "start_ms": 19560,
+        "end_ms": 23080
+      },
+      {
+        "file": "videos/12135.mp4",
+        "start_ms": 71880,
+        "end_ms": 73880
+      },
+      {
+        "file": "videos/01987.mp4",
+        "start_ms": 41047,
+        "end_ms": 41049
+      },
+      {
+        "file": "videos/03935.mp4",
+        "start_ms": 230880,
+        "end_ms": 232840
+      },
+      {
+        "file": "videos/01987.mp4",
+        "start_ms": 41400,
+        "end_ms": 41400
+      },
+      {
+        "file": "videos/16094.mp4",
+        "start_ms": 537633,
+        "end_ms": 537633
+      },
+      {
+        "file": "videos/00418.mp4",
+        "start_ms": 97880,
+        "end_ms": 100840
+      },
+      {
+        "file": "videos/16084.mp4",
+        "start_ms": 19000,
+        "end_ms": 22000
+      },
+      {
+        "file": "videos/03354.mp4",
+        "start_ms": 46372,
+        "end_ms": 48372
+      },
+      {
+        "file": "videos/06336.mp4",
+        "start_ms": 656572,
+        "end_ms": 657365
+      },
+      {
+        "file": "videos/10468.mp4",
+        "start_ms": 54283,
+        "end_ms": 54283
+      },
+      {
+        "file": "videos/14885.mp4",
+        "start_ms": 105699,
+        "end_ms": 105699
+      },
+      {
+        "file": "videos/15445.mp4",
+        "start_ms": 109341,
+        "end_ms": 111341
+      },
+      {
+        "file": "videos/11181.mp4",
+        "start_ms": 19466,
+        "end_ms": 19466
+      },
+      {
+        "file": "videos/03935.mp4",
+        "start_ms": 231860,
+        "end_ms": 231860
+      },
+      {
+        "file": "videos/14162.mp4",
+        "start_ms": 393025,
+        "end_ms": 397196
+      },
+      {
+        "file": "videos/06204.mp4",
+        "start_ms": 138560,
+        "end_ms": 138560
+      },
+      {
+        "file": "videos/13481.mp4",
+        "start_ms": 394760,
+        "end_ms": 401400
+      },
+      {
+        "file": "videos/03733.mp4",
+        "start_ms": 44777,
+        "end_ms": 44777
+      },
+      {
+        "file": "videos/11181.mp4",
+        "start_ms": 18933,
+        "end_ms": 18933
+      },
+      {
+        "file": "videos/01886.mp4",
+        "start_ms": 81000,
+        "end_ms": 83000
+      },
+      {
+        "file": "videos/13481.mp4",
+        "start_ms": 401440,
+        "end_ms": 401800
+      },
+      {
+        "file": "videos/12135.mp4",
+        "start_ms": 73600,
+        "end_ms": 73600
+      },
+      {
+        "file": "videos/16090.mp4",
+        "start_ms": 429220,
+        "end_ms": 429303
+      },
+      {
+        "file": "videos/12135.mp4",
+        "start_ms": 73520,
+        "end_ms": 73520
+      },
+      {
+        "file": "videos/06608.mp4",
+        "start_ms": 2125260,
+        "end_ms": 2125260
+      },
+      {
+        "file": "videos/06608.mp4",
+        "start_ms": 2122120,
+        "end_ms": 2124120
+      },
+      {
+        "file": "videos/14885.mp4",
+        "start_ms": 201840,
+        "end_ms": 202880
+      },
+      {
+        "file": "videos/00418.mp4",
+        "start_ms": 99360,
+        "end_ms": 99360
+      },
+      {
+        "file": "videos/14636.mp4",
+        "start_ms": 170000,
+        "end_ms": 170001
+      },
+      {
+        "file": "videos/01465.mp4",
+        "start_ms": 180000,
+        "end_ms": 180001
+      },
+      {
+        "file": "videos/14885.mp4",
+        "start_ms": 104800,
+        "end_ms": 104800
+      },
+      {
+        "file": "videos/14885.mp4",
+        "start_ms": 202360,
+        "end_ms": 202360
+      },
+      {
+        "file": "videos/06608.mp4",
+        "start_ms": 2120920,
+        "end_ms": 2121440
+      },
+      {
+        "file": "videos/13632.mp4",
+        "start_ms": 107674,
+        "end_ms": 110376
+      },
+      {
+        "file": "videos/06608.mp4",
+        "start_ms": 2125040,
+        "end_ms": 2125480
+      },
+      {
+        "file": "videos/14885.mp4",
+        "start_ms": 201000,
+        "end_ms": 202000
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 111160,
+        "end_ms": 111320
+      },
+      {
+        "file": "videos/06608.mp4",
+        "start_ms": 2121840,
+        "end_ms": 2124440
+      },
+      {
+        "file": "videos/14666.mp4",
+        "start_ms": 396300,
+        "end_ms": 396300
+      },
+      {
+        "file": "videos/16084.mp4",
+        "start_ms": 20407,
+        "end_ms": 20409
+      },
+      {
+        "file": "videos/11181.mp4",
+        "start_ms": 18133,
+        "end_ms": 20133
+      },
+      {
+        "file": "videos/02984.mp4",
+        "start_ms": 52535,
+        "end_ms": 52535
+      },
+      {
+        "file": "videos/10468.mp4",
+        "start_ms": 53333,
+        "end_ms": 55233
+      },
+      {
+        "file": "videos/06608.mp4",
+        "start_ms": 2120000,
+        "end_ms": 2121000
+      },
+      {
+        "file": "videos/03354.mp4",
+        "start_ms": 45128,
+        "end_ms": 50091
+      },
+      {
+        "file": "videos/12135.mp4",
+        "start_ms": 74320,
+        "end_ms": 74760
+      },
+      {
+        "file": "videos/00524.mp4",
+        "start_ms": 194370,
+        "end_ms": 194372
+      },
+      {
+        "file": "videos/00972.mp4",
+        "start_ms": 221955,
+        "end_ms": 225425
+      },
+      {
+        "file": "videos/16090.mp4",
+        "start_ms": 431180,
+        "end_ms": 431347
+      },
+      {
+        "file": "videos/12431.mp4",
+        "start_ms": 341000,
+        "end_ms": 351000
+      },
+      {
+        "file": "videos/12135.mp4",
+        "start_ms": 73760,
+        "end_ms": 74280
+      },
+      {
+        "file": "videos/07058.mp4",
+        "start_ms": 528680,
+        "end_ms": 529480
+      },
+      {
+        "file": "videos/12135.mp4",
+        "start_ms": 72880,
+        "end_ms": 73440
+      },
+      {
+        "file": "videos/05175.mp4",
+        "start_ms": 2802,
+        "end_ms": 3069
+      },
+      {
+        "file": "videos/12135.mp4",
+        "start_ms": 72600,
+        "end_ms": 72840
+      },
+      {
+        "file": "videos/16094.mp4",
+        "start_ms": 537000,
+        "end_ms": 537000
+      },
+      {
+        "file": "videos/01987.mp4",
+        "start_ms": 40400,
+        "end_ms": 42400
+      },
+      {
+        "file": "videos/03725.mp4",
+        "start_ms": 52360,
+        "end_ms": 53800
+      },
+      {
+        "file": "videos/14885.mp4",
+        "start_ms": 105700,
+        "end_ms": 105700
+      },
+      {
+        "file": "videos/06472.mp4",
+        "start_ms": 53453,
+        "end_ms": 55021
+      },
+      {
+        "file": "videos/05625.mp4",
+        "start_ms": 36000,
+        "end_ms": 36001
+      },
+      {
+        "file": "videos/14885.mp4",
+        "start_ms": 104400,
+        "end_ms": 105200
+      },
+      {
+        "file": "videos/14885.mp4",
+        "start_ms": 202920,
+        "end_ms": 203960
+      },
+      {
+        "file": "videos/14885.mp4",
+        "start_ms": 105240,
+        "end_ms": 106160
+      },
+      {
+        "file": "videos/16084.mp4",
+        "start_ms": 19400,
+        "end_ms": 19400
+      },
+      {
+        "file": "videos/05625.mp4",
+        "start_ms": 35280,
+        "end_ms": 37480
+      },
+      {
+        "file": "videos/14885.mp4",
+        "start_ms": 203440,
+        "end_ms": 203440
+      },
+      {
+        "file": "videos/16955.mp4",
+        "start_ms": 32052,
+        "end_ms": 32052
+      },
+      {
+        "file": "videos/16082.mp4",
+        "start_ms": 292920,
+        "end_ms": 294720
+      },
+      {
+        "file": "videos/10468.mp4",
+        "start_ms": 56437,
+        "end_ms": 56439
+      },
+      {
+        "file": "videos/16090.mp4",
+        "start_ms": 430242,
+        "end_ms": 430242
+      },
+      {
+        "file": "videos/06608.mp4",
+        "start_ms": 2123140,
+        "end_ms": 2123140
+      },
+      {
+        "file": "videos/16955.mp4",
+        "start_ms": 31948,
+        "end_ms": 31948
+      },
+      {
+        "file": "videos/06821.mp4",
+        "start_ms": 249760,
+        "end_ms": 251360
+      },
+      {
+        "file": "videos/13632.mp4",
+        "start_ms": 108374,
+        "end_ms": 108374
+      },
+      {
+        "file": "videos/06336.mp4",
+        "start_ms": 654028,
+        "end_ms": 654028
+      },
+      {
+        "file": "videos/06534.mp4",
+        "start_ms": 136560,
+        "end_ms": 145360
+      },
+      {
+        "file": "videos/16084.mp4",
+        "start_ms": 19320,
+        "end_ms": 19320
+      },
+      {
+        "file": "videos/05625.mp4",
+        "start_ms": 36360,
+        "end_ms": 36360
+      },
+      {
+        "file": "videos/12135.mp4",
+        "start_ms": 74020,
+        "end_ms": 74020
+      },
+      {
+        "file": "videos/07058.mp4",
+        "start_ms": 529079,
+        "end_ms": 529079
+      },
+      {
+        "file": "videos/12135.mp4",
+        "start_ms": 73160,
+        "end_ms": 73160
+      },
+      {
+        "file": "videos/03354.mp4",
+        "start_ms": 46468,
+        "end_ms": 46470
+      },
+      {
+        "file": "videos/12135.mp4",
+        "start_ms": 72080,
+        "end_ms": 72560
+      },
+      {
+        "file": "videos/01886.mp4",
+        "start_ms": 81790,
+        "end_ms": 83208
+      },
+      {
+        "file": "videos/12135.mp4",
+        "start_ms": 72720,
+        "end_ms": 72720
+      },
+      {
+        "file": "videos/01886.mp4",
+        "start_ms": 83249,
+        "end_ms": 83500
+      },
+      {
+        "file": "videos/10551.mp4",
+        "start_ms": 2442280,
+        "end_ms": 2451080
+      },
+      {
+        "file": "videos/08686.mp4",
+        "start_ms": 82600,
+        "end_ms": 82920
+      },
+      {
+        "file": "videos/01886.mp4",
+        "start_ms": 83541,
+        "end_ms": 84042
+      },
+      {
+        "file": "videos/14666.mp4",
+        "start_ms": 395000,
+        "end_ms": 396000
+      },
+      {
+        "file": "videos/15434.mp4",
+        "start_ms": 484350,
+        "end_ms": 494026
+      },
+      {
+        "file": "videos/06336.mp4",
+        "start_ms": 656447,
+        "end_ms": 656447
+      },
+      {
+        "file": "videos/01886.mp4",
+        "start_ms": 82499,
+        "end_ms": 82499
+      },
+      {
+        "file": "videos/14885.mp4",
+        "start_ms": 105280,
+        "end_ms": 105280
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 111857,
+        "end_ms": 111859
+      },
+      {
+        "file": "videos/07177.mp4",
+        "start_ms": 195000,
+        "end_ms": 198000
+      },
+      {
+        "file": "videos/12135.mp4",
+        "start_ms": 73480,
+        "end_ms": 73720
+      },
+      {
+        "file": "videos/16955.mp4",
+        "start_ms": 18685,
+        "end_ms": 22897
+      },
+      {
+        "file": "videos/13686.mp4",
+        "start_ms": 273320,
+        "end_ms": 275320
+      },
+      {
+        "file": "videos/06105.mp4",
+        "start_ms": 166232,
+        "end_ms": 166633
+      },
+      {
+        "file": "videos/14885.mp4",
+        "start_ms": 104000,
+        "end_ms": 105000
+      },
+      {
+        "file": "videos/03354.mp4",
+        "start_ms": 47609,
+        "end_ms": 47609
+      },
+      {
+        "file": "videos/06534.mp4",
+        "start_ms": 140920,
+        "end_ms": 140920
+      },
+      {
+        "file": "videos/03935.mp4",
+        "start_ms": 230620,
+        "end_ms": 230620
+      },
+      {
+        "file": "videos/03725.mp4",
+        "start_ms": 52000,
+        "end_ms": 53000
+      },
+      {
+        "file": "videos/07058.mp4",
+        "start_ms": 529038,
+        "end_ms": 529040
+      },
+      {
+        "file": "videos/03725.mp4",
+        "start_ms": 53000,
+        "end_ms": 53001
+      },
+      {
+        "file": "videos/01851.mp4",
+        "start_ms": 179721,
+        "end_ms": 179721
+      },
+      {
+        "file": "videos/10468.mp4",
+        "start_ms": 58232,
+        "end_ms": 58232
+      },
+      {
+        "file": "videos/05625.mp4",
+        "start_ms": 35000,
+        "end_ms": 37000
+      },
+      {
+        "file": "videos/01886.mp4",
+        "start_ms": 83791,
+        "end_ms": 83791
+      },
+      {
+        "file": "videos/01689.mp4",
+        "start_ms": 35899,
+        "end_ms": 35899
+      },
+      {
+        "file": "videos/03532.mp4",
+        "start_ms": 17680,
+        "end_ms": 19680
+      },
+      {
+        "file": "videos/07058.mp4",
+        "start_ms": 528720,
+        "end_ms": 528720
+      },
+      {
+        "file": "videos/16094.mp4",
+        "start_ms": 537501,
+        "end_ms": 537503
+      },
+      {
+        "file": "videos/09145.mp4",
+        "start_ms": 128860,
+        "end_ms": 128860
+      },
+      {
+        "file": "videos/03935.mp4",
+        "start_ms": 231000,
+        "end_ms": 231001
+      },
+      {
+        "file": "videos/14162.mp4",
+        "start_ms": 395000,
+        "end_ms": 395001
+      },
+      {
+        "file": "videos/05625.mp4",
+        "start_ms": 35360,
+        "end_ms": 37360
+      },
+      {
+        "file": "videos/03997.mp4",
+        "start_ms": 1944000,
+        "end_ms": 1944001
+      },
+      {
+        "file": "videos/03725.mp4",
+        "start_ms": 52840,
+        "end_ms": 52840
+      },
+      {
+        "file": "videos/00524.mp4",
+        "start_ms": 193459,
+        "end_ms": 197797
+      },
+      {
+        "file": "videos/00479.mp4",
+        "start_ms": 30687,
+        "end_ms": 30687
+      },
+      {
+        "file": "videos/01562.mp4",
+        "start_ms": 85892,
+        "end_ms": 85894
+      },
+      {
+        "file": "videos/03367.mp4",
+        "start_ms": 667,
+        "end_ms": 967
+      },
+      {
+        "file": "videos/01562.mp4",
+        "start_ms": 86680,
+        "end_ms": 86680
+      },
+      {
+        "file": "videos/14405.mp4",
+        "start_ms": 1142733,
+        "end_ms": 1142733
+      },
+      {
+        "file": "videos/08875.mp4",
+        "start_ms": 101017,
+        "end_ms": 101017
+      },
+      {
+        "file": "videos/13352.mp4",
+        "start_ms": 2218749,
+        "end_ms": 2222753
+      },
+      {
+        "file": "videos/16090.mp4",
+        "start_ms": 431579,
+        "end_ms": 431581
+      },
+      {
+        "file": "videos/03997.mp4",
+        "start_ms": 534483,
+        "end_ms": 534483
+      },
+      {
+        "file": "videos/16094.mp4",
+        "start_ms": 531000,
+        "end_ms": 531001
+      },
+      {
+        "file": "videos/06505.mp4",
+        "start_ms": 43525,
+        "end_ms": 43525
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 107880,
+        "end_ms": 108120
+      },
+      {
+        "file": "videos/00524.mp4",
+        "start_ms": 193493,
+        "end_ms": 193493
+      },
+      {
+        "file": "videos/13002.mp4",
+        "start_ms": 101000,
+        "end_ms": 101001
+      },
+      {
+        "file": "videos/13481.mp4",
+        "start_ms": 398080,
+        "end_ms": 398080
+      },
+      {
+        "file": "videos/13352.mp4",
+        "start_ms": 1413011,
+        "end_ms": 1413011
+      },
+      {
+        "file": "videos/03997.mp4",
+        "start_ms": 1892790,
+        "end_ms": 1892790
+      },
+      {
+        "file": "videos/06472.mp4",
+        "start_ms": 54237,
+        "end_ms": 54237
+      },
+      {
+        "file": "videos/09145.mp4",
+        "start_ms": 129000,
+        "end_ms": 129001
+      },
+      {
+        "file": "videos/03725.mp4",
+        "start_ms": 53046,
+        "end_ms": 53048
+      },
+      {
+        "file": "videos/06608.mp4",
+        "start_ms": 2121486,
+        "end_ms": 2121488
+      },
+      {
+        "file": "videos/16955.mp4",
+        "start_ms": 30425,
+        "end_ms": 30425
+      },
+      {
+        "file": "videos/07177.mp4",
+        "start_ms": 196500,
+        "end_ms": 196500
+      },
+      {
+        "file": "videos/16084.mp4",
+        "start_ms": 19000,
+        "end_ms": 19000
+      },
+      {
+        "file": "videos/13686.mp4",
+        "start_ms": 273680,
+        "end_ms": 273680
+      },
+      {
+        "file": "videos/12135.mp4",
+        "start_ms": 72320,
+        "end_ms": 72320
+      },
+      {
+        "file": "videos/00524.mp4",
+        "start_ms": 195628,
+        "end_ms": 195628
+      },
+      {
+        "file": "videos/16094.mp4",
+        "start_ms": 537749,
+        "end_ms": 537749
+      },
+      {
+        "file": "videos/13958.mp4",
+        "start_ms": 96080,
+        "end_ms": 96080
+      },
+      {
+        "file": "videos/01465.mp4",
+        "start_ms": 180813,
+        "end_ms": 180813
+      },
+      {
+        "file": "videos/14162.mp4",
+        "start_ms": 394660,
+        "end_ms": 394660
+      },
+      {
+        "file": "videos/07058.mp4",
+        "start_ms": 529562,
+        "end_ms": 529564
+      },
+      {
+        "file": "videos/10591.mp4",
+        "start_ms": 179733,
+        "end_ms": 181733
+      }
+    ],
+    "rejected": [
+      {
+        "file": "videos/16749.mp4",
+        "start_ms": 230063,
+        "end_ms": 230063
+      },
+      {
+        "file": "videos/03789.mp4",
+        "start_ms": 30363,
+        "end_ms": 30405
+      },
+      {
+        "file": "videos/09868.mp4",
+        "start_ms": 307380,
+        "end_ms": 307380
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 106560,
+        "end_ms": 107200
+      },
+      {
+        "file": "videos/04757.mp4",
+        "start_ms": 67609,
+        "end_ms": 73281
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 109505,
+        "end_ms": 109507
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 108000,
+        "end_ms": 109000
+      },
+      {
+        "file": "videos/00367.mp4",
+        "start_ms": 513513,
+        "end_ms": 516349
+      },
+      {
+        "file": "videos/00972.mp4",
+        "start_ms": 223690,
+        "end_ms": 223690
+      },
+      {
+        "file": "videos/14111.mp4",
+        "start_ms": 291960,
+        "end_ms": 291962
+      },
+      {
+        "file": "videos/11587.mp4",
+        "start_ms": 87487,
+        "end_ms": 89823
+      },
+      {
+        "file": "videos/11031.mp4",
+        "start_ms": 235740,
+        "end_ms": 235740
+      },
+      {
+        "file": "videos/15250.mp4",
+        "start_ms": 57580,
+        "end_ms": 57580
+      },
+      {
+        "file": "videos/01994.mp4",
+        "start_ms": 48300,
+        "end_ms": 48300
+      },
+      {
+        "file": "videos/14885.mp4",
+        "start_ms": 26480,
+        "end_ms": 26960
+      },
+      {
+        "file": "videos/04110.mp4",
+        "start_ms": 901880,
+        "end_ms": 903240
+      },
+      {
+        "file": "videos/09500.mp4",
+        "start_ms": 140840,
+        "end_ms": 145178
+      },
+      {
+        "file": "videos/00367.mp4",
+        "start_ms": 513000,
+        "end_ms": 516000
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 109000,
+        "end_ms": 110000
+      },
+      {
+        "file": "videos/15250.mp4",
+        "start_ms": 57000,
+        "end_ms": 57001
+      },
+      {
+        "file": "videos/01465.mp4",
+        "start_ms": 163429,
+        "end_ms": 165231
+      },
+      {
+        "file": "videos/15445.mp4",
+        "start_ms": 108858,
+        "end_ms": 111903
+      },
+      {
+        "file": "videos/11031.mp4",
+        "start_ms": 235480,
+        "end_ms": 236000
+      },
+      {
+        "file": "videos/11029.mp4",
+        "start_ms": 604270,
+        "end_ms": 608374
+      },
+      {
+        "file": "videos/01886.mp4",
+        "start_ms": 117000,
+        "end_ms": 117001
+      },
+      {
+        "file": "videos/03789.mp4",
+        "start_ms": 169878,
+        "end_ms": 170086
+      },
+      {
+        "file": "videos/03789.mp4",
+        "start_ms": 6423,
+        "end_ms": 7048
+      },
+      {
+        "file": "videos/06204.mp4",
+        "start_ms": 138000,
+        "end_ms": 138000
+      },
+      {
+        "file": "videos/01689.mp4",
+        "start_ms": 35120,
+        "end_ms": 36680
+      },
+      {
+        "file": "videos/02122.mp4",
+        "start_ms": 8775,
+        "end_ms": 20436
+      },
+      {
+        "file": "videos/02438.mp4",
+        "start_ms": 7400,
+        "end_ms": 9360
+      },
+      {
+        "file": "videos/02561.mp4",
+        "start_ms": 581126,
+        "end_ms": 581128
+      },
+      {
+        "file": "videos/16086.mp4",
+        "start_ms": 664000,
+        "end_ms": 664001
+      },
+      {
+        "file": "videos/02561.mp4",
+        "start_ms": 582702,
+        "end_ms": 582704
+      },
+      {
+        "file": "videos/01994.mp4",
+        "start_ms": 49080,
+        "end_ms": 51600
+      },
+      {
+        "file": "videos/14866.mp4",
+        "start_ms": 92000,
+        "end_ms": 92001
+      },
+      {
+        "file": "videos/05331.mp4",
+        "start_ms": 180000,
+        "end_ms": 180001
+      },
+      {
+        "file": "videos/08640.mp4",
+        "start_ms": 17922,
+        "end_ms": 17924
+      },
+      {
+        "file": "videos/16090.mp4",
+        "start_ms": 431242,
+        "end_ms": 431242
+      },
+      {
+        "file": "videos/01994.mp4",
+        "start_ms": 47560,
+        "end_ms": 49040
+      },
+      {
+        "file": "videos/02438.mp4",
+        "start_ms": 7000,
+        "end_ms": 9000
+      },
+      {
+        "file": "videos/12431.mp4",
+        "start_ms": 341640,
+        "end_ms": 351520
+      },
+      {
+        "file": "videos/10417.mp4",
+        "start_ms": 533,
+        "end_ms": 767
+      },
+      {
+        "file": "videos/11587.mp4",
+        "start_ms": 91624,
+        "end_ms": 92359
+      },
+      {
+        "file": "videos/11031.mp4",
+        "start_ms": 3480,
+        "end_ms": 3480
+      },
+      {
+        "file": "videos/14885.mp4",
+        "start_ms": 26720,
+        "end_ms": 26720
+      },
+      {
+        "file": "videos/17204.mp4",
+        "start_ms": 380000,
+        "end_ms": 380001
+      },
+      {
+        "file": "videos/03354.mp4",
+        "start_ms": 45000,
+        "end_ms": 50000
+      },
+      {
+        "file": "videos/15241.mp4",
+        "start_ms": 17060,
+        "end_ms": 17060
+      },
+      {
+        "file": "videos/06204.mp4",
+        "start_ms": 139316,
+        "end_ms": 139318
+      },
+      {
+        "file": "videos/01676.mp4",
+        "start_ms": 85800,
+        "end_ms": 86480
+      },
+      {
+        "file": "videos/03789.mp4",
+        "start_ms": 27005,
+        "end_ms": 27005
+      },
+      {
+        "file": "videos/15055.mp4",
+        "start_ms": 118785,
+        "end_ms": 120753
+      },
+      {
+        "file": "videos/07458.mp4",
+        "start_ms": 104000,
+        "end_ms": 109000
+      },
+      {
+        "file": "videos/06204.mp4",
+        "start_ms": 138286,
+        "end_ms": 138288
+      },
+      {
+        "file": "videos/14620.mp4",
+        "start_ms": 40600,
+        "end_ms": 43333
+      },
+      {
+        "file": "videos/14866.mp4",
+        "start_ms": 92500,
+        "end_ms": 92500
+      },
+      {
+        "file": "videos/16769.mp4",
+        "start_ms": 88000,
+        "end_ms": 90000
+      },
+      {
+        "file": "videos/00812.mp4",
+        "start_ms": 89088,
+        "end_ms": 89088
+      },
+      {
+        "file": "videos/15614.mp4",
+        "start_ms": 176808,
+        "end_ms": 176810
+      },
+      {
+        "file": "videos/02104.mp4",
+        "start_ms": 46400,
+        "end_ms": 47320
+      },
+      {
+        "file": "videos/06831.mp4",
+        "start_ms": 66040,
+        "end_ms": 66040
+      },
+      {
+        "file": "videos/02438.mp4",
+        "start_ms": 7220,
+        "end_ms": 7220
+      },
+      {
+        "file": "videos/01994.mp4",
+        "start_ms": 47000,
+        "end_ms": 49000
+      },
+      {
+        "file": "videos/07562.mp4",
+        "start_ms": 331581,
+        "end_ms": 333291
+      },
+      {
+        "file": "videos/15614.mp4",
+        "start_ms": 75950,
+        "end_ms": 80580
+      },
+      {
+        "file": "videos/14349.mp4",
+        "start_ms": 33920,
+        "end_ms": 33920
+      },
+      {
+        "file": "videos/14675.mp4",
+        "start_ms": 60927,
+        "end_ms": 61628
+      },
+      {
+        "file": "videos/14675.mp4",
+        "start_ms": 62662,
+        "end_ms": 62996
+      },
+      {
+        "file": "videos/04487.mp4",
+        "start_ms": 149700,
+        "end_ms": 149700
+      },
+      {
+        "file": "videos/01676.mp4",
+        "start_ms": 91200,
+        "end_ms": 91600
+      },
+      {
+        "file": "videos/15250.mp4",
+        "start_ms": 55640,
+        "end_ms": 59520
+      },
+      {
+        "file": "videos/04517.mp4",
+        "start_ms": 34560,
+        "end_ms": 36280
+      },
+      {
+        "file": "videos/14866.mp4",
+        "start_ms": 91500,
+        "end_ms": 93500
+      },
+      {
+        "file": "videos/12431.mp4",
+        "start_ms": 1600,
+        "end_ms": 6760
+      },
+      {
+        "file": "videos/02901.mp4",
+        "start_ms": 101301,
+        "end_ms": 101301
+      },
+      {
+        "file": "videos/14675.mp4",
+        "start_ms": 61661,
+        "end_ms": 61895
+      },
+      {
+        "file": "videos/06821.mp4",
+        "start_ms": 250560,
+        "end_ms": 250560
+      },
+      {
+        "file": "videos/02438.mp4",
+        "start_ms": 7080,
+        "end_ms": 7360
+      },
+      {
+        "file": "videos/12600.mp4",
+        "start_ms": 554600,
+        "end_ms": 554960
+      },
+      {
+        "file": "videos/16749.mp4",
+        "start_ms": 335201,
+        "end_ms": 335201
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 106440,
+        "end_ms": 106520
+      },
+      {
+        "file": "videos/14851.mp4",
+        "start_ms": 269636,
+        "end_ms": 272605
+      },
+      {
+        "file": "videos/07471.mp4",
+        "start_ms": 797260,
+        "end_ms": 811680
+      },
+      {
+        "file": "videos/07058.mp4",
+        "start_ms": 13640,
+        "end_ms": 15320
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 108160,
+        "end_ms": 108720
+      },
+      {
+        "file": "videos/02438.mp4",
+        "start_ms": 8379,
+        "end_ms": 8379
+      },
+      {
+        "file": "videos/16749.mp4",
+        "start_ms": 318884,
+        "end_ms": 318884
+      },
+      {
+        "file": "videos/14620.mp4",
+        "start_ms": 43000,
+        "end_ms": 43001
+      },
+      {
+        "file": "videos/06204.mp4",
+        "start_ms": 138240,
+        "end_ms": 138880
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 109000,
+        "end_ms": 109001
+      },
+      {
+        "file": "videos/07218.mp4",
+        "start_ms": 80312,
+        "end_ms": 80312
+      },
+      {
+        "file": "videos/15434.mp4",
+        "start_ms": 494060,
+        "end_ms": 494160
+      },
+      {
+        "file": "videos/09396.mp4",
+        "start_ms": 129600,
+        "end_ms": 130440
+      },
+      {
+        "file": "videos/15669.mp4",
+        "start_ms": 109040,
+        "end_ms": 109040
+      },
+      {
+        "file": "videos/00621.mp4",
+        "start_ms": 201866,
+        "end_ms": 203066
+      },
+      {
+        "file": "videos/13375.mp4",
+        "start_ms": 177000,
+        "end_ms": 177001
+      }
+    ]
+  },
+  {
+    "name": "vbs24-qa5",
+    "accepted": [
+      "are you ready?",
+      "Are you ready?",
+      "are you ready"
+    ],
+    "rejected": [
+      "\"higher doctrine\"",
+      "wherever you are",
+      "always",
+      "thank you",
+      "I love you"
+    ]
+  },
+  {
+    "name": "vbs24-avs1_N",
+    "accepted": [
+      {
+        "file": "videos/08173.mp4",
+        "start_ms": 343242,
+        "end_ms": 344444
+      },
+      {
+        "file": "videos/05445.mp4",
+        "start_ms": 192926,
+        "end_ms": 194227
+      },
+      {
+        "file": "videos/00057.mp4",
+        "start_ms": 229920,
+        "end_ms": 244560
+      },
+      {
+        "file": "videos/10128.mp4",
+        "start_ms": 204666,
+        "end_ms": 205041
+      },
+      {
+        "file": "videos/00715.mp4",
+        "start_ms": 203536,
+        "end_ms": 227961
+      },
+      {
+        "file": "videos/11320.mp4",
+        "start_ms": 120540,
+        "end_ms": 129320
+      },
+      {
+        "file": "videos/02668.mp4",
+        "start_ms": 2235533,
+        "end_ms": 2246177
+      },
+      {
+        "file": "videos/09097.mp4",
+        "start_ms": 295000,
+        "end_ms": 295680
+      },
+      {
+        "file": "videos/07691.mp4",
+        "start_ms": 578811,
+        "end_ms": 591007
+      },
+      {
+        "file": "videos/10347.mp4",
+        "start_ms": 352618,
+        "end_ms": 354053
+      },
+      {
+        "file": "videos/16576.mp4",
+        "start_ms": 43476,
+        "end_ms": 44944
+      },
+      {
+        "file": "videos/00057.mp4",
+        "start_ms": 915740,
+        "end_ms": 926120
+      },
+      {
+        "file": "videos/05445.mp4",
+        "start_ms": 214881,
+        "end_ms": 215215
+      },
+      {
+        "file": "videos/02668.mp4",
+        "start_ms": 2459924,
+        "end_ms": 2460224
+      },
+      {
+        "file": "videos/00057.mp4",
+        "start_ms": 397640,
+        "end_ms": 405620
+      },
+      {
+        "file": "videos/05786.mp4",
+        "start_ms": 116640,
+        "end_ms": 117440
+      },
+      {
+        "file": "videos/12753.mp4",
+        "start_ms": 326242,
+        "end_ms": 326559
+      },
+      {
+        "file": "videos/12613.mp4",
+        "start_ms": 129062,
+        "end_ms": 145745
+      },
+      {
+        "file": "videos/00057.mp4",
+        "start_ms": 647940,
+        "end_ms": 662340
+      },
+      {
+        "file": "videos/01216.mp4",
+        "start_ms": 150066,
+        "end_ms": 152033
+      },
+      {
+        "file": "videos/05647.mp4",
+        "start_ms": 13813,
+        "end_ms": 14047
+      },
+      {
+        "file": "videos/05647.mp4",
+        "start_ms": 85285,
+        "end_ms": 87887
+      },
+      {
+        "file": "videos/06132.mp4",
+        "start_ms": 280300,
+        "end_ms": 294980
+      },
+      {
+        "file": "videos/00057.mp4",
+        "start_ms": 1069300,
+        "end_ms": 1073600
+      },
+      {
+        "file": "videos/12753.mp4",
+        "start_ms": 724623,
+        "end_ms": 736802
+      },
+      {
+        "file": "videos/16066.mp4",
+        "start_ms": 413246,
+        "end_ms": 421788
+      },
+      {
+        "file": "videos/00715.mp4",
+        "start_ms": 235768,
+        "end_ms": 237537
+      },
+      {
+        "file": "videos/01709.mp4",
+        "start_ms": 223656,
+        "end_ms": 246346
+      },
+      {
+        "file": "videos/05445.mp4",
+        "start_ms": 189355,
+        "end_ms": 192892
+      },
+      {
+        "file": "videos/12753.mp4",
+        "start_ms": 477960,
+        "end_ms": 488771
+      },
+      {
+        "file": "videos/12613.mp4",
+        "start_ms": 200200,
+        "end_ms": 201301
+      },
+      {
+        "file": "videos/06021.mp4",
+        "start_ms": 180480,
+        "end_ms": 182640
+      },
+      {
+        "file": "videos/04039.mp4",
+        "start_ms": 142175,
+        "end_ms": 145545
+      },
+      {
+        "file": "videos/10728.mp4",
+        "start_ms": 0,
+        "end_ms": 800
+      },
+      {
+        "file": "videos/12753.mp4",
+        "start_ms": 311094,
+        "end_ms": 311377
+      },
+      {
+        "file": "videos/16333.mp4",
+        "start_ms": 184160,
+        "end_ms": 190520
+      },
+      {
+        "file": "videos/06132.mp4",
+        "start_ms": 246640,
+        "end_ms": 250580
+      },
+      {
+        "file": "videos/11504.mp4",
+        "start_ms": 31865,
+        "end_ms": 37971
+      },
+      {
+        "file": "videos/07793.mp4",
+        "start_ms": 56289,
+        "end_ms": 62395
+      },
+      {
+        "file": "videos/12613.mp4",
+        "start_ms": 155255,
+        "end_ms": 155655
+      },
+      {
+        "file": "videos/16066.mp4",
+        "start_ms": 525258,
+        "end_ms": 531464
+      },
+      {
+        "file": "videos/05647.mp4",
+        "start_ms": 36469,
+        "end_ms": 40140
+      },
+      {
+        "file": "videos/02668.mp4",
+        "start_ms": 1464396,
+        "end_ms": 1464696
+      },
+      {
+        "file": "videos/02263.mp4",
+        "start_ms": 30163,
+        "end_ms": 31898
+      },
+      {
+        "file": "videos/12613.mp4",
+        "start_ms": 153920,
+        "end_ms": 154621
+      },
+      {
+        "file": "videos/16333.mp4",
+        "start_ms": 17360,
+        "end_ms": 21880
+      },
+      {
+        "file": "videos/08970.mp4",
+        "start_ms": 68601,
+        "end_ms": 83049
+      },
+      {
+        "file": "videos/02668.mp4",
+        "start_ms": 1467399,
+        "end_ms": 1467833
+      },
+      {
+        "file": "videos/08591.mp4",
+        "start_ms": 347847,
+        "end_ms": 370770
+      },
+      {
+        "file": "videos/09097.mp4",
+        "start_ms": 340560,
+        "end_ms": 345720
+      },
+      {
+        "file": "videos/14040.mp4",
+        "start_ms": 180914,
+        "end_ms": 186586
+      },
+      {
+        "file": "videos/06132.mp4",
+        "start_ms": 295000,
+        "end_ms": 309600
+      },
+      {
+        "file": "videos/12753.mp4",
+        "start_ms": 511561,
+        "end_ms": 516315
+      },
+      {
+        "file": "videos/12753.mp4",
+        "start_ms": 758340,
+        "end_ms": 760893
+      }
+    ],
+    "rejected": [
+      {
+        "file": "videos/10128.mp4",
+        "start_ms": 599083,
+        "end_ms": 599333
+      },
+      {
+        "file": "videos/06250.mp4",
+        "start_ms": 280013,
+        "end_ms": 280280
+      },
+      {
+        "file": "videos/16990.mp4",
+        "start_ms": 121533,
+        "end_ms": 122716
+      },
+      {
+        "file": "videos/12753.mp4",
+        "start_ms": 724056,
+        "end_ms": 724507
+      },
+      {
+        "file": "videos/07226.mp4",
+        "start_ms": 303336,
+        "end_ms": 303469
+      },
+      {
+        "file": "videos/05805.mp4",
+        "start_ms": 165080,
+        "end_ms": 165720
+      },
+      {
+        "file": "videos/06625.mp4",
+        "start_ms": 220200,
+        "end_ms": 220600
+      },
+      {
+        "file": "videos/16066.mp4",
+        "start_ms": 291291,
+        "end_ms": 291758
+      },
+      {
+        "file": "videos/15508.mp4",
+        "start_ms": 171171,
+        "end_ms": 171538
+      },
+      {
+        "file": "videos/12753.mp4",
+        "start_ms": 680429,
+        "end_ms": 692575
+      },
+      {
+        "file": "videos/16066.mp4",
+        "start_ms": 423089,
+        "end_ms": 447380
+      },
+      {
+        "file": "videos/15962.mp4",
+        "start_ms": 314920,
+        "end_ms": 315680
+      },
+      {
+        "file": "videos/01705.mp4",
+        "start_ms": 12200,
+        "end_ms": 13960
+      },
+      {
+        "file": "videos/01705.mp4",
+        "start_ms": 75040,
+        "end_ms": 75480
+      },
+      {
+        "file": "videos/10728.mp4",
+        "start_ms": 94680,
+        "end_ms": 97360
+      },
+      {
+        "file": "videos/07691.mp4",
+        "start_ms": 194894,
+        "end_ms": 207073
+      },
+      {
+        "file": "videos/13666.mp4",
+        "start_ms": 208040,
+        "end_ms": 211800
+      },
+      {
+        "file": "videos/03878.mp4",
+        "start_ms": 178595,
+        "end_ms": 179387
+      },
+      {
+        "file": "videos/08725.mp4",
+        "start_ms": 199000,
+        "end_ms": 200080
+      },
+      {
+        "file": "videos/16066.mp4",
+        "start_ms": 293059,
+        "end_ms": 317517
+      },
+      {
+        "file": "videos/12766.mp4",
+        "start_ms": 215548,
+        "end_ms": 217550
+      },
+      {
+        "file": "videos/05363.mp4",
+        "start_ms": 181447,
+        "end_ms": 205672
+      },
+      {
+        "file": "videos/12157.mp4",
+        "start_ms": 358991,
+        "end_ms": 362295
+      },
+      {
+        "file": "videos/01492.mp4",
+        "start_ms": 98920,
+        "end_ms": 106600
+      },
+      {
+        "file": "videos/16968.mp4",
+        "start_ms": 180480,
+        "end_ms": 180980
+      },
+      {
+        "file": "videos/15453.mp4",
+        "start_ms": 75800,
+        "end_ms": 76640
+      },
+      {
+        "file": "videos/16576.mp4",
+        "start_ms": 97297,
+        "end_ms": 101167
+      },
+      {
+        "file": "videos/16066.mp4",
+        "start_ms": 447413,
+        "end_ms": 471904
+      },
+      {
+        "file": "videos/10483.mp4",
+        "start_ms": 158033,
+        "end_ms": 163833
+      },
+      {
+        "file": "videos/09185.mp4",
+        "start_ms": 187820,
+        "end_ms": 192025
+      },
+      {
+        "file": "videos/16110.mp4",
+        "start_ms": 23440,
+        "end_ms": 25000
+      },
+      {
+        "file": "videos/03293.mp4",
+        "start_ms": 49000,
+        "end_ms": 51291
+      },
+      {
+        "file": "videos/00353.mp4",
+        "start_ms": 92041,
+        "end_ms": 96666
+      },
+      {
+        "file": "videos/03858.mp4",
+        "start_ms": 111711,
+        "end_ms": 134934
+      },
+      {
+        "file": "videos/01705.mp4",
+        "start_ms": 193960,
+        "end_ms": 194840
+      },
+      {
+        "file": "videos/03015.mp4",
+        "start_ms": 18120,
+        "end_ms": 18480
+      },
+      {
+        "file": "videos/10128.mp4",
+        "start_ms": 204333,
+        "end_ms": 204625
+      },
+      {
+        "file": "videos/00057.mp4",
+        "start_ms": 825660,
+        "end_ms": 834240
+      },
+      {
+        "file": "videos/06132.mp4",
+        "start_ms": 552700,
+        "end_ms": 560240
+      },
+      {
+        "file": "videos/03293.mp4",
+        "start_ms": 417208,
+        "end_ms": 427416
+      },
+      {
+        "file": "videos/07251.mp4",
+        "start_ms": 83960,
+        "end_ms": 84840
+      },
+      {
+        "file": "videos/05228.mp4",
+        "start_ms": 201880,
+        "end_ms": 203480
+      },
+      {
+        "file": "videos/03094.mp4",
+        "start_ms": 291291,
+        "end_ms": 291991
+      },
+      {
+        "file": "videos/11685.mp4",
+        "start_ms": 116833,
+        "end_ms": 119166
+      },
+      {
+        "file": "videos/10083.mp4",
+        "start_ms": 20053,
+        "end_ms": 22722
+      },
+      {
+        "file": "videos/10528.mp4",
+        "start_ms": 144120,
+        "end_ms": 146880
+      },
+      {
+        "file": "videos/03858.mp4",
+        "start_ms": 259959,
+        "end_ms": 284317
+      },
+      {
+        "file": "videos/01492.mp4",
+        "start_ms": 164160,
+        "end_ms": 166560
+      },
+      {
+        "file": "videos/14386.mp4",
+        "start_ms": 153086,
+        "end_ms": 153286
+      },
+      {
+        "file": "videos/01705.mp4",
+        "start_ms": 23000,
+        "end_ms": 23520
+      },
+      {
+        "file": "videos/03878.mp4",
+        "start_ms": 180054,
+        "end_ms": 181264
+      },
+      {
+        "file": "videos/13558.mp4",
+        "start_ms": 267760,
+        "end_ms": 296920
+      },
+      {
+        "file": "videos/01705.mp4",
+        "start_ms": 12000,
+        "end_ms": 12160
+      },
+      {
+        "file": "videos/06043.mp4",
+        "start_ms": 187760,
+        "end_ms": 192800
+      },
+      {
+        "file": "videos/00559.mp4",
+        "start_ms": 136903,
+        "end_ms": 136920
+      },
+      {
+        "file": "videos/05363.mp4",
+        "start_ms": 54320,
+        "end_ms": 78745
+      },
+      {
+        "file": "videos/14386.mp4",
+        "start_ms": 155421,
+        "end_ms": 155555
+      },
+      {
+        "file": "videos/02281.mp4",
+        "start_ms": 237400,
+        "end_ms": 237933
+      },
+      {
+        "file": "videos/13825.mp4",
+        "start_ms": 36220,
+        "end_ms": 37400
+      },
+      {
+        "file": "videos/12766.mp4",
+        "start_ms": 22188,
+        "end_ms": 23390
+      },
+      {
+        "file": "videos/01764.mp4",
+        "start_ms": 35120,
+        "end_ms": 35640
+      },
+      {
+        "file": "videos/05523.mp4",
+        "start_ms": 130733,
+        "end_ms": 154800
+      },
+      {
+        "file": "videos/10044.mp4",
+        "start_ms": 266160,
+        "end_ms": 267320
+      },
+      {
+        "file": "videos/06295.mp4",
+        "start_ms": 143920,
+        "end_ms": 143960
+      },
+      {
+        "file": "videos/07895.mp4",
+        "start_ms": 265440,
+        "end_ms": 265880
+      },
+      {
+        "file": "videos/07385.mp4",
+        "start_ms": 248800,
+        "end_ms": 249280
+      },
+      {
+        "file": "videos/16066.mp4",
+        "start_ms": 291791,
+        "end_ms": 291824
+      },
+      {
+        "file": "videos/16576.mp4",
+        "start_ms": 190857,
+        "end_ms": 192892
+      },
+      {
+        "file": "videos/10128.mp4",
+        "start_ms": 561041,
+        "end_ms": 561375
+      },
+      {
+        "file": "videos/16066.mp4",
+        "start_ms": 292258,
+        "end_ms": 292959
+      },
+      {
+        "file": "videos/16110.mp4",
+        "start_ms": 25160,
+        "end_ms": 26840
+      },
+      {
+        "file": "videos/05523.mp4",
+        "start_ms": 203833,
+        "end_ms": 213866
+      },
+      {
+        "file": "videos/01764.mp4",
+        "start_ms": 35680,
+        "end_ms": 36200
+      },
+      {
+        "file": "videos/02668.mp4",
+        "start_ms": 723656,
+        "end_ms": 723989
+      },
+      {
+        "file": "videos/07895.mp4",
+        "start_ms": 264280,
+        "end_ms": 265400
+      },
+      {
+        "file": "videos/02281.mp4",
+        "start_ms": 322266,
+        "end_ms": 325433
+      },
+      {
+        "file": "videos/05837.mp4",
+        "start_ms": 541320,
+        "end_ms": 541520
+      },
+      {
+        "file": "videos/04481.mp4",
+        "start_ms": 865965,
+        "end_ms": 868567
+      },
+      {
+        "file": "videos/12558.mp4",
+        "start_ms": 51818,
+        "end_ms": 61227
+      },
+      {
+        "file": "videos/05363.mp4",
+        "start_ms": 159025,
+        "end_ms": 178411
+      },
+      {
+        "file": "videos/12107.mp4",
+        "start_ms": 31840,
+        "end_ms": 34400
+      },
+      {
+        "file": "videos/06025.mp4",
+        "start_ms": 104571,
+        "end_ms": 104938
+      },
+      {
+        "file": "videos/14479.mp4",
+        "start_ms": 231120,
+        "end_ms": 231600
+      },
+      {
+        "file": "videos/09282.mp4",
+        "start_ms": 1288420,
+        "end_ms": 1288754
+      },
+      {
+        "file": "videos/11245.mp4",
+        "start_ms": 146679,
+        "end_ms": 152752
+      },
+      {
+        "file": "videos/06030.mp4",
+        "start_ms": 95095,
+        "end_ms": 95895
+      },
+      {
+        "file": "videos/16066.mp4",
+        "start_ms": 342875,
+        "end_ms": 349015
+      },
+      {
+        "file": "videos/06250.mp4",
+        "start_ms": 277910,
+        "end_ms": 279612
+      },
+      {
+        "file": "videos/12508.mp4",
+        "start_ms": 347814,
+        "end_ms": 370803
+      },
+      {
+        "file": "videos/14479.mp4",
+        "start_ms": 230640,
+        "end_ms": 231080
+      },
+      {
+        "file": "videos/16066.mp4",
+        "start_ms": 148882,
+        "end_ms": 168501
+      },
+      {
+        "file": "videos/15508.mp4",
+        "start_ms": 68268,
+        "end_ms": 70103
+      },
+      {
+        "file": "videos/05523.mp4",
+        "start_ms": 72166,
+        "end_ms": 96366
+      },
+      {
+        "file": "videos/11051.mp4",
+        "start_ms": 88221,
+        "end_ms": 91157
+      },
+      {
+        "file": "videos/09911.mp4",
+        "start_ms": 44280,
+        "end_ms": 44480
+      },
+      {
+        "file": "videos/05804.mp4",
+        "start_ms": 58066,
+        "end_ms": 67100
+      },
+      {
+        "file": "videos/08484.mp4",
+        "start_ms": 56740,
+        "end_ms": 58408
+      }
+    ]
+  },
+  {
+    "name": "vbs24-qa6_N",
+    "accepted": [
+      "Vice Grip Pussies"
+    ],
+    "rejected": [
+      "YUKON BICYCLES",
+      "YUKON BLONDE"
+    ]
+  },
+  {
+    "name": "vbs24-avs3_N",
+    "accepted": [
+      {
+        "file": "videos/02227.mp4",
+        "start_ms": 542750,
+        "end_ms": 561477
+      },
+      {
+        "file": "videos/11612.mp4",
+        "start_ms": 42909,
+        "end_ms": 45011
+      },
+      {
+        "file": "videos/07212.mp4",
+        "start_ms": 45480,
+        "end_ms": 48880
+      },
+      {
+        "file": "videos/15710.mp4",
+        "start_ms": 212480,
+        "end_ms": 213320
+      },
+      {
+        "file": "videos/08875.mp4",
+        "start_ms": 31164,
+        "end_ms": 34968
+      },
+      {
+        "file": "videos/13893.mp4",
+        "start_ms": 433560,
+        "end_ms": 437120
+      },
+      {
+        "file": "videos/09623.mp4",
+        "start_ms": 34040,
+        "end_ms": 37160
+      },
+      {
+        "file": "videos/06226.mp4",
+        "start_ms": 28161,
+        "end_ms": 33133
+      },
+      {
+        "file": "videos/13317.mp4",
+        "start_ms": 15400,
+        "end_ms": 19360
+      },
+      {
+        "file": "videos/03346.mp4",
+        "start_ms": 290250,
+        "end_ms": 292625
+      },
+      {
+        "file": "videos/13471.mp4",
+        "start_ms": 248381,
+        "end_ms": 250216
+      },
+      {
+        "file": "videos/13471.mp4",
+        "start_ms": 243309,
+        "end_ms": 246479
+      },
+      {
+        "file": "videos/16738.mp4",
+        "start_ms": 88560,
+        "end_ms": 91160
+      },
+      {
+        "file": "videos/11762.mp4",
+        "start_ms": 557920,
+        "end_ms": 563880
+      },
+      {
+        "file": "videos/02729.mp4",
+        "start_ms": 163930,
+        "end_ms": 167734
+      },
+      {
+        "file": "videos/03562.mp4",
+        "start_ms": 51885,
+        "end_ms": 54487
+      },
+      {
+        "file": "videos/17095.mp4",
+        "start_ms": 27485,
+        "end_ms": 29988
+      },
+      {
+        "file": "videos/11957.mp4",
+        "start_ms": 126226,
+        "end_ms": 136669
+      },
+      {
+        "file": "videos/13848.mp4",
+        "start_ms": 465200,
+        "end_ms": 486160
+      },
+      {
+        "file": "videos/13317.mp4",
+        "start_ms": 6640,
+        "end_ms": 9360
+      },
+      {
+        "file": "videos/16008.mp4",
+        "start_ms": 1551720,
+        "end_ms": 1554880
+      },
+      {
+        "file": "videos/04451.mp4",
+        "start_ms": 259208,
+        "end_ms": 261458
+      },
+      {
+        "file": "videos/11947.mp4",
+        "start_ms": 39080,
+        "end_ms": 46600
+      },
+      {
+        "file": "videos/14215.mp4",
+        "start_ms": 143640,
+        "end_ms": 150720
+      },
+      {
+        "file": "videos/00535.mp4",
+        "start_ms": 1037760,
+        "end_ms": 1038400
+      },
+      {
+        "file": "videos/13848.mp4",
+        "start_ms": 1916720,
+        "end_ms": 1920720
+      },
+      {
+        "file": "videos/12791.mp4",
+        "start_ms": 248166,
+        "end_ms": 251000
+      },
+      {
+        "file": "videos/11619.mp4",
+        "start_ms": 244320,
+        "end_ms": 273080
+      },
+      {
+        "file": "videos/13611.mp4",
+        "start_ms": 80330,
+        "end_ms": 83216
+      },
+      {
+        "file": "videos/14532.mp4",
+        "start_ms": 169002,
+        "end_ms": 178219
+      },
+      {
+        "file": "videos/14744.mp4",
+        "start_ms": 163320,
+        "end_ms": 163720
+      },
+      {
+        "file": "videos/00015.mp4",
+        "start_ms": 97166,
+        "end_ms": 98900
+      },
+      {
+        "file": "videos/11276.mp4",
+        "start_ms": 1023622,
+        "end_ms": 1023689
+      },
+      {
+        "file": "videos/08786.mp4",
+        "start_ms": 625440,
+        "end_ms": 628720
+      },
+      {
+        "file": "videos/14215.mp4",
+        "start_ms": 176920,
+        "end_ms": 189960
+      },
+      {
+        "file": "videos/13317.mp4",
+        "start_ms": 9400,
+        "end_ms": 12720
+      },
+      {
+        "file": "videos/06034.mp4",
+        "start_ms": 746537,
+        "end_ms": 749331
+      },
+      {
+        "file": "videos/08771.mp4",
+        "start_ms": 143476,
+        "end_ms": 146980
+      },
+      {
+        "file": "videos/00535.mp4",
+        "start_ms": 1041800,
+        "end_ms": 1042480
+      },
+      {
+        "file": "videos/12791.mp4",
+        "start_ms": 229583,
+        "end_ms": 232041
+      },
+      {
+        "file": "videos/03935.mp4",
+        "start_ms": 446080,
+        "end_ms": 447160
+      },
+      {
+        "file": "videos/13477.mp4",
+        "start_ms": 23400,
+        "end_ms": 25500
+      },
+      {
+        "file": "videos/16008.mp4",
+        "start_ms": 917000,
+        "end_ms": 924520
+      },
+      {
+        "file": "videos/03935.mp4",
+        "start_ms": 447200,
+        "end_ms": 448320
+      },
+      {
+        "file": "videos/11514.mp4",
+        "start_ms": 188479,
+        "end_ms": 190440
+      },
+      {
+        "file": "videos/08786.mp4",
+        "start_ms": 628760,
+        "end_ms": 630120
+      },
+      {
+        "file": "videos/12791.mp4",
+        "start_ms": 176041,
+        "end_ms": 179750
+      },
+      {
+        "file": "videos/10981.mp4",
+        "start_ms": 97897,
+        "end_ms": 98598
+      },
+      {
+        "file": "videos/12791.mp4",
+        "start_ms": 179791,
+        "end_ms": 181625
+      },
+      {
+        "file": "videos/14532.mp4",
+        "start_ms": 119285,
+        "end_ms": 139014
+      },
+      {
+        "file": "videos/06629.mp4",
+        "start_ms": 1091123,
+        "end_ms": 1092658
+      },
+      {
+        "file": "videos/03004.mp4",
+        "start_ms": 375308,
+        "end_ms": 376876
+      },
+      {
+        "file": "videos/07810.mp4",
+        "start_ms": 42480,
+        "end_ms": 46600
+      },
+      {
+        "file": "videos/10899.mp4",
+        "start_ms": 747480,
+        "end_ms": 750483
+      },
+      {
+        "file": "videos/13848.mp4",
+        "start_ms": 2414920,
+        "end_ms": 2419520
+      },
+      {
+        "file": "videos/09957.mp4",
+        "start_ms": 425391,
+        "end_ms": 427126
+      },
+      {
+        "file": "videos/08601.mp4",
+        "start_ms": 258520,
+        "end_ms": 261400
+      },
+      {
+        "file": "videos/08699.mp4",
+        "start_ms": 151584,
+        "end_ms": 156823
+      },
+      {
+        "file": "videos/00015.mp4",
+        "start_ms": 98933,
+        "end_ms": 102433
+      },
+      {
+        "file": "videos/14215.mp4",
+        "start_ms": 171320,
+        "end_ms": 176520
+      },
+      {
+        "file": "videos/08029.mp4",
+        "start_ms": 34400,
+        "end_ms": 35800
+      },
+      {
+        "file": "videos/12447.mp4",
+        "start_ms": 78120,
+        "end_ms": 80560
+      },
+      {
+        "file": "videos/01548.mp4",
+        "start_ms": 1182881,
+        "end_ms": 1183315
+      },
+      {
+        "file": "videos/00049.mp4",
+        "start_ms": 180240,
+        "end_ms": 183480
+      },
+      {
+        "file": "videos/11514.mp4",
+        "start_ms": 77410,
+        "end_ms": 81206
+      },
+      {
+        "file": "videos/01548.mp4",
+        "start_ms": 1184249,
+        "end_ms": 1184650
+      },
+      {
+        "file": "videos/08699.mp4",
+        "start_ms": 163596,
+        "end_ms": 164531
+      },
+      {
+        "file": "videos/15114.mp4",
+        "start_ms": 100433,
+        "end_ms": 103186
+      },
+      {
+        "file": "videos/08029.mp4",
+        "start_ms": 4840,
+        "end_ms": 34360
+      },
+      {
+        "file": "videos/06629.mp4",
+        "start_ms": 1089988,
+        "end_ms": 1091090
+      },
+      {
+        "file": "videos/08699.mp4",
+        "start_ms": 178945,
+        "end_ms": 199899
+      },
+      {
+        "file": "videos/14880.mp4",
+        "start_ms": 178840,
+        "end_ms": 181320
+      },
+      {
+        "file": "videos/06430.mp4",
+        "start_ms": 580997,
+        "end_ms": 584584
+      },
+      {
+        "file": "videos/06051.mp4",
+        "start_ms": 28461,
+        "end_ms": 30230
+      }
+    ],
+    "rejected": [
+      {
+        "file": "videos/01548.mp4",
+        "start_ms": 1182548,
+        "end_ms": 1182848
+      },
+      {
+        "file": "videos/01283.mp4",
+        "start_ms": 110840,
+        "end_ms": 128360
+      },
+      {
+        "file": "videos/03230.mp4",
+        "start_ms": 366840,
+        "end_ms": 370000
+      },
+      {
+        "file": "videos/05124.mp4",
+        "start_ms": 316190,
+        "end_ms": 317608
+      },
+      {
+        "file": "videos/08309.mp4",
+        "start_ms": 45500,
+        "end_ms": 45875
+      },
+      {
+        "file": "videos/02436.mp4",
+        "start_ms": 44511,
+        "end_ms": 51918
+      },
+      {
+        "file": "videos/02227.mp4",
+        "start_ms": 561519,
+        "end_ms": 578160
+      },
+      {
+        "file": "videos/05932.mp4",
+        "start_ms": 27760,
+        "end_ms": 30160
+      },
+      {
+        "file": "videos/05124.mp4",
+        "start_ms": 259384,
+        "end_ms": 260718
+      },
+      {
+        "file": "videos/03764.mp4",
+        "start_ms": 85233,
+        "end_ms": 105133
+      },
+      {
+        "file": "videos/07784.mp4",
+        "start_ms": 43840,
+        "end_ms": 45000
+      },
+      {
+        "file": "videos/12874.mp4",
+        "start_ms": 91960,
+        "end_ms": 93920
+      },
+      {
+        "file": "videos/10183.mp4",
+        "start_ms": 94160,
+        "end_ms": 96280
+      },
+      {
+        "file": "videos/13605.mp4",
+        "start_ms": 22022,
+        "end_ms": 22564
+      },
+      {
+        "file": "videos/11581.mp4",
+        "start_ms": 77840,
+        "end_ms": 90120
+      },
+      {
+        "file": "videos/17014.mp4",
+        "start_ms": 976809,
+        "end_ms": 993993
+      },
+      {
+        "file": "videos/02227.mp4",
+        "start_ms": 179137,
+        "end_ms": 189355
+      },
+      {
+        "file": "videos/00535.mp4",
+        "start_ms": 0,
+        "end_ms": 200
+      },
+      {
+        "file": "videos/03230.mp4",
+        "start_ms": 297320,
+        "end_ms": 308000
+      },
+      {
+        "file": "videos/06721.mp4",
+        "start_ms": 0,
+        "end_ms": 567
+      },
+      {
+        "file": "videos/08773.mp4",
+        "start_ms": 212503,
+        "end_ms": 214505
+      },
+      {
+        "file": "videos/13317.mp4",
+        "start_ms": 59480,
+        "end_ms": 64120
+      },
+      {
+        "file": "videos/04451.mp4",
+        "start_ms": 263250,
+        "end_ms": 265583
+      },
+      {
+        "file": "videos/15190.mp4",
+        "start_ms": 33,
+        "end_ms": 3870
+      },
+      {
+        "file": "videos/14301.mp4",
+        "start_ms": 42280,
+        "end_ms": 44560
+      },
+      {
+        "file": "videos/09258.mp4",
+        "start_ms": 155360,
+        "end_ms": 156920
+      }
+    ]
+  },
+  {
+    "name": "vbs24-qa7_N",
+    "accepted": [
+      "L7 KKR"
+    ],
+    "rejected": [
+      "N948EDT",
+      "N948 EOT",
+      "n948 eot"
+    ]
+  }
+]

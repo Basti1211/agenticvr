@@ -1,0 +1,16 @@
+{
+  "annotator": "A1",
+  "video_id": "video_38",
+  "started_at": "2026-08-18T12:28:33.775Z",
+  "submitted_at": "2026-08-18T12:31:33.778Z",
+  "elapsed_seconds": 180.002,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "There video shows two people on a stage. The camera is really close to their faces most of the time. The first frame shows a man with black, curly hair and dark eyes. He wears a tank top and holds a microphone. The second men has black curly hair as well, he sings into a stationary microphone and has two lip piercings. He wears a red shirt and some darker vest. In the background there are hands holding something. in the ende we see a third person playing drums. He has also black curly hair and wears a black tank top. the wall is re"
+  },
+  "tool_version": 1
+}

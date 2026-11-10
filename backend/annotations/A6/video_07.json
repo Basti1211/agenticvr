@@ -1,0 +1,16 @@
+{
+  "annotator": "A6",
+  "video_id": "video_07",
+  "started_at": "2026-08-19T11:31:41.888Z",
+  "submitted_at": "2026-08-19T11:34:42.027Z",
+  "elapsed_seconds": 180.14,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Underwater scene. Lots of yellow and green. Camera pan to the right the whole time. Colors go from green to yellow to blue in the very end. The yellow are some corals or whatever and are the center of the video. In the background small fish can be seen swimming. In the middle, you can see the water from the ocean very blue coming from the top. Lots of corals and fish. Kinda chaotic backdrop."
+  },
+  "tool_version": 1
+}

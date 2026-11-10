@@ -1,0 +1,16 @@
+{
+  "annotator": "A4",
+  "video_id": "video_39",
+  "started_at": "2026-08-18T12:55:51.969Z",
+  "submitted_at": "2026-08-18T12:58:52.124Z",
+  "elapsed_seconds": 180.154,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The video shows some establishing shots for a blue racecar. it hasa  glossy finish with many smaller dots reflecting the lights of teh overhead garage. the camera moves slowly from right to left revealing the car behind a darkish grey one. the trunk is open with a person standing there seemingly explaining something."
+  },
+  "tool_version": 1
+}

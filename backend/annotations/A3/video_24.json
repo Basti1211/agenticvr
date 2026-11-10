@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_24",
+  "started_at": "2026-08-18T11:35:45.038Z",
+  "submitted_at": "2026-08-18T11:38:45.095Z",
+  "elapsed_seconds": 180.056,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "A fight video of 2 boxers in a ring and a refree. The two fighting boys wear a black and a red short. The referee a white-black-striped tshirt and black yeans. You can see a black fence in the foreground so the video is taped from behind that fence. Both boys wear boxing gloves. There is a public audience in the back. You can read Northwest Fighting.com in the bottom right corner of the video. The floor of the fighting area is red."
+  },
+  "tool_version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_29",
+  "started_at": "2026-08-18T11:05:24.515Z",
+  "submitted_at": "2026-08-18T11:08:24.582Z",
+  "elapsed_seconds": 180.067,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The video shows an underwater scene with one jellyfish in focus. The water is very dark so you can barely see anything but the jellyfish and some small light bubbles around the whole underwater scene (maybe some smaller jellyfish). The jellyfish is swimming downwards. The camera moves around abruptly."
+  },
+  "tool_version": 1
+}

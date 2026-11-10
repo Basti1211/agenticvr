@@ -1,0 +1,16 @@
+{
+  "annotator": "A6",
+  "video_id": "video_12",
+  "started_at": "2026-08-19T11:44:23.251Z",
+  "submitted_at": "2026-08-19T11:47:23.294Z",
+  "elapsed_seconds": 180.043,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Ego-view of mountain biker riding trail in the outback. Brown gravel trail. Front wheel partially visible in the beginning. Big views to the left. Green grass, looks yellow-ish when lit by the sun. Some radio tower in the background. The shadow of the biker is visible in the left in the beginning. Biker seems to be riding slow, even though he's really working the pedals, as can be seen in the shadow. The shadow also shows the biker wearing a helmet."
+  },
+  "tool_version": 1
+}

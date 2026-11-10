@@ -1,0 +1,16 @@
+{
+  "annotator": "A4",
+  "video_id": "video_35",
+  "started_at": "2026-08-18T12:49:46.425Z",
+  "submitted_at": "2026-08-18T12:52:46.440Z",
+  "elapsed_seconds": 180.015,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "A timelapse video in black and white showing artists doing work on a wall with two larger windows left anf right. its some larger hall so the artist steps on a ladder to reach the higher portions of the wall for painting. the paintitn gappearts to depict some hills strechting  across a curved horizon, the hills have height lines like  topographical map, while on the top right the sun appears to burst with some rays shining down."
+  },
+  "tool_version": 1
+}

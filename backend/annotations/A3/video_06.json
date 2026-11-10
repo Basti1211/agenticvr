@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_06",
+  "started_at": "2026-08-18T11:55:44.964Z",
+  "submitted_at": "2026-08-18T11:58:45.018Z",
+  "elapsed_seconds": 180.054,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Underwater scene where no colored plants/corals or fish are visible but just the stones on the floor of the sea. The recorder seems to move backward. You can see that it's recorded somewhere in the ocean close to the surface since the sun is shining through."
+  },
+  "tool_version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_14",
+  "started_at": "2026-08-18T11:44:50.799Z",
+  "submitted_at": "2026-08-18T11:47:50.862Z",
+  "elapsed_seconds": 180.063,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "a medical operaiton taking place. a long stick with a small white/golden hook on top is opening up some tissue with an incision. it looks llike there is some smoke coming, the part where the incision happens also looks also slightly burnt.\n"
+  },
+  "tool_version": 1
+}

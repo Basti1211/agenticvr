@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_44",
+  "started_at": "2026-08-18T11:27:53.172Z",
+  "submitted_at": "2026-08-18T11:30:53.231Z",
+  "elapsed_seconds": 180.058,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Scene of peoples on a beach swimming on stand up paddles. First there is a blond girl in a blue bikini whos paddeling away from the beach, then the camera shifts to 2 guys paddeling. The boards are white, gray and yellow. The weather looks sunny with only some clouds. There are some trees on the beach and behind it a brown hill. There are not much waves and they seem to have fun. The man in the end holding the board smiles and has brown hair."
+  },
+  "tool_version": 1
+}

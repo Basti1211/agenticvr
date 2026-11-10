@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_09",
+  "started_at": "2026-08-18T11:32:41.429Z",
+  "submitted_at": "2026-08-18T11:35:41.495Z",
+  "elapsed_seconds": 180.066,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "An old black white video scene. There are military men eating and probably Christmas since there is a small tree with light bulbs on the table on the right. There is a small brick wall in the middle of the scene. At the end of the video gets some german text displayed. The man seem to enjoy themselves at the party. There are no women. You can see windows in the back of the room. The eat."
+  },
+  "tool_version": 1
+}

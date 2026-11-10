@@ -1,0 +1,16 @@
+{
+  "annotator": "A5",
+  "video_id": "video_36",
+  "started_at": "2026-08-18T18:26:22.417Z",
+  "submitted_at": "2026-08-18T18:29:22.577Z",
+  "elapsed_seconds": 180.168,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Eine Szene auf einem Berg. Man sieht einen Mann aus Frontalperspektive, der vermutlich einen Selfiestick hält, wo die Kamera sitzt. links im Bild sieht man einen Himmel, der stark belichtet ist. Andere Berge im Hintergrund. Es geht steil bergab, der Hang ist von sattem grünen Gras bedeckt. Ein Weg aus Kies geht gerade durchs Bild. Der Mann ist Mittelalt, kurze schwarze Haare, trägt ein blaues Oberteil und eine getönte Brille. Er hat einen lila Wanderrucksack. Die Perspektive wechselt von Selfie zur Beobachterperspektive, man sieht vom Berg weg. Im Vordergrund stehen einige helle Felsen, die etwa hüfthoch sein dürften. Im Hintergrund sieht man weitere Be"
+  },
+  "tool_version": 1
+}

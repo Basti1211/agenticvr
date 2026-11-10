@@ -1,0 +1,16 @@
+{
+  "default_endpoint": "VLLM",
+  "endpoints": {
+    "OLLAMA": {
+      "API_key": "sk-de9b020fcf3e4b359842486455dc6616",
+      "API_url": "https://your_ollama_endpoint.com/ollama/api/chat",
+      "model": "Qwen3.6-35B-A3B-FP8"
+    },
+    "VLLM": {
+      "API_url": "https://your_public_url.com/",
+      "model": "Qwen3.8-27B-FP8",
+      "served_model": "Qwen/Qwen3.8-27B-FP8",
+      "parallel_requests": 2
+    }
+  }
+}

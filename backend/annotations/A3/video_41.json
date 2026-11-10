@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_41",
+  "started_at": "2026-08-18T12:01:54.626Z",
+  "submitted_at": "2026-08-18T12:04:54.689Z",
+  "elapsed_seconds": 180.063,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "mp3 player (black orange) on the green grass that is getting picked up by a very old man with white hair and beard. He has a whistle in his mouth and walks away with the mp3 player in his hand. He wears long trousers and a shirt and a west in brown/blue/gray colors. In the back are some rose flower bushes on the right."
+  },
+  "tool_version": 1
+}

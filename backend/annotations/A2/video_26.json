@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_26",
+  "started_at": "2026-08-18T11:56:09.421Z",
+  "submitted_at": "2026-08-18T11:59:09.521Z",
+  "elapsed_seconds": 180.1,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "a medical operation taking aplace. a silve operation tool,l looking like a small scissor, is making an incision int tissue. the tool is from the company olympus, as it is engraved on the tool.\nthe scissor moves close to the tussue, perfoms a cut, and is released again.\nthe frame of the view is round, with black padding on the outside."
+  },
+  "tool_version": 1
+}

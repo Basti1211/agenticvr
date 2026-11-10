@@ -1,0 +1,16 @@
+{
+  "annotator": "A5",
+  "video_id": "video_51",
+  "started_at": "2026-08-18T18:05:14.950Z",
+  "submitted_at": "2026-08-18T18:08:15.032Z",
+  "elapsed_seconds": 180.089,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Frau geht durch einen Einkaufsladen, vermultich eine Müller Filiale. Zu beginn ist ein links ein Blumenstrauß mit künstlichen Blumen zu sehen, rechts stehen Regale mit Karten. Im mittleren Segment sind Spiegel zu erkennen. Die Kamera fährt von links nach rechts. Anschließend Schnitt auf das Gesicht von vorne. Die Frau blickt rechts unten aus Beobachterperspektive. In der letzten Sequenz wechselt die Perspektive von hinten nach vorne, während die Frau eine Rolltreppe hinunterfährt. Hinter ihr steht ein Mann mit längeren Haaren. "
+  },
+  "tool_version": 1
+}

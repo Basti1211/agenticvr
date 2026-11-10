@@ -1,0 +1,16 @@
+{
+  "annotator": "A1",
+  "video_id": "video_03",
+  "started_at": "2026-08-18T12:21:07.796Z",
+  "submitted_at": "2026-08-18T12:24:07.911Z",
+  "elapsed_seconds": 180.114,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "In the first cut/image we can see the colon (?) from the inside and the Lower left part of the screen is black. Then the camera shifts and we see parts of the colon on the left as well. There is some kind of device moving. The skin is orange with some veins and more oink onto"
+  },
+  "tool_version": 1
+}

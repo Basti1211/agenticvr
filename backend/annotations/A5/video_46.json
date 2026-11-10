@@ -1,0 +1,16 @@
+{
+  "annotator": "A5",
+  "video_id": "video_46",
+  "started_at": "2026-08-18T18:23:15.724Z",
+  "submitted_at": "2026-08-18T18:26:15.766Z",
+  "elapsed_seconds": 180.049,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Man sieht eine ein Häuschen aus Brettern in einer ländlichen Gegend, links davon steht ein silbernes Auto. Der Zugang wird über eine hölzerne Rampe aus gräulich angelaufenem Holz ermöglicht. Ein weißer Hund ist zu sehen. Schnitt zu einem Schalter, wo eine Frau mit schwarzen Haaren und einem weiß schwarz gestreiftem Top vor einer vergitterten Öffnung steht. Auf der andere Seite ist ein Raum zu sehen, wo ein Regal im Hintergrund links steht. Eine Frau mit blauem Oberteil und blonden lockigen kurzen Haaren und Brille zählt etwas ab und gibt der Frau im gestreiften Top etwas. Die Frau reicht im Gegenzug einen Schein hinein. "
+  },
+  "tool_version": 1
+}

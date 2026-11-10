@@ -1,0 +1,16 @@
+{
+  "annotator": "A1",
+  "video_id": "video_06",
+  "started_at": "2026-08-18T12:53:20.021Z",
+  "submitted_at": "2026-08-18T12:56:20.030Z",
+  "elapsed_seconds": 180.008,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The video shows an underwater scene but focuses on the ground. There are rocks and sand but no algae or corals. The water is light blue/ turquoise. The camera moves around quite quickly."
+  },
+  "tool_version": 1
+}

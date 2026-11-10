@@ -1,0 +1,16 @@
+{
+  "annotator": "A6",
+  "video_id": "video_11",
+  "started_at": "2026-08-19T12:07:41.647Z",
+  "submitted_at": "2026-08-19T12:10:41.670Z",
+  "elapsed_seconds": 180.021,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Children sledging down a tiny hill. Snow. Hay wall delineating the snowy sledging hill from the rest of the innter city. Red and green flags in the air. Asian looking girl in the end standing in front of the camera after a cut. Dude in beige pants and blue jacket watching a girl come down the hill in her red sled.\nGrey buildings in the background.\nTrees with no leaves.\nPeople walking by in the background."
+  },
+  "tool_version": 1
+}

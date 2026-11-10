@@ -1,0 +1,16 @@
+{
+  "annotator": "A4",
+  "video_id": "video_46",
+  "started_at": "2026-08-18T12:32:11.252Z",
+  "submitted_at": "2026-08-18T12:35:11.396Z",
+  "elapsed_seconds": 180.145,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Video of a woman getting stamps at some form of post office. there is a metal fence between the worker and the woman in the striped shirt. The end frame has her with her dog on the outside of a smaller house.\nThe house if white with a blue door and windows, simialr to the inside."
+  },
+  "tool_version": 1
+}

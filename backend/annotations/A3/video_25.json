@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_25",
+  "started_at": "2026-08-18T11:46:32.676Z",
+  "submitted_at": "2026-08-18T11:49:32.739Z",
+  "elapsed_seconds": 180.063,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "You can see how rice is made in a rice cooker. There is a black sushi paper in the rice which is not yet boiled, and you can see the water above the rice floating. The video starts really zommed in on the rice and then it zomms out and you can see the hands of a person closing the lid of the rice cooker and pressing a button to start the cooking process. The cooker has dark colors (black-grayish)."
+  },
+  "tool_version": 1
+}

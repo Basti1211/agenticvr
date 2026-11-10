@@ -1,0 +1,16 @@
+{
+  "annotator": "A1",
+  "video_id": "video_22",
+  "started_at": "2026-08-18T12:56:22.225Z",
+  "submitted_at": "2026-08-18T12:59:22.327Z",
+  "elapsed_seconds": 180.101,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "There is a mean sitting on red couch in front of class balustrade. In the background is an open space with people walking there. He wears a blue shirt, black belt and blue jeans. We cannot see his feet. He has short light brown hair, no beard and wears classes. He moves his hands quite a lot while talking to the camera but moves his right hand more. On his right hand he wears a ring on the ring finger. The light is really white/blueish"
+  },
+  "tool_version": 1
+}

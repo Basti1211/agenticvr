@@ -1,0 +1,16 @@
+{
+  "annotator": "A4",
+  "video_id": "video_50",
+  "started_at": "2026-08-18T11:58:04.444Z",
+  "submitted_at": "2026-08-18T12:01:04.542Z",
+  "elapsed_seconds": 180.097,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Video of people shopping in a clothing outlet, standing at clothign racks having shirts or shorts in different colors. People are looking through these full racks of clothes while another shot shows people standing in the background talking and sitting down at some counter. the shop seems to be in a city with soem shots showing the background being a street with some bicylces and cars parking or driving past."
+  },
+  "tool_version": 1
+}

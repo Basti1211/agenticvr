@@ -1,0 +1,356 @@
+[
+  {
+    "name": "vbs25-qa2",
+    "task_type": "VBS25_QA_TYPE",
+    "input": {
+      "text": "According to the sign on the tractor, what is the speed limit?",
+      "video": {
+        "file": "24789.mp4",
+        "start_ms": 464500,
+        "end_ms": 469000
+      }
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs25-qa3",
+    "task_type": "VBS25_QA_TYPE",
+    "input": {
+      "video": {
+        "file": "17277.mp4",
+        "start_ms": 617000,
+        "end_ms": 631000
+      },
+      "text": "Which items did the boy who owns this portable music player give to the other boy?"
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs25-qa4",
+    "task_type": "VBS25_QA_TYPE",
+    "input": {
+      "video": {
+        "file": "09738.mp4",
+        "start_ms": 10000,
+        "end_ms": 17000
+      },
+      "text": "How many cups of sour cream did they get?"
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs25-qa5",
+    "task_type": "VBS25_QA_TYPE",
+    "input": {
+      "video": {
+        "file": "22811.mp4",
+        "start_ms": 76000,
+        "end_ms": 86000
+      },
+      "text": "What is on the shirt of the person filming?"
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs25-qa6",
+    "task_type": "VBS25_QA_TYPE",
+    "input": {
+      "video": {
+        "file": "02799.mp4",
+        "start_ms": 171000,
+        "end_ms": 180000
+      },
+      "text": "In which US state is the paddlers' car registered?"
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs25-qa7",
+    "task_type": "VBS25_QA_TYPE",
+    "input": {
+      "video": {
+        "file": "07220.mp4",
+        "start_ms": 252000,
+        "end_ms": 258000
+      },
+      "text": "What is being carried on the bike of the man passing the newspaper stand?"
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs25-avs2",
+    "task_type": "VBS25_AVS_TYPE_CORRECTED",
+    "input": {
+      "text": "Find shots of a person putting down a suitcase outdoors."
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs25-avs3",
+    "task_type": "VBS25_AVS_TYPE_CORRECTED",
+    "input": {
+      "text": "Find monochrome (e.g. black and white) indoor shots of at least three visible people dancing."
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs25-avs4",
+    "task_type": "VBS25_AVS_TYPE_CORRECTED",
+    "input": {
+      "text": "Find shots taken from the head-mounted camera of a mountain biker going downhill on an off-road trail, who is overtaking another biker."
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs25-kis-v2",
+    "task_type": "VBS25_KISV_TYPE",
+    "input": {
+      "video": {
+        "file": "00006.mp4",
+        "start_ms": 26000,
+        "end_ms": 31000
+      }
+    },
+    "target": {
+      "file": "00006.mp4",
+      "start_ms": 26000,
+      "end_ms": 31000
+    }
+  },
+  {
+    "name": "vbs25-kis-v-lhe2",
+    "task_type": "VBS25_KISV_TYPE",
+    "input": {
+      "video": {
+        "file": "LHE26.mp4",
+        "start_ms": 2223000,
+        "end_ms": 2245000
+      }
+    },
+    "target": {
+      "file": "LHE26.mp4",
+      "start_ms": 2223000,
+      "end_ms": 2245000
+    }
+  },
+  {
+    "name": "vbs25-kis-v-lhe3",
+    "task_type": "VBS25_KISV_TYPE",
+    "input": {
+      "video": {
+        "file": "LHE71.mp4",
+        "start_ms": 700000,
+        "end_ms": 718000
+      }
+    },
+    "target": {
+      "file": "LHE71.mp4",
+      "start_ms": 700000,
+      "end_ms": 718000
+    }
+  },
+  {
+    "name": "vbs25-kis-v-lhe4",
+    "task_type": "VBS25_KISV_TYPE",
+    "input": {
+      "video": {
+        "file": "LHE67.mp4",
+        "start_ms": 350000,
+        "end_ms": 362000
+      }
+    },
+    "target": {
+      "file": "LHE67.mp4",
+      "start_ms": 350000,
+      "end_ms": 362000
+    }
+  },
+  {
+    "name": "vbs25-kis-v-lhe5",
+    "task_type": "VBS25_KISV_TYPE",
+    "input": {
+      "video": {
+        "file": "LHE69.mp4",
+        "start_ms": 47000,
+        "end_ms": 66000
+      }
+    },
+    "target": {
+      "file": "LHE69.mp4",
+      "start_ms": 47000,
+      "end_ms": 66000
+    }
+  },
+  {
+    "name": "vbs25-kis-v-mvk2",
+    "task_type": "VBS25_KISV_TYPE",
+    "input": {
+      "video": {
+        "file": "Jeju_Jul2022_0039.mp4",
+        "start_ms": 11200,
+        "end_ms": 21000
+      }
+    },
+    "target": {
+      "file": "Jeju_Jul2022_0039.mp4",
+      "start_ms": 11200,
+      "end_ms": 21000
+    }
+  },
+  {
+    "name": "vbs25-kis-v-mvk3",
+    "task_type": "VBS25_KISV_TYPE",
+    "input": {
+      "video": {
+        "file": "Molokai_Jul2022_0004.mp4",
+        "start_ms": 18000,
+        "end_ms": 22500
+      }
+    },
+    "target": {
+      "file": "Molokai_Jul2022_0004.mp4",
+      "start_ms": 18000,
+      "end_ms": 22500
+    }
+  },
+  {
+    "name": "vbs25-kis-v-mvk4",
+    "task_type": "VBS25_KISV_TYPE",
+    "input": {
+      "video": {
+        "file": "Silverstrand_Aug2022_0015.mp4",
+        "start_ms": 21000,
+        "end_ms": 26000
+      }
+    },
+    "target": {
+      "file": "Silverstrand_Aug2022_0015.mp4",
+      "start_ms": 21000,
+      "end_ms": 26000
+    }
+  },
+  {
+    "name": "vbs25-kis-v-mvk5",
+    "task_type": "VBS25_KISV_TYPE",
+    "input": {
+      "video": {
+        "file": "Lembeh_Jul2013_0003.mp4",
+        "start_ms": 0,
+        "end_ms": 15000
+      }
+    },
+    "target": {
+      "file": "Lembeh_Jul2013_0003.mp4",
+      "start_ms": 0,
+      "end_ms": 15000
+    }
+  },
+  {
+    "name": "vbs25-kis-c1",
+    "task_type": "VBS25_KISC_TYPE",
+    "input": {
+      "text": "Solve the task presented by the panel and ask them questions for hints."
+    },
+    "target": {
+      "file": "15078.mp4",
+      "start_ms": 1028000,
+      "end_ms": 1063000
+    }
+  },
+  {
+    "name": "vbs25-kis-c2",
+    "task_type": "VBS25_KISC_TYPE",
+    "input": {
+      "text": "Solve the task presented by the panel and ask them questions for hints."
+    },
+    "target": {
+      "file": "05517.mp4",
+      "start_ms": 137400,
+      "end_ms": 160000
+    }
+  },
+  {
+    "name": "vbs25-kis-c3",
+    "task_type": "VBS25_KISC_TYPE",
+    "input": {
+      "text": "Solve the task presented by the panel and ask them questions for hints."
+    },
+    "target": {
+      "file": "15030.mp4",
+      "start_ms": 305700,
+      "end_ms": 307900
+    }
+  },
+  {
+    "name": "vbs25-kis-c4",
+    "task_type": "VBS25_KISC_TYPE",
+    "input": {
+      "text": "Solve the task presented by the panel and ask them questions for hints."
+    },
+    "target": {
+      "file": "15066.mp4",
+      "start_ms": 124300,
+      "end_ms": 144000
+    }
+  },
+  {
+    "name": "vbs25-kis-c6",
+    "task_type": "VBS25_KISC_TYPE",
+    "input": {
+      "text": "Solve the task presented by the panel and ask them questions for hints."
+    },
+    "target": {
+      "file": "17067.mp4",
+      "start_ms": 480100,
+      "end_ms": 497000
+    }
+  },
+  {
+    "name": "vbs25-kis-c7",
+    "task_type": "VBS25_KISC_TYPE",
+    "input": {
+      "text": "Solve the task presented by the panel and ask them questions for hints."
+    },
+    "target": {
+      "file": "12074.mp4",
+      "start_ms": 178400,
+      "end_ms": 184400
+    }
+  },
+  {
+    "name": "vbs25-kis-c8",
+    "task_type": "VBS25_KISC_TYPE",
+    "input": {
+      "text": "Solve the task presented by the panel and ask them questions for hints."
+    },
+    "target": {
+      "file": "22148.mp4",
+      "start_ms": 173300,
+      "end_ms": 180000
+    }
+  },
+  {
+    "name": "vbs25-kis-c9",
+    "task_type": "VBS25_KISC_TYPE",
+    "input": {
+      "text": "Solve the task presented by the panel and ask them questions for hints."
+    },
+    "target": {
+      "file": "26716.mp4",
+      "start_ms": 463500,
+      "end_ms": 476000
+    }
+  },
+  {
+    "name": "vbs25-kis-c10",
+    "task_type": "VBS25_KISC_TYPE",
+    "input": {
+      "text": "Solve the task presented by the panel and ask them questions for hints."
+    },
+    "target": {
+      "file": "21440.mp4",
+      "start_ms": 221000,
+      "end_ms": 235000
+    }
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "image_path": "http://acheron.ms.mff.cuni.cz:42032/images/",
+  "video_path": "http://acheron.ms.mff.cuni.cz:42032/videos/",
+  "search_service_url": "http://acheron.ms.mff.cuni.cz:42032",
+  "data_service_url": "http://acheron.ms.mff.cuni.cz:42032",
+  "fetch_candidates_multiplier": 100,
+
+  "number_of_candidates": 4,
+  "max_scene_duration_seconds": 20,
+  "temporal_group_size": 4,
+  "competition_candidate_filters": [
+    {
+      "year": 2024,
+      "dataset": "v3c",
+      "max_video_id": 17235
+    },
+    {
+      "year": 2023,
+      "dataset": "v3c",
+      "max_video_id": 17235
+    },
+    {
+      "year": 2022,
+      "dataset": "v3c",
+      "max_video_id": 17235
+    },
+    {
+      "year": 2024,
+      "dataset": "all",
+      "allowed_source_video_ids": [
+        "Ambon_Apr2012", "Bali_Apr2014", "Dapang_Jul2022", "Fiji_Jan2011", "GreenEgg_Sep2021", "HongKong_Jul2021", "Jeju_Jul2022", "KauSaiWan_Oct2022",
+        "Keramas_Feb2020", "Komodo_Aug2014", "Lanai_Jul2022", "Lembeh_Jul2013", "LittlePalm_May2021", "Maldives_Dec2015", "Maldives_Dec2019", "Manza_Feb2020", "Maratua_Aug2011",
+        "Molokai_Jul2022", "Molokini_Jul2022", "NusaPenida_Jul2022", "Oahu1_Jul2022", "Oahu2_Jul2022", "Oahu_Jul2022", "Okinawa_Feb2020", "Padangbai_Jun2022", "PhuQuoc1_Jun2022",
+        "PhuQuoc_Jun2022", "RajaAmpat_Jan2013", "RajaAmpat_Jan2017", "Silverstrand_Aug2022", "Sipadan_Jan2015", "Subic_Dec2018", "Triton_Dec2018", "Tulamben1_Jun2022",
+        "Tulamben2_Jun2022", "Tulamben_Jun2022"
+      ]
+    },
+    {
+      "year": 2023,
+      "dataset": "all",
+      "allowed_source_video_ids": [
+        "Ambon_Apr2012", "Bali_Apr2014", "Dapang_Jul2022", "Fiji_Jan2011", "GreenEgg_Sep2021", "HongKong_Jul2021", "Jeju_Jul2022", "KauSaiWan_Oct2022",
+        "Keramas_Feb2020", "Komodo_Aug2014", "Lanai_Jul2022", "Lembeh_Jul2013", "LittlePalm_May2021", "Maldives_Dec2015", "Maldives_Dec2019", "Manza_Feb2020", "Maratua_Aug2011",
+        "Molokai_Jul2022", "Molokini_Jul2022", "NusaPenida_Jul2022", "Oahu1_Jul2022", "Oahu2_Jul2022", "Oahu_Jul2022", "Okinawa_Feb2020", "Padangbai_Jun2022", "PhuQuoc1_Jun2022",
+        "PhuQuoc_Jun2022", "RajaAmpat_Jan2013", "RajaAmpat_Jan2017", "Silverstrand_Aug2022", "Sipadan_Jan2015", "Subic_Dec2018", "Triton_Dec2018", "Tulamben1_Jun2022",
+        "Tulamben2_Jun2022", "Tulamben_Jun2022"
+      ]
+    }
+  ]
+}

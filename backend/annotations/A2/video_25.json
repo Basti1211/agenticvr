@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_25",
+  "started_at": "2026-08-18T11:21:21.621Z",
+  "submitted_at": "2026-08-18T11:24:21.696Z",
+  "elapsed_seconds": 180.075,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "a cooking video. it start with a close up shot of somethihing black boiling in a pot that is filled with water and white stuff (most likely rice).\nA person with a black v neck tshirt, and a necklace, whose face cannot be seen then closes the pot, presses a button, and opens it again after some time.\nin the background there are many many soy sauce bottles (or bottles that look like that) on a shelf"
+  },
+  "tool_version": 1
+}

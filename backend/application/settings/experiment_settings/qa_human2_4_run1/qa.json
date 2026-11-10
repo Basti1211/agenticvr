@@ -1,0 +1,14 @@
+{
+  "max_tokens": 1000,
+  "fps": 5,
+  "resolution_width": 682,
+  "resolution_height": 384,
+  "vqa_max_scenes": 5,
+  "max_vqa_attemps": 3,
+  "vqa_planner_max_steps": 16,
+  "crf": 23,
+  "vqa_fps": 8,
+  "vqa_resolution_width": 1920,
+  "vqa_resolution_height": 1080,
+  "vqa_crf": 18
+}

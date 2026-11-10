@@ -1,0 +1,16 @@
+{
+  "annotator": "A1",
+  "video_id": "video_13",
+  "started_at": "2026-08-18T12:40:43.923Z",
+  "submitted_at": "2026-08-18T12:43:43.955Z",
+  "elapsed_seconds": 180.03,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The video shows on the first from a laughing middle aged women with a light brown blouse and brown hair as well as a ponytail in front of a black laptop while she types something. Then the scene changes to a younger women with black hair and curls. She wears a blue blouse and a black sweater on top. She sits infront of a silver Macbook and wears in ear headphones and looks annoyed. The first types then touches her head. The chairs both sit on are orange and the tables black. Behind the younger women there is another blond women wearing a red-blue shirt. The room also has a white board and cupboard behind the older women "
+  },
+  "tool_version": 1
+}

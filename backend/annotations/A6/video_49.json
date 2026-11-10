@@ -1,0 +1,16 @@
+{
+  "annotator": "A6",
+  "video_id": "video_49",
+  "started_at": "2026-08-19T11:38:19.275Z",
+  "submitted_at": "2026-08-19T11:41:19.459Z",
+  "elapsed_seconds": 180.184,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Showing a desk at home. A woman enters from the right and sits down at a chair on the left of the frame, holding her head, seemingly contemplating. Red old school lamp in the middle of the desk, illuminating the room while leaving a small vignette at the edges of the viewport. A window to the left also lets some light in. TV hanging from the top, only partly visible.\nA second shot is showing the woman from another perspective, after a short moment she stares into the camera and fixes her bad posture as if she's been caught "
+  },
+  "tool_version": 1
+}

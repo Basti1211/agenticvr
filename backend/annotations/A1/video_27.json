@@ -1,0 +1,16 @@
+{
+  "annotator": "A1",
+  "video_id": "video_27",
+  "started_at": "2026-08-18T13:03:29.818Z",
+  "submitted_at": "2026-08-18T13:06:29.882Z",
+  "elapsed_seconds": 180.063,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The video shows the inside of something living. Potentially a human colon. There is some whiter parts on the bottom, yellow parts with red veins on the side and red tissue with thread in scars in the center. Also some silver medical device holds up a white round mass in the video. there is "
+  },
+  "tool_version": 1
+}

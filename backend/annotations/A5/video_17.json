@@ -1,0 +1,16 @@
+{
+  "annotator": "A5",
+  "video_id": "video_17",
+  "started_at": "2026-08-18T18:15:10.684Z",
+  "submitted_at": "2026-08-18T18:18:10.691Z",
+  "elapsed_seconds": 180.031,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Das Video zeigt eine Sequenz innerhalb eines Körpers. Zunächst ist ein großer Gewebelappen zu sehen, über den mit einem metallenen Spatel geschabt wird. im unteren Teil findet sich mit Blutgefäßen durchzogenes, gelblich wirkendes Gewebe, bei dem ein Kammähnliches Gebilde aufragt. Die Sequenz endet mit einem Rückzug der Kamera durch eine Röhre, die sich hin und her bewegt. "
+  },
+  "tool_version": 1
+}

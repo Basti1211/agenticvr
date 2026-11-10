@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_19",
+  "started_at": "2026-08-18T11:28:49.166Z",
+  "submitted_at": "2026-08-18T11:31:49.254Z",
+  "elapsed_seconds": 180.088,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "a diver is seen close to a coral reef.\nhe is holding something small in his hands, presumably a camera.\nthe diver is on the top left of the view, while the bottom right is covered with corals. small fish can be seen swimming through the corals.\nthe colors of the corals are hard to make out, mostly beige or brownish.\nthe diver is wearing fins, and breathing with and an oxygen tank. he wears a neon yellow top.\nhe is initally facing the corals, then turns away and swims in the opposite direction"
+  },
+  "tool_version": 1
+}

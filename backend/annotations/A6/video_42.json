@@ -1,0 +1,16 @@
+{
+  "annotator": "A6",
+  "video_id": "video_42",
+  "started_at": "2026-08-19T11:57:54.585Z",
+  "submitted_at": "2026-08-19T12:00:54.601Z",
+  "elapsed_seconds": 180.016,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Some dude rambling. Standing in front of camera. Camera low. Him over it. Scratches his face. Sign on top of his head: \"FAMILY DINING 24 HRS\". The wall in the background that he is standing in fron is tilted to the left and dark gray. Dude has curly-ish hair and is wearing a red printed shirt. Top right and lil bit on the left: pitch black, seems to be nighttime."
+  },
+  "tool_version": 1
+}

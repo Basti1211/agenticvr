@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_28",
+  "started_at": "2026-08-18T11:24:46.575Z",
+  "submitted_at": "2026-08-18T11:27:46.621Z",
+  "elapsed_seconds": 180.046,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "A medical video inside a (human) body. There is one main purple circular object in the middle that is being pushed away by an operating tool. The colors around it are rather yellow. There is blood. When the purple object is pushed aside you can see a hole where a small white object becomes visible."
+  },
+  "tool_version": 1
+}

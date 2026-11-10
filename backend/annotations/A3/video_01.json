@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_01",
+  "started_at": "2026-08-18T11:58:50.205Z",
+  "submitted_at": "2026-08-18T12:01:50.257Z",
+  "elapsed_seconds": 180.053,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "American football game at night. All players are waiting for the game or action to start then the ball gets thrown into the air. Then the camera follows the ball into the air. Then a referee (black white stru is visible from the back who blows into a whistle and the camera shifts towards the players at the border and audience in the back."
+  },
+  "tool_version": 1
+}

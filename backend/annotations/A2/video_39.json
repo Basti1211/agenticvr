@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_39",
+  "started_at": "2026-08-18T11:32:10.418Z",
+  "submitted_at": "2026-08-18T11:35:10.498Z",
+  "elapsed_seconds": 180.08,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "a close up shot of a car, where a printed slogan in gray on a black backroung is shown. the car itself is blue. the second shot pans and shows the front left side of the volkswagen car, which is lowered, as the wheels barely have space in their framing. licance plate EI5 JAS.\nThe trunk is opened, and a person with a light blue short and blond hair is standing close to the trunk, facing away from the camera "
+  },
+  "tool_version": 1
+}

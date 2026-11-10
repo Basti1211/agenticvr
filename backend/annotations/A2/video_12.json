@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_12",
+  "started_at": "2026-08-18T11:52:48.908Z",
+  "submitted_at": "2026-08-18T11:55:48.958Z",
+  "elapsed_seconds": 180.05,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "a mountanbiker on a gravel road, where we only see the front tire, as the camera is most likely mounted to the chest or head. the road itself is brownish, surrounded by green scrub.\nthe shadow of the biker is visible at some time, revealing that he is most likely wearing a helmet.\nweather is sunny."
+  },
+  "tool_version": 1
+}

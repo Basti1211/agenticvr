@@ -1,0 +1,16 @@
+{
+  "annotator": "A1",
+  "video_id": "video_33",
+  "started_at": "2026-08-18T13:07:03.950Z",
+  "submitted_at": "2026-08-18T13:10:04.052Z",
+  "elapsed_seconds": 180.1,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The video is an underwater scene. In the background there is a ship wreck. There are a lot of air bubbles from divers. On the top of the video appears the hands of a diver in the beginning. In the later part of the video we see a diver by the ship wreck dressed in a black wetsuit with silver scuba tank. The ground is sand and the video is quite dark overall. The camera gets closer to the wreck during the video."
+  },
+  "tool_version": 1
+}

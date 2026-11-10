@@ -1,0 +1,87 @@
+{
+  "Qwen3.6-35B-A3B-FP8": {
+    "model_class": "qwen",
+    "think": {
+      "task_encoder_image_describer": false,
+      "task_encoder_task_video_describer": false,
+      "task_encoder_video_segment_describer": false,
+      "task_encoder_qa_temporal_mode_classifier": false,
+      "planner": false,
+      "answerer": false,
+      "browser_classifier": false,
+      "qa": false,
+      "vqa": false,
+      "vqa_planner": false,
+      "second_stage_evaluator": false
+    },
+    "stream": false,
+    "temperature": 0,
+    "top_p": 1,
+    "seed": 42,
+    "max_tokens": 8192
+  },
+  "Qwen3.6-27B": {
+    "model_class": "qwen",
+    "think": {
+      "task_encoder_image_describer": false,
+      "task_encoder_task_video_describer": false,
+      "task_encoder_video_segment_describer": false,
+      "task_encoder_qa_temporal_mode_classifier": false,
+      "planner": false,
+      "answerer": false,
+      "browser_classifier": false,
+      "qa": false,
+      "vqa": false,
+      "vqa_planner": false,
+      "second_stage_evaluator": false
+    },
+    "stream": false,
+    "temperature": 0,
+    "top_p": 1,
+    "seed": 42,
+    "max_tokens": 8192
+  },
+  "Qwen3.6-27B-FP8": {
+    "model_class": "qwen",
+    "think": {
+      "task_encoder_image_describer": false,
+      "task_encoder_task_video_describer": false,
+      "task_encoder_video_segment_describer": false,
+      "task_encoder_qa_temporal_mode_classifier": false,
+      "planner": false,
+      "answerer": false,
+      "browser_classifier": false,
+      "qa": false,
+      "vqa": false,
+      "vqa_planner": false,
+      "second_stage_evaluator": false
+    },
+    "stream": false,
+    "temperature": 0,
+    "top_p": 1,
+    "seed": 42,
+    "max_tokens": 8192
+  },
+  "Qwen3.8-27B-FP8": {
+    "model_class": "qwen",
+    "think": {
+      "task_encoder_image_describer": false,
+      "task_encoder_task_video_describer": false,
+      "task_encoder_video_segment_describer": false,
+      "task_encoder_qa_temporal_mode_classifier": false,
+      "planner": false,
+      "answerer": false,
+      "browser_classifier": false,
+      "qa": false,
+      "vqa": false,
+      "vqa_planner": false,
+      "second_stage_evaluator": false
+    },
+    "stream": false,
+    "temperature": 0,
+    "top_p": 1,
+    "seed": 42,
+    "max_tokens": 8192
+  }
+  
+}

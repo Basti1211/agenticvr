@@ -1,0 +1,16 @@
+{
+  "annotator": "A5",
+  "video_id": "video_22",
+  "started_at": "2026-08-18T18:30:03.266Z",
+  "submitted_at": "2026-08-18T18:33:03.437Z",
+  "elapsed_seconds": 180.154,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Ein weißer, Mann Ende zwanzig mit sitzt rechts auf einer roten Couch. Er trägt ein blaues Hemd und Jeans. Er spricht und gestikuliert mit seiner rechten Hand, wobei die linke im folgenden ebenfalls hinzukommt. Am ende faltetet er beide Hände und legt sie zwischen die Beine. Im Hintergrund sieht man eine große Halle, die mit vielen Röhrenlampen beleuchtet ist, die an sind. Zunächst sieht man zwei Männer nach rechts abbiegen, etwa in der Mitte des Bildes, eine weitere Person mit Rucksack läuft die Halle entlang. Der sitzende Mann sieht "
+  },
+  "tool_version": 1
+}

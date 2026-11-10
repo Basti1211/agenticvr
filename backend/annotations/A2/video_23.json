@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_23",
+  "started_at": "2026-08-18T11:59:14.536Z",
+  "submitted_at": "2026-08-18T12:02:14.581Z",
+  "elapsed_seconds": 180.045,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "2 photos are alternating. in the first photo, 2 people, a man and a woman, are hugging, both being bold.\nthe woman is wearing a black overall and the man a gray swater.\nin the second photo, the 2 are sitting on a couch. the girl is wearing a white hat and is simling, while the man is making a squirky face whil wearing a knitted lilac hat. "
+  },
+  "tool_version": 1
+}

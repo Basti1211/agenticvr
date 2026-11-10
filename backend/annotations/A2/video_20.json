@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_20",
+  "started_at": "2026-08-18T11:36:21.468Z",
+  "submitted_at": "2026-08-18T11:39:21.510Z",
+  "elapsed_seconds": 180.043,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "underwater scenes. where we see a rock formation on the top of the frame, wher seastars and other fishy things are attached.most of it is brown, but also some red or beige elements are hanging on to it.\non the bottom of the frame we have the underwater view, where we can see some rocks in some distance. 2 small fish swim from right to left"
+  },
+  "tool_version": 1
+}

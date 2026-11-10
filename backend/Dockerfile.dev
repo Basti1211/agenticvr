@@ -1,0 +1,15 @@
+FROM python:3.13-slim
+
+WORKDIR /app
+
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends ffmpeg \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY requirements.txt .
+RUN --mount=type=cache,target=/.pip-cache,id=prak-vlm-pip-cache pip install --cache-dir /.pip-cache -r requirements.txt
+
+# Do NOT the rest of the application files, this is mapped
+
+# Start the application, allow for connections from any host on port 5001, and enable hot reloading
+CMD ["uvicorn", "application.main:app", "--host", "0.0.0.0", "--port", "5001", "--reload"]

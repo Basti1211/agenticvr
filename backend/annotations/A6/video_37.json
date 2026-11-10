@@ -1,0 +1,16 @@
+{
+  "annotator": "A6",
+  "video_id": "video_37",
+  "started_at": "2026-08-19T12:10:43.130Z",
+  "submitted_at": "2026-08-19T12:13:43.243Z",
+  "elapsed_seconds": 180.112,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Sleeping room with bed, then dude  fixing his tie in front of the mirror, then some agitated woman with blonde hair and lots of silver jewelry looking super unlikeable. She sits at some commercial coffee table in the city and has a juice on her table and her pink phone. One shot shows her high heels with glossy bottom."
+  },
+  "tool_version": 1
+}

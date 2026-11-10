@@ -1,0 +1,16 @@
+{
+  "annotator": "A6",
+  "video_id": "video_33",
+  "started_at": "2026-08-19T11:15:53.705Z",
+  "submitted_at": "2026-08-19T11:18:53.862Z",
+  "elapsed_seconds": 180.157,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "An underwater ocean scene showing a shipwreck. Color is a neutral blue. Air bubbles are emitted from a diver at the shipwreck, the bottom right of the viewport. Air bubbles are also coming towards the camera.\nThe diver is positioned to the right of the ship and roughly in the middle of the viewport. A second divers hands are seen very promptly at the beginning of the scene."
+  },
+  "tool_version": 1
+}

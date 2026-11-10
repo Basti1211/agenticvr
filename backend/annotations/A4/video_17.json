@@ -1,0 +1,16 @@
+{
+  "annotator": "A4",
+  "video_id": "video_17",
+  "started_at": "2026-08-18T12:04:07.224Z",
+  "submitted_at": "2026-08-18T12:07:07.383Z",
+  "elapsed_seconds": 180.16,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Video of some medical procedure, where the camera is first shown outside in a cavty between white artery filles tissues, then retracts into a metal pole. there is also some sharp operating appliance seen sticking through the \"roof\" of the upper tissue. the lower tissue is yellow ish with red arteries running through and some tendons stretching it naturally across the cavity shown."
+  },
+  "tool_version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "annotator": "A6",
+  "video_id": "video_32",
+  "started_at": "2026-08-19T11:22:36.884Z",
+  "submitted_at": "2026-08-19T11:25:37.041Z",
+  "elapsed_seconds": 180.155,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Underwater scene showing a whale and a diver. Light aquamarine blue colors. Diver to the top left. Whale to the middle, opening his mouth and attempting to swim away in the last frames. The tail of another whale is seen at the right of the viewport. In the front left, there are corals."
+  },
+  "tool_version": 1
+}

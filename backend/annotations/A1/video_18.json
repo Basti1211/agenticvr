@@ -1,0 +1,16 @@
+{
+  "annotator": "A1",
+  "video_id": "video_18",
+  "started_at": "2026-08-18T12:18:05.672Z",
+  "submitted_at": "2026-08-18T12:21:05.776Z",
+  "elapsed_seconds": 180.103,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "In the video is an underwater scene. On the right part of the screen we can se rocks on which there grow different kind of algae. They are mainly orange with lighter and darker ones. Additionally, some of them are darker purple. On the right side of the screen we see more open water with a lot of small fish that in the beginning of the video swim to the top/ surface and later more to the right. The camera changes angles with starting at the bottom and then going to the top. There are air bubbles in the end at the top "
+  },
+  "tool_version": 1
+}

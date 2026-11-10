@@ -1,0 +1,25 @@
+FROM node:24-alpine AS build
+
+WORKDIR /app
+
+COPY package.json ./
+RUN yarn install
+
+# Copy the rest of the application files
+COPY . .
+
+RUN yarn run build
+
+
+# Serve the application with Nginx
+FROM nginx:alpine
+
+COPY --from=build /app/dist /usr/share/nginx/html
+
+# Copy the entrypoint script
+COPY nginx.template.conf /etc/nginx/conf.d/nginx.template.conf
+COPY entrypoint.sh /usr/local/bin/entrypoint.sh
+RUN chmod +x /usr/local/bin/entrypoint.sh
+
+# start
+ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]

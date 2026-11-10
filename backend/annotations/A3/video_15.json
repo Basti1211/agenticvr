@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_15",
+  "started_at": "2026-08-18T11:38:50.303Z",
+  "submitted_at": "2026-08-18T11:41:50.366Z",
+  "elapsed_seconds": 180.063,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Medical operation video where a vein is cut through with a medical tool. Then another tool is holding part of the skin while the cutting tool is cutting some more parts. "
+  },
+  "tool_version": 1
+}

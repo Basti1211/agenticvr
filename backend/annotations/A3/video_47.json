@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_47",
+  "started_at": "2026-08-18T11:17:00.208Z",
+  "submitted_at": "2026-08-18T11:20:00.265Z",
+  "elapsed_seconds": 180.057,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "We can see an old man who builds a basket. He is standing on the right side of the video and then the video zooms in into the basket and his hand. He is wearing a watch on his left hand and has a hammer tool in the other. The men wars glasses, along jeans and a black pullover with green stipes (adidas). He has black shoes. There is a bank on the left. There is a sesond worker on the right that you can barely see. There is some leftover material on the floor."
+  },
+  "tool_version": 1
+}

@@ -1,0 +1,32 @@
+{
+  "modules": {
+    "planner": {
+      "description": true,
+      "human1": false,
+      "human2": false,
+      "frames": false,
+      "video": false
+    },
+    "browser": {
+      "description": true,
+      "human1": false,
+      "human2": false,
+      "frames": false,
+      "video": false
+    },
+    "vqa": {
+      "description": true,
+      "human1": false,
+      "human2": false,
+      "frames": false,
+      "video": false
+    },
+    "answerer": {
+      "description": true,
+      "human1": false,
+      "human2": false,
+      "frames": false,
+      "video": false
+    }
+  }
+}

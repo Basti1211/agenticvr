@@ -1,0 +1,16 @@
+{
+  "annotator": "A1",
+  "video_id": "video_40",
+  "started_at": "2026-08-18T12:43:46.573Z",
+  "submitted_at": "2026-08-18T12:46:46.670Z",
+  "elapsed_seconds": 180.095,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The video shows an older man on the left side. You can only see his head, one hand and part of his upper body. He has shorter grayish/white hair and a shorter beard. He wears a green jacket. He touches the mouth of a light brown horse with grey horse halter which is fixed somewhere with a white rope. There is only the lower part of the horse head in the video. The wall behind both is grey and old. there is a brighter part to the oude"
+  },
+  "tool_version": 1
+}

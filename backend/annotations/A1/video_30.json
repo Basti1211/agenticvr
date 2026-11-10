@@ -1,0 +1,16 @@
+{
+  "annotator": "A1",
+  "video_id": "video_30",
+  "started_at": "2026-08-18T12:31:37.474Z",
+  "submitted_at": "2026-08-18T12:34:37.491Z",
+  "elapsed_seconds": 180.016,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The video is an under water scene. The background is bright blue. In the center there are the outlines of grey cubes. On these cubes grow algae and corals in blue, yellow, turquoise and red. There is one star fish as well. Within the empty cubes outlines swim fish but also around the tower cubes. On the bottom there are several cubes placed next to each. Closer to the top it is only one cube on top the others. The fish are grey and yellow "
+  },
+  "tool_version": 1
+}

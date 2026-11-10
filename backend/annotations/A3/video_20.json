@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_20",
+  "started_at": "2026-08-18T11:52:39.773Z",
+  "submitted_at": "2026-08-18T11:55:39.825Z",
+  "elapsed_seconds": 180.053,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Underwater scene with many brick stones in the background. At the top you can see a stone with many corals and a very small orange fish in the front and two gray fish a bit further in the back swimming. The corals are red and blue and yellow. The water looks like close to the surface since you can see the sun shining through."
+  },
+  "tool_version": 1
+}

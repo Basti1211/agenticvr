@@ -1,0 +1,15 @@
+# pytest
+[tool.pytest.ini_options]
+addopts = "--cov=application/ --cov-report=term"
+asyncio_mode = "strict"
+filterwarnings = [
+    "ignore::DeprecationWarning:catalogue.*:",
+	"ignore::DeprecationWarning:grpc.*:"
+]
+
+# coverage
+[tool.coverage.run]
+omit = []
+[tool.coverage.report]
+precision = 2   # Increase precision (from default 0) to be able to discern changes
+sort = "Miss"   # Sort by number of lines that are _not_ covered

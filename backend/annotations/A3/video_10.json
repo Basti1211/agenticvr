@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_10",
+  "started_at": "2026-08-18T11:11:39.153Z",
+  "submitted_at": "2026-08-18T11:14:39.216Z",
+  "elapsed_seconds": 180.063,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The video is filmed from the top view (drone or helicopter) and shows the cliffs on the right and on the left the ozean. The coastal scene looks like Ireland with lots of green grass on top of the cliffs . The cliffs are white stone and have 3 big main parts where the one in the front has an arrow/brigde formed by the stones and a stone beach in front of it. The view shifts to the back part where s"
+  },
+  "tool_version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_04",
+  "started_at": "2026-08-18T11:08:32.121Z",
+  "submitted_at": "2026-08-18T11:11:32.166Z",
+  "elapsed_seconds": 180.044,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The video shows a medical examination inside (probably) a human body with something looking like a hole in the middle. You can see two equipment tools that operate on venes. The venes are corresponding to the contact of the one tool. Later the video zooms in. You can see some smoke."
+  },
+  "tool_version": 1
+}

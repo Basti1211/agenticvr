@@ -1,0 +1,16 @@
+{
+  "annotator": "A1",
+  "video_id": "video_10",
+  "started_at": "2026-08-18T12:37:41.481Z",
+  "submitted_at": "2026-08-18T12:40:41.648Z",
+  "elapsed_seconds": 180.159,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The video is taken from the air. In the lower left corner there is a black bag maybe from a paragliders foot. The scene shows white cliffs on top of which there grows green grass. On the cliff is a golf course. On the left there is the sea. In the first cliff that stands out in the sea a natural passage by a small beach. On the top of this first cliff are people. In the background there is a small town/ village by the sea and more cliffs and one very pointy rock in the sea"
+  },
+  "tool_version": 1
+}

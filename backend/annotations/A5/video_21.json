@@ -1,0 +1,16 @@
+{
+  "annotator": "A5",
+  "video_id": "video_21",
+  "started_at": "2026-08-18T19:13:51.813Z",
+  "submitted_at": "2026-08-18T19:16:51.872Z",
+  "elapsed_seconds": 180.063,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Ein Tintenfisch im Bildzentrum bewegt sich über den Meeresboden, der aus Sand besteht der vereinzelt mit grünen Gewächsen bewachsen ist. Der Tintenfisch bewegt sich seitwärts, hat zwei Rüsselähnliche Struktur links. Seine Seitenflossen bewegen sich wellenförmig. Er ist bräunlich gemustert, hat jedoch einen weißen Streifen in der Mitte. Im Laufe des Videos bewegt er sich weiter von er Kamera weg, die ihm jedoch folgt. Auf der Linken Seite über seinen Rüsseln ist ein Auge erkennbar, wobei die Pupille seitlich geschlitzt ist "
+  },
+  "tool_version": 1
+}

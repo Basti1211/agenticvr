@@ -1,0 +1,16 @@
+{
+  "annotator": "A1",
+  "video_id": "video_23",
+  "started_at": "2026-08-18T12:46:49.083Z",
+  "submitted_at": "2026-08-18T12:49:49.235Z",
+  "elapsed_seconds": 180.151,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The first frame shows a women hugging a men with some kind of door with a grid. Both are bold. He wears a grey longsleeve and holds her. She wears a black long sleeve. In the second frame they both wear something on their head and are sitting on a black couch with a yellow wall in the background. She wears a white head with some kind of flower on the left side and smiles. He wears a purple crocheted head and looks less happy. "
+  },
+  "tool_version": 1
+}

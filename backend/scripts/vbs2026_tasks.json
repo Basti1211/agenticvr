@@ -1,0 +1,421 @@
+[
+  {
+    "name": "vbs26-qa3",
+    "task_type": "VBS26_QA_TYPE (Imported)",
+    "input": {
+      "video": {
+        "file": "06804.mp4",
+        "start_ms": 343500,
+        "end_ms": 360000
+      },
+      "text": "Name three ingredients of the sandwich (except for the bread) that person filming this video got."
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs26-qa1",
+    "task_type": "VBS26_QA_TYPE (Imported)",
+    "input": {
+      "video": {
+        "file": "04600.mp4",
+        "start_ms": 205000,
+        "end_ms": 219000
+      },
+      "text": "What is the name of the company that built the village, in which this post office is set?"
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs26-qa2",
+    "task_type": "VBS26_QA_TYPE (Imported)",
+    "input": {
+      "video": {
+        "file": "20349.mp4",
+        "start_ms": 2300000,
+        "end_ms": 2310000
+      },
+      "text": "What is the name of the village where these men work?"
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs26-qa4",
+    "task_type": "VBS26_QA_TYPE (Imported)",
+    "input": {
+      "video": {
+        "file": "27173.mp4",
+        "start_ms": 395000,
+        "end_ms": 405000
+      },
+      "text": "What is the only setting on the mode switch of the air condition in another color?"
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs26-qa5",
+    "task_type": "VBS26_QA_TYPE (Imported)",
+    "input": {
+      "video": {
+        "file": "16095.mp4",
+        "start_ms": 125000,
+        "end_ms": 140000
+      },
+      "text": "What is the first item on the menu board of the cafe in this store?"
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs26-kis-t8",
+    "task_type": "VBS26_KIST_TYPE (Imported)",
+    "input": {
+      "text": "A dark-skinned man with glasses and a yellow t-shirt holding the front side of the vinyl (record) cover of a Japanese band he is fan of into the camera. The man sits on a light coloured sofa with a wall with record covers in the back, and a table with books on the right. His t-shirt has green and red print on it, with the name and photo of a famous jazz musician.",
+      "text_hints": [
+        "A dark-skinned man with glasses and a yellow t-shirt holding the front side of the vinyl (record) cover of a Japanese band he is fan of into the camera. ",
+        "A dark-skinned man with glasses and a yellow t-shirt holding the front side of the vinyl (record) cover of a Japanese band he is fan of into the camera. The man sits on a light coloured sofa with a wall with record covers in the back, and a table with books on the right. ",
+        "A dark-skinned man with glasses and a yellow t-shirt holding the front side of the vinyl (record) cover of a Japanese band he is fan of into the camera. The man sits on a light coloured sofa with a wall with record covers in the back, and a table with books on the right. His t-shirt has green and red print on it, with the name and photo of a famous jazz musician."
+      ]
+    },
+    "target": {
+      "file": "16104.mp4",
+      "start_ms": 731200,
+      "end_ms": 736000
+    }
+  },
+  {
+    "name": "vbs26-qa6",
+    "task_type": "VBS26_QA_TYPE (Imported)",
+    "input": {
+      "video": {
+        "file": "22150.mp4",
+        "start_ms": 28500,
+        "end_ms": 37000
+      },
+      "text": "What time does the clock show, when the woman arrives at the top of the parking deck?"
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs26-kis-t9",
+    "task_type": "VBS26_KIST_TYPE (Imported)",
+    "input": {
+      "text": "A first person view from a model airplane landing in a snowy landscape, from a camera mounted on the plane. There is a wall (fence) on the right, and a house behind it, and a snow pile, a smaller building and utility poles in front. The plane with the camera mounted on it is visible at another location in the video.",
+      "text_hints": [
+        "A first person view from a model airplane landing in a snowy landscape, from a camera mounted on the plane. ",
+        "A first person view from a model airplane landing in a snowy landscape, from a camera mounted on the plane. There is a wall (fence) on the right, and a house behind it, and a snow pile, a smaller building and utility poles in front.",
+        "A first person view from a model airplane landing in a snowy landscape, from a camera mounted on the plane. There is a wall (fence) on the right, and a house behind it, and a snow pile, a smaller building and utility poles in front. The plane with the camera mounted on it is visible at another location in the video."
+      ]
+    },
+    "target": {
+      "file": "19239.mp4",
+      "start_ms": 247880,
+      "end_ms": 253212
+    }
+  },
+  {
+    "name": "vbs26-kis-t10",
+    "task_type": "VBS26_KIST_TYPE (Imported)",
+    "input": {
+      "text": "Multiple time lapse sequences of people putting items on a table at a market stand (booth). There is a table with a white cloth, under a red tent. A second stand (booth) with a different setup is shown in between. The items include notebooks and postcards.",
+      "text_hints": [
+        "Multiple time lapse sequences of people putting items on a table at a market stand (booth).",
+        "Multiple time lapse sequences of people putting items on a table at a market stand (booth). There is a table with a white cloth, under a red tent. A second stand (booth) with a different setup is shown in between. ",
+        "Multiple time lapse sequences of people putting items on a table at a market stand (booth). There is a table with a white cloth, under a red tent. A second stand (booth) with a different setup is shown in between. The items include notebooks and postcards."
+      ]
+    },
+    "target": {
+      "file": "07602.mp4",
+      "start_ms": 225060,
+      "end_ms": 232584
+    }
+  },
+  {
+    "name": "vbs26-kist-11",
+    "task_type": "VBS26_KIST_TYPE (Imported)",
+    "input": {
+      "text": "A time lapse evening/night shot over the sea, with a breakwater (mole, jetty) visible in the lower left, and the moon is rising. Two brightly lit ships are visible in the distance in the left half of the screen until the camera pans slightly to the right. The frame is blueish, with the moon coming out behind clouds.",
+      "text_hints": [
+        "A time lapse evening/night shot over the sea, with a breakwater (mole, jetty) visible in the lower left, and the moon is rising. ",
+        "A time lapse evening/night shot over the sea, with a breakwater (mole, jetty) visible in the lower left, and the moon is rising. Two brightly lit ships are visible in the distance in the left half of the screen until the camera pans slightly to the right.",
+        "A time lapse evening/night shot over the sea, with a breakwater (mole, jetty) visible in the lower left, and the moon is rising. Two brightly lit ships are visible in the distance in the left half of the screen until the camera pans slightly to the right. The frame is blueish, with the moon coming out behind clouds."
+      ]
+    },
+    "target": {
+      "file": "07551.mp4",
+      "start_ms": 34200,
+      "end_ms": 38551
+    }
+  },
+  {
+    "name": "vbs26-kis-t12",
+    "task_type": "VBS26_KIST_TYPE (Imported)",
+    "input": {
+      "text": "A man runs down a path with stairs in a park, jumps over a wall with a flip, rolling down below the wall, and continues running. When he does the flip, a statue can be seen in the background. He wears black trousers, a yellow hoodie and a black backpack. It is winter, there are patches of snow on the ground and trees without leaves.",
+      "text_hints": [
+        "A man runs down a path with stairs in a park, jumps over a wall with a flip, rolling down below the wall, and continues running. ",
+        "A man runs down a path with stairs in a park, jumps over a wall with a flip, rolling down below the wall, and continues running. When he does the flip, a statue can be seen in the background. He wears black trousers, a yellow hoodie and a black backpack.",
+        "A man runs down a path with stairs in a park, jumps over a wall with a flip, rolling down below the wall, and continues running. When he does the flip, a statue can be seen in the background. He wears black trousers, a yellow hoodie and a black backpack. It is winter, there are patches of snow on the ground and trees without leaves."
+      ]
+    },
+    "target": {
+      "file": "18985.mp4",
+      "start_ms": 122200,
+      "end_ms": 131716
+    }
+  },
+  {
+    "name": "vbs26-avs1",
+    "task_type": "VBS26_AVS_TYPE (Imported)",
+    "input": {
+      "text": "A person manually pouring a liquid into a glass or cup containing ice cubes. "
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs26-avs2",
+    "task_type": "VBS26_AVS_TYPE (Imported)",
+    "input": {
+      "text": "A moving aerial view (not static) over a golf course, where we can clearly see both a flagstick (pole and flag indicating the hole) and a sandpit (bunker) visible at the same time."
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs26-avs3",
+    "task_type": "VBS26_AVS_TYPE (Imported)",
+    "input": {
+      "text": "A wide view of a street with at least one predominantly red water hydrant (fire hydrant, stand pipe)."
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs26-avs5",
+    "task_type": "VBS26_AVS_TYPE (Imported)",
+    "input": {
+      "text": "A person sawing a piece of metal or wood by hand (manual saw).\n"
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs26-avs6",
+    "task_type": "VBS26_AVS_TYPE (Imported)",
+    "input": {
+      "text": "Exactly two persons sitting on stone steps that lead to a wooden door."
+    },
+    "target": "JUDGEMENT"
+  },
+  {
+    "name": "vbs26-kis-c1",
+    "task_type": "VBS26_KISC_TYPE (Imported)",
+    "input": {
+      "text": "Use the chat to discuss with the oracle panel."
+    },
+    "target": {
+      "file": "00358.mp4",
+      "start_ms": 78840,
+      "end_ms": 84600
+    }
+  },
+  {
+    "name": "vbs26-kis-c2",
+    "task_type": "VBS26_KISC_TYPE (Imported)",
+    "input": {
+      "text": "Use the chat to discuss with the oracle panel."
+    },
+    "target": {
+      "file": "28034.mp4",
+      "start_ms": 64440,
+      "end_ms": 71000
+    }
+  },
+  {
+    "name": "vbs26-kis-c3",
+    "task_type": "VBS26_KISC_TYPE (Imported)",
+    "input": {
+      "text": "Use the chat to discuss with the oracle panel."
+    },
+    "target": {
+      "file": "13761.mp4",
+      "start_ms": 89680,
+      "end_ms": 104700
+    }
+  },
+  {
+    "name": "vbs26-kis-c4",
+    "task_type": "VBS26_KISC_TYPE (Imported)",
+    "input": {
+      "text": "Use the chat to discuss with the oracle panel."
+    },
+    "target": {
+      "file": "23197.mp4",
+      "start_ms": 61070,
+      "end_ms": 69650
+    }
+  },
+  {
+    "name": "vbs26-kis-c5",
+    "task_type": "VBS26_KISC_TYPE (Imported)",
+    "input": {
+      "text": "Use the chat to discuss with the oracle panel."
+    },
+    "target": {
+      "file": "03081.mp4",
+      "start_ms": 54980,
+      "end_ms": 60740
+    }
+  },
+  {
+    "name": "vbs26-kis-c6",
+    "task_type": "VBS26_KISC_TYPE (Imported)",
+    "input": {
+      "text": "Use the chat to discuss with the oracle panel."
+    },
+    "target": {
+      "file": "13292.mp4",
+      "start_ms": 32700,
+      "end_ms": 45700
+    }
+  },
+  {
+    "name": "vbs26-kis-v2",
+    "task_type": "VBS26_KISV_TYPE (Imported)",
+    "input": {
+      "video": {
+        "file": "18752.mp4",
+        "start_ms": 34600,
+        "end_ms": 43000
+      }
+    },
+    "target": {
+      "file": "18752.mp4",
+      "start_ms": 34600,
+      "end_ms": 43050
+    }
+  },
+  {
+    "name": "vbs26-kis-v-lhe1",
+    "task_type": "VBS26_KISV_TYPE (Imported)",
+    "input": {
+      "video": {
+        "file": "LHE25.mp4",
+        "start_ms": 2020000,
+        "end_ms": 2040000
+      }
+    },
+    "target": {
+      "file": "LHE25.mp4",
+      "start_ms": 2020000,
+      "end_ms": 2040000
+    }
+  },
+  {
+    "name": "vbs26-kis-v-lhe2",
+    "task_type": "VBS26_KISV_TYPE (Imported)",
+    "input": {
+      "video": {
+        "file": "LHE19.mp4",
+        "start_ms": 690000,
+        "end_ms": 704000
+      }
+    },
+    "target": {
+      "file": "LHE19.mp4",
+      "start_ms": 690000,
+      "end_ms": 704000
+    }
+  },
+  {
+    "name": "vbs26-kis-v-lhe3",
+    "task_type": "VBS26_KISV_TYPE (Imported)",
+    "input": {
+      "video": {
+        "file": "LHE08.mp4",
+        "start_ms": 3433000,
+        "end_ms": 3453000
+      }
+    },
+    "target": {
+      "file": "LHE08.mp4",
+      "start_ms": 3433000,
+      "end_ms": 3453000
+    }
+  },
+  {
+    "name": "vbs26-kis-v-mvk1",
+    "task_type": "VBS26_KISV_TYPE (Imported)",
+    "input": {
+      "video": {
+        "file": "BigIsland_Jan2023_0022.mp4",
+        "start_ms": 8300,
+        "end_ms": 15000
+      }
+    },
+    "target": {
+      "file": "BigIsland_Jan2023_0022.mp4",
+      "start_ms": 8300,
+      "end_ms": 15000
+    }
+  },
+  {
+    "name": "vbs26-kis-v-mvk2",
+    "task_type": "VBS26_KISV_TYPE (Imported)",
+    "input": {
+      "video": {
+        "file": "HongKong1_Jun2024_0065.mp4",
+        "start_ms": 0,
+        "end_ms": 4300
+      }
+    },
+    "target": {
+      "file": "HongKong1_Jun2024_0065.mp4",
+      "start_ms": 0,
+      "end_ms": 4300
+    }
+  },
+  {
+    "name": "vbs26-kis-v-mvk3",
+    "task_type": "VBS26_KISV_TYPE (Imported)",
+    "input": {
+      "video": {
+        "file": "Tulamben2_Jun2022_0017.mp4",
+        "start_ms": 12400,
+        "end_ms": 29000
+      }
+    },
+    "target": {
+      "file": "Tulamben2_Jun2022_0017.mp4",
+      "start_ms": 12400,
+      "end_ms": 29000
+    }
+  },
+  {
+    "name": "vbs26-kis-v-mvk4",
+    "task_type": "VBS26_KISV_TYPE (Imported)",
+    "input": {
+      "video": {
+        "file": "Sipadan_Jan2015_0009.mp4",
+        "start_ms": 11000,
+        "end_ms": 25000
+      }
+    },
+    "target": {
+      "file": "Sipadan_Jan2015_0009.mp4",
+      "start_ms": 11000,
+      "end_ms": 25000
+    }
+  },
+  {
+    "name": "vbs26-kis-v-mvk5",
+    "task_type": "VBS26_KISV_TYPE (Imported)",
+    "input": {
+      "video": {
+        "file": "WestPalm_May2023_0056.mp4",
+        "start_ms": 13500,
+        "end_ms": 27000
+      }
+    },
+    "target": {
+      "file": "WestPalm_May2023_0056.mp4",
+      "start_ms": 13500,
+      "end_ms": 27000
+    }
+  }
+]

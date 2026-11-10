@@ -1,0 +1,16 @@
+{
+  "annotator": "A6",
+  "video_id": "video_28",
+  "started_at": "2026-08-19T11:41:20.879Z",
+  "submitted_at": "2026-08-19T11:44:20.887Z",
+  "elapsed_seconds": 180.008,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Another disgusting view of some surgery. The surgeon is using some metal rod to poke and remove some internal organs with dark blood coming out from the botton. Yellow surroundings with red streaks. The silver rod is coming in from the left. The organ looks almost purple / blueish. Overall super unpleasant view."
+  },
+  "tool_version": 1
+}

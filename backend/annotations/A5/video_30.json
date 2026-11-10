@@ -1,0 +1,16 @@
+{
+  "annotator": "A5",
+  "video_id": "video_30",
+  "started_at": "2026-08-18T19:07:45.441Z",
+  "submitted_at": "2026-08-18T19:10:45.557Z",
+  "elapsed_seconds": 180.121,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Eine Ruine unter Wasser. Im Zentrum steht ein Turm, an dessen Sockel Würfelförmige Gebilde stehen, bei denen nur die Kanten existieren. Man sieht zwei Würfel, die an der hinteren rechten bzw. linken senkrechten Kante verbunden sind. Mittig ist ein weiterer Würfel zu sehen. Der Turm erscheint massiver. Das ganze Gebilde ist mit unterschiedlichen Pflanzen bewachsen. Ein oranger Lichtkegel bewegt sich von oben nach unten. Im Hintergrund blauer Ozean mit weite und einige fische schwimmen drum rum. "
+  },
+  "tool_version": 1
+}

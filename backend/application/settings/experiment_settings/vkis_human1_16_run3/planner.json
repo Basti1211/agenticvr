@@ -1,0 +1,11 @@
+{
+  "provider": "qwen",
+  "model": "qwen",
+  "temperature": 0.5,
+  "reasoning_effort": "low",
+  "max_tokens": 1000,
+  "api_max_output_tokens": 512,
+  "image_detail": "low",
+  "max_attempts": 3,
+  "include_keyframe_references": false
+}

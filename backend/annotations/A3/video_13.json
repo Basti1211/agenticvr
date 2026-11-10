@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_13",
+  "started_at": "2026-08-18T11:49:36.128Z",
+  "submitted_at": "2026-08-18T11:52:36.186Z",
+  "elapsed_seconds": 180.059,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "A scene between two white womens in an office room. Both are typing on their Apple laptops. The one with braided black straight hair is looking happily over to the other women with curly black hairs who wears earphones and looks annoyed at the laptop. The office chairs in the room are orange. There is another blonde girl in the background of the room. "
+  },
+  "tool_version": 1
+}

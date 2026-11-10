@@ -1,0 +1,8376 @@
+[
+  {
+    "name": "vbs25-qa2",
+    "accepted": [
+      "40"
+    ],
+    "rejected": [
+      "60",
+      {
+        "file": "23568.mp4",
+        "start_ms": 13456,
+        "end_ms": 17000
+      },
+      "20",
+      "80",
+      {
+        "file": "24068.mp4",
+        "start_ms": 13456,
+        "end_ms": 17000
+      },
+      "25 mph",
+      "30",
+      "50",
+      "55",
+      "15"
+    ]
+  },
+  {
+    "name": "vbs25-qa3",
+    "accepted": [
+      "apple and snack",
+      "apple and red stick",
+      "apple and candy bar",
+      "apple granola bar",
+      "apple and a chocolate bar",
+      "apple and granola bar",
+      "apple and red bar",
+      "a kitcat and an apple",
+      "An apple, a snackbar and a flashlight later on",
+      "a candy",
+      "a green apple and a chocolate (not sure if it is chocolate)",
+      "a kitkat and an apple",
+      "a apple and a enery bar",
+      "apple and candy",
+      "apple and red small thing",
+      "apples"
+    ],
+    "rejected": [
+      "old man player",
+      "flashlight",
+      "apple",
+      "granola bar",
+      "a rose",
+      "an apple",
+      "a bunch",
+      "a punch",
+      "torch",
+      "apples",
+      "head phone",
+      "headphone",
+      "music player"
+    ]
+  },
+  {
+    "name": "vbs25-avs2",
+    "accepted": [
+      {
+        "file": "11692.mp4",
+        "start_ms": 115400,
+        "end_ms": 115400
+      },
+      {
+        "file": "13925.mp4",
+        "start_ms": 101559,
+        "end_ms": 101559
+      },
+      {
+        "file": "11692.mp4",
+        "start_ms": 113980,
+        "end_ms": 116916
+      },
+      {
+        "file": "03167.mp4",
+        "start_ms": 43400,
+        "end_ms": 43400
+      },
+      {
+        "file": "11692.mp4",
+        "start_ms": 113981,
+        "end_ms": 113981
+      },
+      {
+        "file": "16154.mp4",
+        "start_ms": 117139,
+        "end_ms": 121139
+      },
+      {
+        "file": "16154.mp4",
+        "start_ms": 118472,
+        "end_ms": 122472
+      },
+      {
+        "file": "12967.mp4",
+        "start_ms": 27750,
+        "end_ms": 28750
+      },
+      {
+        "file": "25451.mp4",
+        "start_ms": 96833,
+        "end_ms": 100916
+      },
+      {
+        "file": "12967.mp4",
+        "start_ms": 28000,
+        "end_ms": 28000
+      },
+      {
+        "file": "23560.mp4",
+        "start_ms": 115000,
+        "end_ms": 115000
+      },
+      {
+        "file": "02007.mp4",
+        "start_ms": 1314600,
+        "end_ms": 1314600
+      },
+      {
+        "file": "22474.mp4",
+        "start_ms": 162638,
+        "end_ms": 166638
+      },
+      {
+        "file": "16154.mp4",
+        "start_ms": 134560,
+        "end_ms": 134560
+      },
+      {
+        "file": "02007.mp4",
+        "start_ms": 1314120,
+        "end_ms": 1315280
+      },
+      {
+        "file": "10718.mp4",
+        "start_ms": 10158,
+        "end_ms": 10158
+      },
+      {
+        "file": "18153.mp4",
+        "start_ms": 1249720,
+        "end_ms": 1249720
+      },
+      {
+        "file": "12967.mp4",
+        "start_ms": 27800,
+        "end_ms": 27800
+      },
+      {
+        "file": "12658.mp4",
+        "start_ms": 257360,
+        "end_ms": 257360
+      },
+      {
+        "file": "07874.mp4",
+        "start_ms": 146300,
+        "end_ms": 146300
+      },
+      {
+        "file": "07414.mp4",
+        "start_ms": 83451,
+        "end_ms": 83451
+      },
+      {
+        "file": "06007.mp4",
+        "start_ms": 185250,
+        "end_ms": 186250
+      },
+      {
+        "file": "03167.mp4",
+        "start_ms": 42200,
+        "end_ms": 47640
+      },
+      {
+        "file": "21848.mp4",
+        "start_ms": 95753,
+        "end_ms": 95753
+      },
+      {
+        "file": "12967.mp4",
+        "start_ms": 27750,
+        "end_ms": 27750
+      },
+      {
+        "file": "13925.mp4",
+        "start_ms": 102919,
+        "end_ms": 102919
+      },
+      {
+        "file": "12658.mp4",
+        "start_ms": 259600,
+        "end_ms": 259600
+      },
+      {
+        "file": "03167.mp4",
+        "start_ms": 43160,
+        "end_ms": 45160
+      },
+      {
+        "file": "18153.mp4",
+        "start_ms": 1250200,
+        "end_ms": 1250200
+      },
+      {
+        "file": "03522.mp4",
+        "start_ms": 310568,
+        "end_ms": 310568
+      },
+      {
+        "file": "20555.mp4",
+        "start_ms": 147360,
+        "end_ms": 150760
+      },
+      {
+        "file": "00167.mp4",
+        "start_ms": 903790,
+        "end_ms": 903790
+      },
+      {
+        "file": "13925.mp4",
+        "start_ms": 102727,
+        "end_ms": 102727
+      },
+      {
+        "file": "25451.mp4",
+        "start_ms": 98870,
+        "end_ms": 98870
+      },
+      {
+        "file": "21848.mp4",
+        "start_ms": 95667,
+        "end_ms": 95667
+      }
+    ],
+    "rejected": [
+      {
+        "file": "11233.mp4",
+        "start_ms": 95800,
+        "end_ms": 95800
+      },
+      {
+        "file": "12967.mp4",
+        "start_ms": 28200,
+        "end_ms": 28200
+      },
+      {
+        "file": "12967.mp4",
+        "start_ms": 27583,
+        "end_ms": 27916
+      },
+      {
+        "file": "16154.mp4",
+        "start_ms": 133400,
+        "end_ms": 133400
+      },
+      {
+        "file": "05697.mp4",
+        "start_ms": 2360,
+        "end_ms": 4040
+      },
+      {
+        "file": "16154.mp4",
+        "start_ms": 156800,
+        "end_ms": 156800
+      },
+      {
+        "file": "16154.mp4",
+        "start_ms": 156840,
+        "end_ms": 156840
+      },
+      {
+        "file": "15421.mp4",
+        "start_ms": 126040,
+        "end_ms": 126040
+      },
+      {
+        "file": "14451.mp4",
+        "start_ms": 80000,
+        "end_ms": 80000
+      },
+      {
+        "file": "19847.mp4",
+        "start_ms": 44600,
+        "end_ms": 44600
+      },
+      {
+        "file": "15421.mp4",
+        "start_ms": 124500,
+        "end_ms": 124500
+      },
+      {
+        "file": "11233.mp4",
+        "start_ms": 95440,
+        "end_ms": 95800
+      },
+      {
+        "file": "23560.mp4",
+        "start_ms": 57000,
+        "end_ms": 57000
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1079800,
+        "end_ms": 1079800
+      },
+      {
+        "file": "14325.mp4",
+        "start_ms": 94400,
+        "end_ms": 94400
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1073800,
+        "end_ms": 1073800
+      },
+      {
+        "file": "15421.mp4",
+        "start_ms": 100360,
+        "end_ms": 100360
+      },
+      {
+        "file": "16154.mp4",
+        "start_ms": 157320,
+        "end_ms": 159000
+      },
+      {
+        "file": "15421.mp4",
+        "start_ms": 100880,
+        "end_ms": 100880
+      },
+      {
+        "file": "16154.mp4",
+        "start_ms": 156400,
+        "end_ms": 157280
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1077200,
+        "end_ms": 1077200
+      },
+      {
+        "file": "11233.mp4",
+        "start_ms": 95840,
+        "end_ms": 96160
+      },
+      {
+        "file": "26844.mp4",
+        "start_ms": 24200,
+        "end_ms": 24200
+      },
+      {
+        "file": "15555.mp4",
+        "start_ms": 328600,
+        "end_ms": 328600
+      },
+      {
+        "file": "16914.mp4",
+        "start_ms": 3800,
+        "end_ms": 3800
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1075800,
+        "end_ms": 1075800
+      },
+      {
+        "file": "12967.mp4",
+        "start_ms": 28112,
+        "end_ms": 28112
+      },
+      {
+        "file": "03167.mp4",
+        "start_ms": 43500,
+        "end_ms": 44500
+      },
+      {
+        "file": "20007.mp4",
+        "start_ms": 51800,
+        "end_ms": 51800
+      },
+      {
+        "file": "11233.mp4",
+        "start_ms": 95620,
+        "end_ms": 95620
+      },
+      {
+        "file": "02450.mp4",
+        "start_ms": 586600,
+        "end_ms": 586600
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1075679,
+        "end_ms": 1075679
+      },
+      {
+        "file": "11837.mp4",
+        "start_ms": 19200,
+        "end_ms": 19200
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1078117,
+        "end_ms": 1078117
+      },
+      {
+        "file": "12658.mp4",
+        "start_ms": 260250,
+        "end_ms": 261250
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1081379,
+        "end_ms": 1081379
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1079400,
+        "end_ms": 1079400
+      },
+      {
+        "file": "16154.mp4",
+        "start_ms": 130919,
+        "end_ms": 132760
+      },
+      {
+        "file": "16154.mp4",
+        "start_ms": 128960,
+        "end_ms": 128960
+      },
+      {
+        "file": "20555.mp4",
+        "start_ms": 141200,
+        "end_ms": 141200
+      },
+      {
+        "file": "21529.mp4",
+        "start_ms": 3200,
+        "end_ms": 3200
+      },
+      {
+        "file": "27176.mp4",
+        "start_ms": 221000,
+        "end_ms": 221000
+      },
+      {
+        "file": "25091.mp4",
+        "start_ms": 74200,
+        "end_ms": 74200
+      },
+      {
+        "file": "06812.mp4",
+        "start_ms": 126458,
+        "end_ms": 126458
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1076600,
+        "end_ms": 1076600
+      },
+      {
+        "file": "15555.mp4",
+        "start_ms": 330000,
+        "end_ms": 330000
+      },
+      {
+        "file": "25735.mp4",
+        "start_ms": 299800,
+        "end_ms": 299800
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1079000,
+        "end_ms": 1079000
+      },
+      {
+        "file": "03167.mp4",
+        "start_ms": 42600,
+        "end_ms": 42600
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1075473,
+        "end_ms": 1075473
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1075973,
+        "end_ms": 1075973
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1073026,
+        "end_ms": 1073026
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1074236,
+        "end_ms": 1074236
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1079026,
+        "end_ms": 1079026
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1080367,
+        "end_ms": 1080367
+      },
+      {
+        "file": "11837.mp4",
+        "start_ms": 7200,
+        "end_ms": 7200
+      },
+      {
+        "file": "10718.mp4",
+        "start_ms": 52020,
+        "end_ms": 52020
+      },
+      {
+        "file": "21529.mp4",
+        "start_ms": 12328,
+        "end_ms": 12328
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1077657,
+        "end_ms": 1077657
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1075421,
+        "end_ms": 1075421
+      },
+      {
+        "file": "22795.mp4",
+        "start_ms": 291880,
+        "end_ms": 291880
+      },
+      {
+        "file": "09290.mp4",
+        "start_ms": 210209,
+        "end_ms": 210209
+      },
+      {
+        "file": "14334.mp4",
+        "start_ms": 57056,
+        "end_ms": 57056
+      },
+      {
+        "file": "00264.mp4",
+        "start_ms": 22400,
+        "end_ms": 22400
+      },
+      {
+        "file": "16154.mp4",
+        "start_ms": 131627,
+        "end_ms": 131627
+      },
+      {
+        "file": "20555.mp4",
+        "start_ms": 142140,
+        "end_ms": 142140
+      },
+      {
+        "file": "11692.mp4",
+        "start_ms": 115448,
+        "end_ms": 115448
+      },
+      {
+        "file": "28187.mp4",
+        "start_ms": 65600,
+        "end_ms": 65600
+      },
+      {
+        "file": "16154.mp4",
+        "start_ms": 130880,
+        "end_ms": 130880
+      },
+      {
+        "file": "20555.mp4",
+        "start_ms": 151400,
+        "end_ms": 151400
+      },
+      {
+        "file": "16134.mp4",
+        "start_ms": 19000,
+        "end_ms": 19000
+      },
+      {
+        "file": "18153.mp4",
+        "start_ms": 1250204,
+        "end_ms": 1250204
+      },
+      {
+        "file": "26007.mp4",
+        "start_ms": 1170600,
+        "end_ms": 1170600
+      },
+      {
+        "file": "00952.mp4",
+        "start_ms": 13000,
+        "end_ms": 20000
+      },
+      {
+        "file": "10718.mp4",
+        "start_ms": 42416,
+        "end_ms": 42416
+      },
+      {
+        "file": "24346.mp4",
+        "start_ms": 309000,
+        "end_ms": 309000
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1073000,
+        "end_ms": 1073050
+      },
+      {
+        "file": "02553.mp4",
+        "start_ms": 222600,
+        "end_ms": 222600
+      },
+      {
+        "file": "18153.mp4",
+        "start_ms": 1252780,
+        "end_ms": 1252780
+      },
+      {
+        "file": "18153.mp4",
+        "start_ms": 1252420,
+        "end_ms": 1252420
+      },
+      {
+        "file": "15555.mp4",
+        "start_ms": 330094,
+        "end_ms": 330094
+      },
+      {
+        "file": "18153.mp4",
+        "start_ms": 1248900,
+        "end_ms": 1248900
+      },
+      {
+        "file": "20434.mp4",
+        "start_ms": 27740,
+        "end_ms": 27740
+      },
+      {
+        "file": "16480.mp4",
+        "start_ms": 116400,
+        "end_ms": 116400
+      },
+      {
+        "file": "14334.mp4",
+        "start_ms": 192191,
+        "end_ms": 192191
+      },
+      {
+        "file": "21311.mp4",
+        "start_ms": 279600,
+        "end_ms": 279600
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 134560,
+        "end_ms": 134560
+      },
+      {
+        "file": "12658.mp4",
+        "start_ms": 265280,
+        "end_ms": 265280
+      },
+      {
+        "file": "18153.mp4",
+        "start_ms": 1250360,
+        "end_ms": 1250360
+      },
+      {
+        "file": "16905.mp4",
+        "start_ms": 844600,
+        "end_ms": 844600
+      },
+      {
+        "file": "18127.mp4",
+        "start_ms": 21540,
+        "end_ms": 21540
+      },
+      {
+        "file": "17460.mp4",
+        "start_ms": 25400,
+        "end_ms": 25400
+      },
+      {
+        "file": "16154.mp4",
+        "start_ms": 131840,
+        "end_ms": 131840
+      },
+      {
+        "file": "04155.mp4",
+        "start_ms": 195721,
+        "end_ms": 195721
+      },
+      {
+        "file": "25633.mp4",
+        "start_ms": 203669,
+        "end_ms": 203669
+      },
+      {
+        "file": "12658.mp4",
+        "start_ms": 264200,
+        "end_ms": 264200
+      },
+      {
+        "file": "17724.mp4",
+        "start_ms": 854603,
+        "end_ms": 854603
+      },
+      {
+        "file": "00264.mp4",
+        "start_ms": 22655,
+        "end_ms": 22655
+      },
+      {
+        "file": "25633.mp4",
+        "start_ms": 204103,
+        "end_ms": 204103
+      },
+      {
+        "file": "03167.mp4",
+        "start_ms": 43015,
+        "end_ms": 43015
+      },
+      {
+        "file": "18153.mp4",
+        "start_ms": 1250980,
+        "end_ms": 1250980
+      },
+      {
+        "file": "25138.mp4",
+        "start_ms": 162378,
+        "end_ms": 162378
+      },
+      {
+        "file": "00073.mp4",
+        "start_ms": 234635,
+        "end_ms": 234635
+      },
+      {
+        "file": "25138.mp4",
+        "start_ms": 161260,
+        "end_ms": 161260
+      },
+      {
+        "file": "02007.mp4",
+        "start_ms": 1658293,
+        "end_ms": 1658293
+      },
+      {
+        "file": "02007.mp4",
+        "start_ms": 1314240,
+        "end_ms": 1314240
+      },
+      {
+        "file": "04155.mp4",
+        "start_ms": 195012,
+        "end_ms": 195012
+      },
+      {
+        "file": "00202.mp4",
+        "start_ms": 16000,
+        "end_ms": 30000
+      },
+      {
+        "file": "15608.mp4",
+        "start_ms": 297400,
+        "end_ms": 297400
+      },
+      {
+        "file": "13963.mp4",
+        "start_ms": 132006,
+        "end_ms": 132006
+      },
+      {
+        "file": "06217.mp4",
+        "start_ms": 45920,
+        "end_ms": 45920
+      },
+      {
+        "file": "07462.mp4",
+        "start_ms": 151400,
+        "end_ms": 151400
+      },
+      {
+        "file": "12658.mp4",
+        "start_ms": 341980,
+        "end_ms": 341980
+      },
+      {
+        "file": "17724.mp4",
+        "start_ms": 752835,
+        "end_ms": 752835
+      },
+      {
+        "file": "12967.mp4",
+        "start_ms": 27083,
+        "end_ms": 29083
+      },
+      {
+        "file": "25735.mp4",
+        "start_ms": 297720,
+        "end_ms": 297720
+      },
+      {
+        "file": "25735.mp4",
+        "start_ms": 299820,
+        "end_ms": 299820
+      },
+      {
+        "file": "03018.mp4",
+        "start_ms": 228000,
+        "end_ms": 228000
+      },
+      {
+        "file": "25848.mp4",
+        "start_ms": 228000,
+        "end_ms": 228000
+      },
+      {
+        "file": "22508.mp4",
+        "start_ms": 428490,
+        "end_ms": 428490
+      },
+      {
+        "file": "25735.mp4",
+        "start_ms": 300800,
+        "end_ms": 300800
+      },
+      {
+        "file": "23902.mp4",
+        "start_ms": 15000,
+        "end_ms": 15000
+      },
+      {
+        "file": "01694.mp4",
+        "start_ms": 178511,
+        "end_ms": 178511
+      },
+      {
+        "file": "15608.mp4",
+        "start_ms": 280297,
+        "end_ms": 280297
+      },
+      {
+        "file": "03203.mp4",
+        "start_ms": 219000,
+        "end_ms": 219000
+      },
+      {
+        "file": "17460.mp4",
+        "start_ms": 25420,
+        "end_ms": 25420
+      },
+      {
+        "file": "06007.mp4",
+        "start_ms": 185240,
+        "end_ms": 185680
+      },
+      {
+        "file": "17724.mp4",
+        "start_ms": 861593,
+        "end_ms": 861593
+      },
+      {
+        "file": "22645.mp4",
+        "start_ms": 1112000,
+        "end_ms": 1112000
+      },
+      {
+        "file": "27208.mp4",
+        "start_ms": 432114,
+        "end_ms": 432114
+      },
+      {
+        "file": "18218.mp4",
+        "start_ms": 100280,
+        "end_ms": 100280
+      },
+      {
+        "file": "12145.mp4",
+        "start_ms": 95178,
+        "end_ms": 95178
+      },
+      {
+        "file": "15608.mp4",
+        "start_ms": 280585,
+        "end_ms": 280585
+      },
+      {
+        "file": "12658.mp4",
+        "start_ms": 375200,
+        "end_ms": 375200
+      },
+      {
+        "file": "06171.mp4",
+        "start_ms": 28000,
+        "end_ms": 28000
+      },
+      {
+        "file": "25735.mp4",
+        "start_ms": 299750,
+        "end_ms": 300750
+      },
+      {
+        "file": "13750.mp4",
+        "start_ms": 12000,
+        "end_ms": 12000
+      },
+      {
+        "file": "22299.mp4",
+        "start_ms": 686000,
+        "end_ms": 686000
+      },
+      {
+        "file": "21848.mp4",
+        "start_ms": 99250,
+        "end_ms": 100250
+      },
+      {
+        "file": "07927.mp4",
+        "start_ms": 160560,
+        "end_ms": 160560
+      },
+      {
+        "file": "06812.mp4",
+        "start_ms": 126375,
+        "end_ms": 126375
+      },
+      {
+        "file": "06034.mp4",
+        "start_ms": 658200,
+        "end_ms": 658200
+      },
+      {
+        "file": "11233.mp4",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "file": "08416.mp4",
+        "start_ms": 126360,
+        "end_ms": 126360
+      },
+      {
+        "file": "02007.mp4",
+        "start_ms": 261760,
+        "end_ms": 261760
+      },
+      {
+        "file": "11692.mp4",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "file": "06812.mp4",
+        "start_ms": 126460,
+        "end_ms": 126460
+      },
+      {
+        "file": "12967.mp4",
+        "start_ms": 28120,
+        "end_ms": 28120
+      },
+      {
+        "file": "16154.mp4",
+        "start_ms": 158160,
+        "end_ms": 158160
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1075470,
+        "end_ms": 1075470
+      },
+      {
+        "file": "21341.mp4",
+        "start_ms": 220420,
+        "end_ms": 220420
+      },
+      {
+        "file": "09290.mp4",
+        "start_ms": 210230,
+        "end_ms": 210230
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1080370,
+        "end_ms": 1080370
+      },
+      {
+        "file": "10621.mp4",
+        "start_ms": 3200,
+        "end_ms": 3200
+      },
+      {
+        "file": "02428.mp4",
+        "start_ms": 42440,
+        "end_ms": 42440
+      },
+      {
+        "file": "02499.mp4",
+        "start_ms": 1042000,
+        "end_ms": 1042000
+      },
+      {
+        "file": "27176.mp4",
+        "start_ms": 221300,
+        "end_ms": 221300
+      },
+      {
+        "file": "01438.mp4",
+        "start_ms": 49400,
+        "end_ms": 49400
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1075970,
+        "end_ms": 1075970
+      },
+      {
+        "file": "25804.mp4",
+        "start_ms": 17740,
+        "end_ms": 17740
+      },
+      {
+        "file": "18154.mp4",
+        "start_ms": 130600,
+        "end_ms": 130600
+      },
+      {
+        "file": "15850.mp4",
+        "start_ms": 167730,
+        "end_ms": 167730
+      },
+      {
+        "file": "07487.mp4",
+        "start_ms": 157390,
+        "end_ms": 157390
+      },
+      {
+        "file": "11692.mp4",
+        "start_ms": 74110,
+        "end_ms": 74110
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1079030,
+        "end_ms": 1079030
+      },
+      {
+        "file": "02428.mp4",
+        "start_ms": 51760,
+        "end_ms": 51760
+      },
+      {
+        "file": "03278.mp4",
+        "start_ms": 74120,
+        "end_ms": 74120
+      },
+      {
+        "file": "27292.mp4",
+        "start_ms": 591000,
+        "end_ms": 591000
+      },
+      {
+        "file": "04464.mp4",
+        "start_ms": 20080,
+        "end_ms": 20080
+      },
+      {
+        "file": "26069.mp4",
+        "start_ms": 134220,
+        "end_ms": 134220
+      },
+      {
+        "file": "12967.mp4",
+        "start_ms": 27749,
+        "end_ms": 27749
+      },
+      {
+        "file": "18154.mp4",
+        "start_ms": 130039,
+        "end_ms": 130039
+      },
+      {
+        "file": "02499.mp4",
+        "start_ms": 1042480,
+        "end_ms": 1042480
+      },
+      {
+        "file": "16744.mp4",
+        "start_ms": 18400,
+        "end_ms": 18400
+      },
+      {
+        "file": "25091.mp4",
+        "start_ms": 74680,
+        "end_ms": 74680
+      },
+      {
+        "file": "06171.mp4",
+        "start_ms": 29000,
+        "end_ms": 30000
+      },
+      {
+        "file": "17319.mp4",
+        "start_ms": 172600,
+        "end_ms": 172600
+      },
+      {
+        "file": "11692.mp4",
+        "start_ms": 74107,
+        "end_ms": 74107
+      },
+      {
+        "file": "21341.mp4",
+        "start_ms": 215040,
+        "end_ms": 215040
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1074240,
+        "end_ms": 1074240
+      },
+      {
+        "file": "11233.mp4",
+        "start_ms": 98200,
+        "end_ms": 98200
+      },
+      {
+        "file": "10718.mp4",
+        "start_ms": 39249,
+        "end_ms": 39249
+      },
+      {
+        "file": "17157.mp4",
+        "start_ms": 281020,
+        "end_ms": 281020
+      },
+      {
+        "file": "02007.mp4",
+        "start_ms": 591800,
+        "end_ms": 591800
+      },
+      {
+        "file": "06007.mp4",
+        "start_ms": 185460,
+        "end_ms": 185460
+      },
+      {
+        "file": "12658.mp4",
+        "start_ms": 341800,
+        "end_ms": 341800
+      },
+      {
+        "file": "14026.mp4",
+        "start_ms": 97820,
+        "end_ms": 97820
+      },
+      {
+        "file": "07874.mp4",
+        "start_ms": 147500,
+        "end_ms": 147500
+      },
+      {
+        "file": "28139.mp4",
+        "start_ms": 104540,
+        "end_ms": 104540
+      },
+      {
+        "file": "10718.mp4",
+        "start_ms": 41270,
+        "end_ms": 41270
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1073030,
+        "end_ms": 1073030
+      },
+      {
+        "file": "05142.mp4",
+        "start_ms": 172400,
+        "end_ms": 172400
+      },
+      {
+        "file": "04155.mp4",
+        "start_ms": 172250,
+        "end_ms": 173250
+      },
+      {
+        "file": "26069.mp4",
+        "start_ms": 134720,
+        "end_ms": 134720
+      },
+      {
+        "file": "03018.mp4",
+        "start_ms": 227900,
+        "end_ms": 227900
+      },
+      {
+        "file": "11233.mp4",
+        "start_ms": 105560,
+        "end_ms": 105560
+      },
+      {
+        "file": "10673.mp4",
+        "start_ms": 286820,
+        "end_ms": 286820
+      },
+      {
+        "file": "14026.mp4",
+        "start_ms": 106420,
+        "end_ms": 106420
+      },
+      {
+        "file": "16154.mp4",
+        "start_ms": 125780,
+        "end_ms": 125780
+      },
+      {
+        "file": "22474.mp4",
+        "start_ms": 161120,
+        "end_ms": 161120
+      },
+      {
+        "file": "01438.mp4",
+        "start_ms": 51000,
+        "end_ms": 51000
+      },
+      {
+        "file": "14026.mp4",
+        "start_ms": 99120,
+        "end_ms": 99120
+      },
+      {
+        "file": "25804.mp4",
+        "start_ms": 18000,
+        "end_ms": 18000
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 71980,
+        "end_ms": 71980
+      },
+      {
+        "file": "12658.mp4",
+        "start_ms": 258600,
+        "end_ms": 258600
+      },
+      {
+        "file": "13925.mp4",
+        "start_ms": 25800,
+        "end_ms": 25800
+      },
+      {
+        "file": "11616.mp4",
+        "start_ms": 629765,
+        "end_ms": 629765
+      },
+      {
+        "file": "07874.mp4",
+        "start_ms": 157600,
+        "end_ms": 157600
+      },
+      {
+        "file": "10718.mp4",
+        "start_ms": 43687,
+        "end_ms": 43687
+      },
+      {
+        "file": "07041.mp4",
+        "start_ms": 63240,
+        "end_ms": 63240
+      },
+      {
+        "file": "12967.mp4",
+        "start_ms": 28124,
+        "end_ms": 28124
+      },
+      {
+        "file": "12967.mp4",
+        "start_ms": 29050,
+        "end_ms": 29050
+      },
+      {
+        "file": "08751.mp4",
+        "start_ms": 42560,
+        "end_ms": 42560
+      },
+      {
+        "file": "03167.mp4",
+        "start_ms": 564000,
+        "end_ms": 564000
+      },
+      {
+        "file": "06034.mp4",
+        "start_ms": 657656,
+        "end_ms": 657656
+      },
+      {
+        "file": "14662.mp4",
+        "start_ms": 257279,
+        "end_ms": 257279
+      },
+      {
+        "file": "07041.mp4",
+        "start_ms": 107690,
+        "end_ms": 107690
+      },
+      {
+        "file": "03918.mp4",
+        "start_ms": 365800,
+        "end_ms": 365800
+      },
+      {
+        "file": "13533.mp4",
+        "start_ms": 180780,
+        "end_ms": 180780
+      },
+      {
+        "file": "00580.mp4",
+        "start_ms": 323,
+        "end_ms": 324
+      },
+      {
+        "file": "10718.mp4",
+        "start_ms": 40854,
+        "end_ms": 40854
+      },
+      {
+        "file": "01233.mp4",
+        "start_ms": 5530,
+        "end_ms": 5530
+      },
+      {
+        "file": "27339.mp4",
+        "start_ms": 109620,
+        "end_ms": 109620
+      },
+      {
+        "file": "04451.mp4",
+        "start_ms": 283940,
+        "end_ms": 283940
+      },
+      {
+        "file": "25848.mp4",
+        "start_ms": 236760,
+        "end_ms": 236760
+      },
+      {
+        "file": "12967.mp4",
+        "start_ms": 27291,
+        "end_ms": 29291
+      },
+      {
+        "file": "03726.mp4",
+        "start_ms": 8300,
+        "end_ms": 8300
+      },
+      {
+        "file": "15128.mp4",
+        "start_ms": 4420,
+        "end_ms": 4420
+      },
+      {
+        "file": "02007.mp4",
+        "start_ms": 317120,
+        "end_ms": 317120
+      },
+      {
+        "file": "02428.mp4",
+        "start_ms": 45400,
+        "end_ms": 45400
+      },
+      {
+        "file": "00167.mp4",
+        "start_ms": 893000,
+        "end_ms": 893000
+      },
+      {
+        "file": "16914.mp4",
+        "start_ms": 7340,
+        "end_ms": 7340
+      },
+      {
+        "file": "14571.mp4",
+        "start_ms": 543656,
+        "end_ms": 543656
+      },
+      {
+        "file": "22980.mp4",
+        "start_ms": 113500,
+        "end_ms": 113500
+      },
+      {
+        "file": "04451.mp4",
+        "start_ms": 252150,
+        "end_ms": 252150
+      },
+      {
+        "file": "12967.mp4",
+        "start_ms": 36400,
+        "end_ms": 36400
+      },
+      {
+        "file": "19144.mp4",
+        "start_ms": 120500,
+        "end_ms": 120500
+      },
+      {
+        "file": "01942.mp4",
+        "start_ms": 70760,
+        "end_ms": 70760
+      },
+      {
+        "file": "06007.mp4",
+        "start_ms": 20800,
+        "end_ms": 20800
+      },
+      {
+        "file": "06007.mp4",
+        "start_ms": 14200,
+        "end_ms": 14200
+      },
+      {
+        "file": "11381.mp4",
+        "start_ms": 199960,
+        "end_ms": 199960
+      },
+      {
+        "file": "01438.mp4",
+        "start_ms": 50060,
+        "end_ms": 50060
+      },
+      {
+        "file": "16154.mp4",
+        "start_ms": 88040,
+        "end_ms": 88040
+      },
+      {
+        "file": "02553.mp4",
+        "start_ms": 222520,
+        "end_ms": 222520
+      },
+      {
+        "file": "01438.mp4",
+        "start_ms": 49300,
+        "end_ms": 49300
+      },
+      {
+        "file": "07646.mp4",
+        "start_ms": 60340,
+        "end_ms": 60340
+      },
+      {
+        "file": "16848.mp4",
+        "start_ms": 15015,
+        "end_ms": 15015
+      },
+      {
+        "file": "19847.mp4",
+        "start_ms": 45090,
+        "end_ms": 45090
+      },
+      {
+        "file": "12658.mp4",
+        "start_ms": 340800,
+        "end_ms": 340800
+      },
+      {
+        "file": "12967.mp4",
+        "start_ms": 38440,
+        "end_ms": 38440
+      },
+      {
+        "file": "25693.mp4",
+        "start_ms": 114540,
+        "end_ms": 114540
+      },
+      {
+        "file": "02499.mp4",
+        "start_ms": 107690,
+        "end_ms": 107690
+      },
+      {
+        "file": "11616.mp4",
+        "start_ms": 510040,
+        "end_ms": 510040
+      },
+      {
+        "file": "10718.mp4",
+        "start_ms": 32020,
+        "end_ms": 32020
+      },
+      {
+        "file": "27339.mp4",
+        "start_ms": 1280880,
+        "end_ms": 1280880
+      },
+      {
+        "file": "23020.mp4",
+        "start_ms": 227640,
+        "end_ms": 227640
+      },
+      {
+        "file": "09795.mp4",
+        "start_ms": 14400,
+        "end_ms": 14400
+      },
+      {
+        "file": "06171.mp4",
+        "start_ms": 29000,
+        "end_ms": 29000
+      },
+      {
+        "file": "22795.mp4",
+        "start_ms": 293000,
+        "end_ms": 293000
+      },
+      {
+        "file": "07874.mp4",
+        "start_ms": 166050,
+        "end_ms": 166050
+      },
+      {
+        "file": "06733.mp4",
+        "start_ms": 919251,
+        "end_ms": 919251
+      },
+      {
+        "file": "20107.mp4",
+        "start_ms": 112720,
+        "end_ms": 112720
+      },
+      {
+        "file": "11862.mp4",
+        "start_ms": 350000,
+        "end_ms": 350000
+      },
+      {
+        "file": "25848.mp4",
+        "start_ms": 227900,
+        "end_ms": 227900
+      },
+      {
+        "file": "07487.mp4",
+        "start_ms": 95180,
+        "end_ms": 95180
+      },
+      {
+        "file": "25166.mp4",
+        "start_ms": 12000,
+        "end_ms": 12000
+      },
+      {
+        "file": "02450.mp4",
+        "start_ms": 592100,
+        "end_ms": 592100
+      },
+      {
+        "file": "11249.mp4",
+        "start_ms": 8700,
+        "end_ms": 8700
+      },
+      {
+        "file": "11381.mp4",
+        "start_ms": 197400,
+        "end_ms": 197400
+      },
+      {
+        "file": "11233.mp4",
+        "start_ms": 98120,
+        "end_ms": 98120
+      },
+      {
+        "file": "27164.mp4",
+        "start_ms": 11820,
+        "end_ms": 11820
+      },
+      {
+        "file": "14539.mp4",
+        "start_ms": 272960,
+        "end_ms": 272960
+      },
+      {
+        "file": "26069.mp4",
+        "start_ms": 168320,
+        "end_ms": 168320
+      },
+      {
+        "file": "06733.mp4",
+        "start_ms": 922190,
+        "end_ms": 922190
+      },
+      {
+        "file": "12967.mp4",
+        "start_ms": 39710,
+        "end_ms": 39710
+      },
+      {
+        "file": "11289.mp4",
+        "start_ms": 381440,
+        "end_ms": 381440
+      },
+      {
+        "file": "03167.mp4",
+        "start_ms": 45600,
+        "end_ms": 45600
+      },
+      {
+        "file": "01288.mp4",
+        "start_ms": 475980,
+        "end_ms": 475980
+      },
+      {
+        "file": "15608.mp4",
+        "start_ms": 298720,
+        "end_ms": 298720
+      },
+      {
+        "file": "06007.mp4",
+        "start_ms": 283820,
+        "end_ms": 283820
+      },
+      {
+        "file": "04451.mp4",
+        "start_ms": 252145,
+        "end_ms": 252145
+      },
+      {
+        "file": "25848.mp4",
+        "start_ms": 234520,
+        "end_ms": 234520
+      },
+      {
+        "file": "21687.mp4",
+        "start_ms": 642060,
+        "end_ms": 642060
+      },
+      {
+        "file": "15128.mp4",
+        "start_ms": 8800,
+        "end_ms": 8800
+      },
+      {
+        "file": "11381.mp4",
+        "start_ms": 200860,
+        "end_ms": 200860
+      },
+      {
+        "file": "01667.mp4",
+        "start_ms": 76540,
+        "end_ms": 76540
+      },
+      {
+        "file": "15128.mp4",
+        "start_ms": 10120,
+        "end_ms": 10120
+      },
+      {
+        "file": "16978.mp4",
+        "start_ms": 3800,
+        "end_ms": 3800
+      },
+      {
+        "file": "06019.mp4",
+        "start_ms": 63257,
+        "end_ms": 63257
+      },
+      {
+        "file": "10494.mp4",
+        "start_ms": 390870,
+        "end_ms": 390870
+      },
+      {
+        "file": "07874.mp4",
+        "start_ms": 168300,
+        "end_ms": 168300
+      },
+      {
+        "file": "25206.mp4",
+        "start_ms": 90820,
+        "end_ms": 90820
+      },
+      {
+        "file": "11233.mp4",
+        "start_ms": 105600,
+        "end_ms": 105600
+      },
+      {
+        "file": "06007.mp4",
+        "start_ms": 283800,
+        "end_ms": 283800
+      },
+      {
+        "file": "26069.mp4",
+        "start_ms": 166100,
+        "end_ms": 166100
+      },
+      {
+        "file": "11113.mp4",
+        "start_ms": 127300,
+        "end_ms": 127300
+      },
+      {
+        "file": "23160.mp4",
+        "start_ms": 1383400,
+        "end_ms": 1383400
+      },
+      {
+        "file": "17724.mp4",
+        "start_ms": 736800,
+        "end_ms": 736800
+      },
+      {
+        "file": "10718.mp4",
+        "start_ms": 42420,
+        "end_ms": 42420
+      },
+      {
+        "file": "15608.mp4",
+        "start_ms": 298715,
+        "end_ms": 298715
+      },
+      {
+        "file": "11815.mp4",
+        "start_ms": 57750,
+        "end_ms": 57750
+      },
+      {
+        "file": "20555.mp4",
+        "start_ms": 147000,
+        "end_ms": 147000
+      },
+      {
+        "file": "18127.mp4",
+        "start_ms": 64640,
+        "end_ms": 64640
+      },
+      {
+        "file": "11039.mp4",
+        "start_ms": 24190,
+        "end_ms": 24190
+      },
+      {
+        "file": "11996.mp4",
+        "start_ms": 275160,
+        "end_ms": 280240
+      },
+      {
+        "file": "01667.mp4",
+        "start_ms": 77560,
+        "end_ms": 77560
+      },
+      {
+        "file": "20107.mp4",
+        "start_ms": 81684,
+        "end_ms": 81684
+      },
+      {
+        "file": "07750.mp4",
+        "start_ms": 197800,
+        "end_ms": 197800
+      },
+      {
+        "file": "02416.mp4",
+        "start_ms": 334021,
+        "end_ms": 334021
+      },
+      {
+        "file": "19876.mp4",
+        "start_ms": 12116,
+        "end_ms": 12116
+      },
+      {
+        "file": "22339.mp4",
+        "start_ms": 33930,
+        "end_ms": 33930
+      },
+      {
+        "file": "20107.mp4",
+        "start_ms": 79600,
+        "end_ms": 79600
+      },
+      {
+        "file": "27842.mp4",
+        "start_ms": 226700,
+        "end_ms": 226700
+      },
+      {
+        "file": "22662.mp4",
+        "start_ms": 1389140,
+        "end_ms": 1389140
+      },
+      {
+        "file": "26844.mp4",
+        "start_ms": 22820,
+        "end_ms": 22820
+      },
+      {
+        "file": "00528.mp4",
+        "start_ms": 696720,
+        "end_ms": 696720
+      },
+      {
+        "file": "20736.mp4",
+        "start_ms": 1074800,
+        "end_ms": 1074800
+      },
+      {
+        "file": "16134.mp4",
+        "start_ms": 18720,
+        "end_ms": 18720
+      },
+      {
+        "file": "14610.mp4",
+        "start_ms": 36250,
+        "end_ms": 36250
+      },
+      {
+        "file": "07487.mp4",
+        "start_ms": 157339,
+        "end_ms": 157339
+      },
+      {
+        "file": "01129.mp4",
+        "start_ms": 281980,
+        "end_ms": 281980
+      },
+      {
+        "file": "11698.mp4",
+        "start_ms": 121101,
+        "end_ms": 121101
+      }
+    ]
+  },
+  {
+    "name": "vbs25-qa4",
+    "accepted": [
+      "3",
+      "three"
+    ],
+    "rejected": [
+      "4",
+      "1 cup",
+      "1",
+      "2",
+      "one"
+    ]
+  },
+  {
+    "name": "vbs25-avs3",
+    "accepted": [
+      {
+        "file": "22628.mp4",
+        "start_ms": 140800,
+        "end_ms": 140800
+      },
+      {
+        "file": "00180.mp4",
+        "start_ms": 158400,
+        "end_ms": 158400
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 297966,
+        "end_ms": 297966
+      },
+      {
+        "file": "22628.mp4",
+        "start_ms": 136341,
+        "end_ms": 138341
+      },
+      {
+        "file": "00180.mp4",
+        "start_ms": 191800,
+        "end_ms": 191800
+      },
+      {
+        "file": "18826.mp4",
+        "start_ms": 203400,
+        "end_ms": 203400
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1129000,
+        "end_ms": 1129000
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 508200,
+        "end_ms": 508200
+      },
+      {
+        "file": "22632.mp4",
+        "start_ms": 217091,
+        "end_ms": 217091
+      },
+      {
+        "file": "18826.mp4",
+        "start_ms": 191980,
+        "end_ms": 191980
+      },
+      {
+        "file": "24124.mp4",
+        "start_ms": 20160,
+        "end_ms": 20160
+      },
+      {
+        "file": "04634.mp4",
+        "start_ms": 200600,
+        "end_ms": 200600
+      },
+      {
+        "file": "17483.mp4",
+        "start_ms": 204791,
+        "end_ms": 207708
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 65000,
+        "end_ms": 65000
+      },
+      {
+        "file": "20343.mp4",
+        "start_ms": 334800,
+        "end_ms": 334800
+      },
+      {
+        "file": "18347.mp4",
+        "start_ms": 256280,
+        "end_ms": 266720
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 134800,
+        "end_ms": 134800
+      },
+      {
+        "file": "24124.mp4",
+        "start_ms": 39640,
+        "end_ms": 39640
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 514799,
+        "end_ms": 516360
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 17080,
+        "end_ms": 17080
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 74400,
+        "end_ms": 74400
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 46400,
+        "end_ms": 46400
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 89405,
+        "end_ms": 89405
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 18920,
+        "end_ms": 18920
+      },
+      {
+        "file": "22632.mp4",
+        "start_ms": 217675,
+        "end_ms": 217675
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 71400,
+        "end_ms": 71400
+      },
+      {
+        "file": "16106.mp4",
+        "start_ms": 154904,
+        "end_ms": 154904
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 23940,
+        "end_ms": 23940
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 21800,
+        "end_ms": 21800
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 108000,
+        "end_ms": 108000
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 114000,
+        "end_ms": 114000
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 299330,
+        "end_ms": 299330
+      },
+      {
+        "file": "00566.mp4",
+        "start_ms": 555200,
+        "end_ms": 555200
+      },
+      {
+        "file": "22628.mp4",
+        "start_ms": 140674,
+        "end_ms": 140674
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 52900,
+        "end_ms": 52900
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 44400,
+        "end_ms": 44400
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 525340,
+        "end_ms": 525340
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 90200,
+        "end_ms": 90200
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 83440,
+        "end_ms": 84040
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 81200,
+        "end_ms": 81200
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 94400,
+        "end_ms": 94400
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 107840,
+        "end_ms": 108880
+      },
+      {
+        "file": "26106.mp4",
+        "start_ms": 978560,
+        "end_ms": 978560
+      },
+      {
+        "file": "26106.mp4",
+        "start_ms": 833280,
+        "end_ms": 833280
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 601800,
+        "end_ms": 601800
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 112200,
+        "end_ms": 112200
+      },
+      {
+        "file": "27765.mp4",
+        "start_ms": 256720,
+        "end_ms": 257360
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 73480,
+        "end_ms": 74160
+      },
+      {
+        "file": "20343.mp4",
+        "start_ms": 331600,
+        "end_ms": 331600
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 107600,
+        "end_ms": 107600
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1194526,
+        "end_ms": 1194960
+      },
+      {
+        "file": "15254.mp4",
+        "start_ms": 10008,
+        "end_ms": 10008
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 149940,
+        "end_ms": 149940
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 135100,
+        "end_ms": 135100
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 17440,
+        "end_ms": 17440
+      },
+      {
+        "file": "27765.mp4",
+        "start_ms": 257800,
+        "end_ms": 258240
+      },
+      {
+        "file": "00180.mp4",
+        "start_ms": 159020,
+        "end_ms": 159020
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 134840,
+        "end_ms": 135360
+      },
+      {
+        "file": "07712.mp4",
+        "start_ms": 663662,
+        "end_ms": 663662
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 11211,
+        "end_ms": 11211
+      },
+      {
+        "file": "00180.mp4",
+        "start_ms": 156860,
+        "end_ms": 156860
+      },
+      {
+        "file": "27765.mp4",
+        "start_ms": 258720,
+        "end_ms": 260399
+      },
+      {
+        "file": "11826.mp4",
+        "start_ms": 30200,
+        "end_ms": 30200
+      },
+      {
+        "file": "08394.mp4",
+        "start_ms": 215000,
+        "end_ms": 215000
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1193701,
+        "end_ms": 1195701
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 153520,
+        "end_ms": 153680
+      },
+      {
+        "file": "20343.mp4",
+        "start_ms": 330600,
+        "end_ms": 332600
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 74920,
+        "end_ms": 74920
+      },
+      {
+        "file": "22632.mp4",
+        "start_ms": 217472,
+        "end_ms": 217472
+      },
+      {
+        "file": "24124.mp4",
+        "start_ms": 101000,
+        "end_ms": 101000
+      },
+      {
+        "file": "27466.mp4",
+        "start_ms": 177400,
+        "end_ms": 177400
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 84080,
+        "end_ms": 84920
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 111400,
+        "end_ms": 111400
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 302666,
+        "end_ms": 304466
+      },
+      {
+        "file": "16308.mp4",
+        "start_ms": 87400,
+        "end_ms": 87400
+      },
+      {
+        "file": "10272.mp4",
+        "start_ms": 48400,
+        "end_ms": 48400
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 301700,
+        "end_ms": 301700
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 134040,
+        "end_ms": 134800
+      },
+      {
+        "file": "08097.mp4",
+        "start_ms": 688600,
+        "end_ms": 688600
+      },
+      {
+        "file": "18259.mp4",
+        "start_ms": 384112,
+        "end_ms": 386112
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 61200,
+        "end_ms": 61200
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 63060,
+        "end_ms": 63060
+      },
+      {
+        "file": "27514.mp4",
+        "start_ms": 201360,
+        "end_ms": 209000
+      },
+      {
+        "file": "18938.mp4",
+        "start_ms": 157008,
+        "end_ms": 157257
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 63200,
+        "end_ms": 63200
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 15400,
+        "end_ms": 15400
+      },
+      {
+        "file": "20343.mp4",
+        "start_ms": 335200,
+        "end_ms": 335200
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 58840,
+        "end_ms": 59320
+      },
+      {
+        "file": "26106.mp4",
+        "start_ms": 950400,
+        "end_ms": 950400
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 184600,
+        "end_ms": 184600
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 114400,
+        "end_ms": 114400
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 23400,
+        "end_ms": 23400
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 156823,
+        "end_ms": 156823
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 77800,
+        "end_ms": 77800
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 75600,
+        "end_ms": 75600
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 83546,
+        "end_ms": 83546
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 111120,
+        "end_ms": 111880
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 110880,
+        "end_ms": 110880
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 121800,
+        "end_ms": 121800
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 148500,
+        "end_ms": 148500
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 107200,
+        "end_ms": 107200
+      },
+      {
+        "file": "21119.mp4",
+        "start_ms": 305280,
+        "end_ms": 305280
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 113800,
+        "end_ms": 114280
+      },
+      {
+        "file": "22632.mp4",
+        "start_ms": 46618,
+        "end_ms": 46618
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 110080,
+        "end_ms": 110080
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 153100,
+        "end_ms": 153100
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 121720,
+        "end_ms": 122640
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 109680,
+        "end_ms": 109680
+      },
+      {
+        "file": "24663.mp4",
+        "start_ms": 165600,
+        "end_ms": 165600
+      },
+      {
+        "file": "17367.mp4",
+        "start_ms": 53400,
+        "end_ms": 53400
+      },
+      {
+        "file": "20929.mp4",
+        "start_ms": 1284400,
+        "end_ms": 1284400
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 104760,
+        "end_ms": 104760
+      },
+      {
+        "file": "16308.mp4",
+        "start_ms": 20645,
+        "end_ms": 21479
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 104200,
+        "end_ms": 104200
+      },
+      {
+        "file": "18826.mp4",
+        "start_ms": 202600,
+        "end_ms": 203880
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 91000,
+        "end_ms": 91000
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 69120,
+        "end_ms": 69520
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 69600,
+        "end_ms": 69600
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 162720,
+        "end_ms": 165120
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 153600,
+        "end_ms": 153600
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1194209,
+        "end_ms": 1194209
+      },
+      {
+        "file": "03432.mp4",
+        "start_ms": 77200,
+        "end_ms": 77200
+      },
+      {
+        "file": "18826.mp4",
+        "start_ms": 203240,
+        "end_ms": 203240
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 102719,
+        "end_ms": 102719
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 114900,
+        "end_ms": 114900
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 81247,
+        "end_ms": 84667
+      },
+      {
+        "file": "24663.mp4",
+        "start_ms": 165200,
+        "end_ms": 165200
+      },
+      {
+        "file": "20929.mp4",
+        "start_ms": 1284383,
+        "end_ms": 1284383
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1193526,
+        "end_ms": 1195526
+      },
+      {
+        "file": "23856.mp4",
+        "start_ms": 180480,
+        "end_ms": 183450
+      },
+      {
+        "file": "27834.mp4",
+        "start_ms": 52927,
+        "end_ms": 52927
+      },
+      {
+        "file": "08394.mp4",
+        "start_ms": 214015,
+        "end_ms": 216015
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 27000,
+        "end_ms": 27000
+      },
+      {
+        "file": "06614.mp4",
+        "start_ms": 69400,
+        "end_ms": 69400
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 106280,
+        "end_ms": 106280
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 35200,
+        "end_ms": 35200
+      },
+      {
+        "file": "16308.mp4",
+        "start_ms": 80800,
+        "end_ms": 80800
+      },
+      {
+        "file": "22632.mp4",
+        "start_ms": 123701,
+        "end_ms": 123701
+      },
+      {
+        "file": "02797.mp4",
+        "start_ms": 912379,
+        "end_ms": 912379
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 65800,
+        "end_ms": 65800
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 70637,
+        "end_ms": 70637
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 125291,
+        "end_ms": 127794
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 453000,
+        "end_ms": 453000
+      },
+      {
+        "file": "16106.mp4",
+        "start_ms": 145436,
+        "end_ms": 145436
+      },
+      {
+        "file": "17511.mp4",
+        "start_ms": 44877,
+        "end_ms": 44877
+      },
+      {
+        "file": "16463.mp4",
+        "start_ms": 354800,
+        "end_ms": 354800
+      },
+      {
+        "file": "22628.mp4",
+        "start_ms": 136302,
+        "end_ms": 140874
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 75240,
+        "end_ms": 76080
+      },
+      {
+        "file": "06037.mp4",
+        "start_ms": 160125,
+        "end_ms": 160125
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 602800,
+        "end_ms": 602800
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 110880,
+        "end_ms": 110880
+      },
+      {
+        "file": "10272.mp4",
+        "start_ms": 55320,
+        "end_ms": 55320
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 491120,
+        "end_ms": 493120
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 57200,
+        "end_ms": 57200
+      },
+      {
+        "file": "20343.mp4",
+        "start_ms": 330520,
+        "end_ms": 330920
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 70600,
+        "end_ms": 70600
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 88640,
+        "end_ms": 88640
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 17087,
+        "end_ms": 17087
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 82957,
+        "end_ms": 82957
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 180600,
+        "end_ms": 182600
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 117120,
+        "end_ms": 118000
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 26133,
+        "end_ms": 26133
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 55800,
+        "end_ms": 55800
+      },
+      {
+        "file": "16308.mp4",
+        "start_ms": 87316,
+        "end_ms": 87316
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 17336,
+        "end_ms": 17336
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 64000,
+        "end_ms": 64000
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 58400,
+        "end_ms": 58400
+      },
+      {
+        "file": "22632.mp4",
+        "start_ms": 217480,
+        "end_ms": 217480
+      },
+      {
+        "file": "11531.mp4",
+        "start_ms": 422022,
+        "end_ms": 422022
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 106600,
+        "end_ms": 106600
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 295000,
+        "end_ms": 295000
+      },
+      {
+        "file": "20343.mp4",
+        "start_ms": 335000,
+        "end_ms": 335400
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 110000,
+        "end_ms": 110000
+      },
+      {
+        "file": "17911.mp4",
+        "start_ms": 181600,
+        "end_ms": 181600
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 76560,
+        "end_ms": 77080
+      },
+      {
+        "file": "24663.mp4",
+        "start_ms": 164200,
+        "end_ms": 166200
+      },
+      {
+        "file": "20343.mp4",
+        "start_ms": 332800,
+        "end_ms": 333640
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 109953,
+        "end_ms": 109953
+      },
+      {
+        "file": "22632.mp4",
+        "start_ms": 215615,
+        "end_ms": 215615
+      },
+      {
+        "file": "20343.mp4",
+        "start_ms": 333680,
+        "end_ms": 334520
+      },
+      {
+        "file": "23106.mp4",
+        "start_ms": 174140,
+        "end_ms": 174140
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 103600,
+        "end_ms": 103600
+      },
+      {
+        "file": "19888.mp4",
+        "start_ms": 84280,
+        "end_ms": 84280
+      },
+      {
+        "file": "00388.mp4",
+        "start_ms": 195000,
+        "end_ms": 195000
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 83000,
+        "end_ms": 83000
+      },
+      {
+        "file": "13672.mp4",
+        "start_ms": 273728,
+        "end_ms": 275728
+      },
+      {
+        "file": "08394.mp4",
+        "start_ms": 155400,
+        "end_ms": 155400
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 487460,
+        "end_ms": 487460
+      },
+      {
+        "file": "24118.mp4",
+        "start_ms": 237200,
+        "end_ms": 237200
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 80400,
+        "end_ms": 80400
+      },
+      {
+        "file": "15254.mp4",
+        "start_ms": 9008,
+        "end_ms": 9008
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 77226,
+        "end_ms": 77226
+      },
+      {
+        "file": "20343.mp4",
+        "start_ms": 340360,
+        "end_ms": 341160
+      },
+      {
+        "file": "26106.mp4",
+        "start_ms": 978880,
+        "end_ms": 978880
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 115800,
+        "end_ms": 115800
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 317800,
+        "end_ms": 317800
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 103440,
+        "end_ms": 103440
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 128600,
+        "end_ms": 128600
+      },
+      {
+        "file": "15025.mp4",
+        "start_ms": 91224,
+        "end_ms": 91224
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 85400,
+        "end_ms": 85400
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 81334,
+        "end_ms": 81334
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 102400,
+        "end_ms": 102400
+      },
+      {
+        "file": "17911.mp4",
+        "start_ms": 138638,
+        "end_ms": 138638
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 234160,
+        "end_ms": 243720
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 34434,
+        "end_ms": 34434
+      },
+      {
+        "file": "20343.mp4",
+        "start_ms": 338960,
+        "end_ms": 339840
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 62000,
+        "end_ms": 62000
+      },
+      {
+        "file": "00180.mp4",
+        "start_ms": 192500,
+        "end_ms": 192500
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 111380,
+        "end_ms": 111380
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 156200,
+        "end_ms": 156200
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 108480,
+        "end_ms": 108480
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 119320,
+        "end_ms": 119320
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 18280,
+        "end_ms": 18280
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 108080,
+        "end_ms": 108080
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 141860,
+        "end_ms": 141860
+      },
+      {
+        "file": "06614.mp4",
+        "start_ms": 57860,
+        "end_ms": 57860
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 17760,
+        "end_ms": 17760
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 103880,
+        "end_ms": 105080
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 109100,
+        "end_ms": 109100
+      },
+      {
+        "file": "00180.mp4",
+        "start_ms": 170400,
+        "end_ms": 170400
+      },
+      {
+        "file": "17367.mp4",
+        "start_ms": 49040,
+        "end_ms": 54400
+      },
+      {
+        "file": "17367.mp4",
+        "start_ms": 54440,
+        "end_ms": 56000
+      },
+      {
+        "file": "16308.mp4",
+        "start_ms": 32200,
+        "end_ms": 32200
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1100601,
+        "end_ms": 1102601
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 24539,
+        "end_ms": 24539
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 110200,
+        "end_ms": 110640
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 170670,
+        "end_ms": 170670
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 121871,
+        "end_ms": 121871
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 175120,
+        "end_ms": 175120
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 304800,
+        "end_ms": 304800
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 83300,
+        "end_ms": 83300
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1240000,
+        "end_ms": 1240000
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 74640,
+        "end_ms": 75200
+      },
+      {
+        "file": "26106.mp4",
+        "start_ms": 851480,
+        "end_ms": 851480
+      },
+      {
+        "file": "08394.mp4",
+        "start_ms": 248000,
+        "end_ms": 248000
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 301500,
+        "end_ms": 301900
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 194860,
+        "end_ms": 194860
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 530750,
+        "end_ms": 531750
+      },
+      {
+        "file": "00566.mp4",
+        "start_ms": 554504,
+        "end_ms": 556504
+      },
+      {
+        "file": "15254.mp4",
+        "start_ms": 118216,
+        "end_ms": 118216
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 134600,
+        "end_ms": 134600
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 141120,
+        "end_ms": 141120
+      },
+      {
+        "file": "11639.mp4",
+        "start_ms": 87363,
+        "end_ms": 87363
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 300000,
+        "end_ms": 300000
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 62920,
+        "end_ms": 63200
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 134400,
+        "end_ms": 134400
+      },
+      {
+        "file": "18938.mp4",
+        "start_ms": 157319,
+        "end_ms": 159063
+      },
+      {
+        "file": "17511.mp4",
+        "start_ms": 75000,
+        "end_ms": 75000
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 59920,
+        "end_ms": 61640
+      },
+      {
+        "file": "18938.mp4",
+        "start_ms": 159125,
+        "end_ms": 160059
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 534400,
+        "end_ms": 534400
+      },
+      {
+        "file": "16308.mp4",
+        "start_ms": 87648,
+        "end_ms": 87648
+      },
+      {
+        "file": "24663.mp4",
+        "start_ms": 167600,
+        "end_ms": 169600
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 166300,
+        "end_ms": 166300
+      },
+      {
+        "file": "22632.mp4",
+        "start_ms": 45020,
+        "end_ms": 45020
+      },
+      {
+        "file": "15254.mp4",
+        "start_ms": 5233,
+        "end_ms": 5233
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 146800,
+        "end_ms": 146800
+      },
+      {
+        "file": "16308.mp4",
+        "start_ms": 88400,
+        "end_ms": 88400
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 148600,
+        "end_ms": 148600
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 154000,
+        "end_ms": 154000
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 11080,
+        "end_ms": 16200
+      },
+      {
+        "file": "04613.mp4",
+        "start_ms": 153743,
+        "end_ms": 153743
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 153200,
+        "end_ms": 153200
+      },
+      {
+        "file": "24124.mp4",
+        "start_ms": 37440,
+        "end_ms": 37440
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 529920,
+        "end_ms": 532000
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 150000,
+        "end_ms": 150000
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 16800,
+        "end_ms": 17360
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 17400,
+        "end_ms": 17480
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 158200,
+        "end_ms": 158200
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 568000,
+        "end_ms": 568000
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 610800,
+        "end_ms": 610800
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 17520,
+        "end_ms": 18000
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 161600,
+        "end_ms": 161600
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 18040,
+        "end_ms": 18520
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 105640,
+        "end_ms": 105640
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 168600,
+        "end_ms": 168600
+      },
+      {
+        "file": "00388.mp4",
+        "start_ms": 90000,
+        "end_ms": 90000
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 324000,
+        "end_ms": 324000
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 107000,
+        "end_ms": 108000
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 164400,
+        "end_ms": 164400
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 59000,
+        "end_ms": 59000
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 174200,
+        "end_ms": 174200
+      },
+      {
+        "file": "17814.mp4",
+        "start_ms": 32640,
+        "end_ms": 32640
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 492140,
+        "end_ms": 492140
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 238600,
+        "end_ms": 238600
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 125800,
+        "end_ms": 125800
+      },
+      {
+        "file": "23106.mp4",
+        "start_ms": 174329,
+        "end_ms": 174329
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 102800,
+        "end_ms": 102800
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 115000,
+        "end_ms": 115000
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 126960,
+        "end_ms": 128160
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 103379,
+        "end_ms": 103379
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 15621,
+        "end_ms": 15621
+      },
+      {
+        "file": "15254.mp4",
+        "start_ms": 119600,
+        "end_ms": 119600
+      },
+      {
+        "file": "17511.mp4",
+        "start_ms": 96644,
+        "end_ms": 98644
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 37804,
+        "end_ms": 43276
+      },
+      {
+        "file": "16308.mp4",
+        "start_ms": 171108,
+        "end_ms": 171108
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 110400,
+        "end_ms": 110400
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 90750,
+        "end_ms": 91750
+      },
+      {
+        "file": "04613.mp4",
+        "start_ms": 155200,
+        "end_ms": 155200
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 101800,
+        "end_ms": 101800
+      },
+      {
+        "file": "20929.mp4",
+        "start_ms": 1290021,
+        "end_ms": 1290021
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 72600,
+        "end_ms": 72600
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 488669,
+        "end_ms": 488669
+      },
+      {
+        "file": "16308.mp4",
+        "start_ms": 42200,
+        "end_ms": 42200
+      },
+      {
+        "file": "19888.mp4",
+        "start_ms": 85000,
+        "end_ms": 86000
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 298200,
+        "end_ms": 298200
+      },
+      {
+        "file": "08394.mp4",
+        "start_ms": 266800,
+        "end_ms": 266800
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 84684,
+        "end_ms": 87954
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 27074,
+        "end_ms": 27074
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 104800,
+        "end_ms": 104800
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 190600,
+        "end_ms": 190600
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 151684,
+        "end_ms": 151684
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 105600,
+        "end_ms": 105600
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 105300,
+        "end_ms": 105300
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 109600,
+        "end_ms": 109600
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 64560,
+        "end_ms": 64959
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 113000,
+        "end_ms": 113000
+      },
+      {
+        "file": "17511.mp4",
+        "start_ms": 36250,
+        "end_ms": 37250
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 183116,
+        "end_ms": 183116
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 191340,
+        "end_ms": 191340
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 120153,
+        "end_ms": 121454
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 103840,
+        "end_ms": 103840
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 121488,
+        "end_ms": 133199
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 65000,
+        "end_ms": 65440
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 119880,
+        "end_ms": 120760
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 65480,
+        "end_ms": 66000
+      },
+      {
+        "file": "08394.mp4",
+        "start_ms": 268800,
+        "end_ms": 268800
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 292800,
+        "end_ms": 292800
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 129120,
+        "end_ms": 130000
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 66520,
+        "end_ms": 67000
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 141941,
+        "end_ms": 145178
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 28592,
+        "end_ms": 28592
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 63460,
+        "end_ms": 63460
+      },
+      {
+        "file": "11639.mp4",
+        "start_ms": 87058,
+        "end_ms": 87058
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 149280,
+        "end_ms": 150600
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 135200,
+        "end_ms": 135200
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 167240,
+        "end_ms": 169880
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 169669,
+        "end_ms": 171671
+      },
+      {
+        "file": "16308.mp4",
+        "start_ms": 201793,
+        "end_ms": 201793
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 155720,
+        "end_ms": 160520
+      },
+      {
+        "file": "10272.mp4",
+        "start_ms": 44480,
+        "end_ms": 44480
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 171704,
+        "end_ms": 172906
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 172939,
+        "end_ms": 174307
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 107466,
+        "end_ms": 107466
+      },
+      {
+        "file": "16308.mp4",
+        "start_ms": 171200,
+        "end_ms": 171200
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 174340,
+        "end_ms": 175909
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 81800,
+        "end_ms": 81800
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 116200,
+        "end_ms": 117080
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 175942,
+        "end_ms": 179846
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 115240,
+        "end_ms": 116160
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 54600,
+        "end_ms": 54600
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 61680,
+        "end_ms": 62280
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 173560,
+        "end_ms": 174680
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 179879,
+        "end_ms": 181481
+      },
+      {
+        "file": "26086.mp4",
+        "start_ms": 503322,
+        "end_ms": 503322
+      },
+      {
+        "file": "23644.mp4",
+        "start_ms": 200158,
+        "end_ms": 201117
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 453109,
+        "end_ms": 453109
+      },
+      {
+        "file": "02837.mp4",
+        "start_ms": 55055,
+        "end_ms": 55055
+      },
+      {
+        "file": "24663.mp4",
+        "start_ms": 165220,
+        "end_ms": 165220
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 82280,
+        "end_ms": 82920
+      },
+      {
+        "file": "17814.mp4",
+        "start_ms": 32340,
+        "end_ms": 32340
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 82960,
+        "end_ms": 84080
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 84120,
+        "end_ms": 84520
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 120800,
+        "end_ms": 121680
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 253366,
+        "end_ms": 276266
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 84560,
+        "end_ms": 85240
+      },
+      {
+        "file": "16308.mp4",
+        "start_ms": 18200,
+        "end_ms": 18200
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 114320,
+        "end_ms": 114480
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 85280,
+        "end_ms": 85800
+      },
+      {
+        "file": "23106.mp4",
+        "start_ms": 173970,
+        "end_ms": 173970
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 124920,
+        "end_ms": 125280
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 131320,
+        "end_ms": 131920
+      },
+      {
+        "file": "11960.mp4",
+        "start_ms": 265480,
+        "end_ms": 265480
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 104000,
+        "end_ms": 104400
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 106080,
+        "end_ms": 107360
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 536800,
+        "end_ms": 536800
+      },
+      {
+        "file": "22632.mp4",
+        "start_ms": 217500,
+        "end_ms": 218500
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 82120,
+        "end_ms": 83400
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 101760,
+        "end_ms": 103240
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 304500,
+        "end_ms": 305100
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 126600,
+        "end_ms": 126600
+      },
+      {
+        "file": "08394.mp4",
+        "start_ms": 276600,
+        "end_ms": 276600
+      },
+      {
+        "file": "17511.mp4",
+        "start_ms": 182949,
+        "end_ms": 183416
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 77840,
+        "end_ms": 78440
+      },
+      {
+        "file": "24118.mp4",
+        "start_ms": 240333,
+        "end_ms": 240333
+      },
+      {
+        "file": "22632.mp4",
+        "start_ms": 249500,
+        "end_ms": 250500
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 124080,
+        "end_ms": 124320
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 118800,
+        "end_ms": 119840
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 74200,
+        "end_ms": 74600
+      },
+      {
+        "file": "17367.mp4",
+        "start_ms": 51720,
+        "end_ms": 51720
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 126200,
+        "end_ms": 126200
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1238053,
+        "end_ms": 1238053
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 198932,
+        "end_ms": 202602
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 76120,
+        "end_ms": 76520
+      },
+      {
+        "file": "20108.mp4",
+        "start_ms": 240907,
+        "end_ms": 242191
+      },
+      {
+        "file": "20108.mp4",
+        "start_ms": 242208,
+        "end_ms": 243109
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 126280,
+        "end_ms": 126920
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 134420,
+        "end_ms": 134420
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 128400,
+        "end_ms": 128400
+      },
+      {
+        "file": "20108.mp4",
+        "start_ms": 243126,
+        "end_ms": 245845
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 531000,
+        "end_ms": 531000
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 217917,
+        "end_ms": 223122
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 75200,
+        "end_ms": 75200
+      },
+      {
+        "file": "17367.mp4",
+        "start_ms": 55220,
+        "end_ms": 55220
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 189322,
+        "end_ms": 193359
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 76600,
+        "end_ms": 76600
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 108920,
+        "end_ms": 110160
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 98498,
+        "end_ms": 101334
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 80840,
+        "end_ms": 82080
+      },
+      {
+        "file": "24124.mp4",
+        "start_ms": 39800,
+        "end_ms": 39800
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 125640,
+        "end_ms": 126240
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 622800,
+        "end_ms": 622800
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 6639,
+        "end_ms": 17484
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 1240940,
+        "end_ms": 1240940
+      },
+      {
+        "file": "07995.mp4",
+        "start_ms": 135400,
+        "end_ms": 135400
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 86000,
+        "end_ms": 86000
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 166600,
+        "end_ms": 166600
+      },
+      {
+        "file": "08394.mp4",
+        "start_ms": 251200,
+        "end_ms": 251200
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 44320,
+        "end_ms": 47320
+      },
+      {
+        "file": "15025.mp4",
+        "start_ms": 93427,
+        "end_ms": 93427
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 125335,
+        "end_ms": 125335
+      },
+      {
+        "file": "17814.mp4",
+        "start_ms": 96320,
+        "end_ms": 96320
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 111920,
+        "end_ms": 113760
+      },
+      {
+        "file": "26106.mp4",
+        "start_ms": 953260,
+        "end_ms": 953260
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 267633,
+        "end_ms": 267633
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 63720,
+        "end_ms": 64120
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 126909,
+        "end_ms": 126909
+      },
+      {
+        "file": "23106.mp4",
+        "start_ms": 174200,
+        "end_ms": 174200
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 299333,
+        "end_ms": 299333
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 118040,
+        "end_ms": 118760
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 555600,
+        "end_ms": 555600
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 122680,
+        "end_ms": 124040
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 563600,
+        "end_ms": 563600
+      },
+      {
+        "file": "11639.mp4",
+        "start_ms": 86320,
+        "end_ms": 86720
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 64640,
+        "end_ms": 65360
+      },
+      {
+        "file": "15254.mp4",
+        "start_ms": 114800,
+        "end_ms": 114800
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 79200,
+        "end_ms": 79200
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 82800,
+        "end_ms": 82800
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 67240,
+        "end_ms": 67560
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 145880,
+        "end_ms": 147720
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1238820,
+        "end_ms": 1238820
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 41000,
+        "end_ms": 41000
+      },
+      {
+        "file": "15254.mp4",
+        "start_ms": 114864,
+        "end_ms": 118993
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 56405,
+        "end_ms": 56405
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1195221,
+        "end_ms": 1195221
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 142606,
+        "end_ms": 142606
+      },
+      {
+        "file": "17814.mp4",
+        "start_ms": 94120,
+        "end_ms": 94120
+      },
+      {
+        "file": "07712.mp4",
+        "start_ms": 625000,
+        "end_ms": 625000
+      },
+      {
+        "file": "26106.mp4",
+        "start_ms": 953800,
+        "end_ms": 953800
+      },
+      {
+        "file": "15212.mp4",
+        "start_ms": 258000,
+        "end_ms": 258000
+      },
+      {
+        "file": "26106.mp4",
+        "start_ms": 932660,
+        "end_ms": 932660
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 69400,
+        "end_ms": 69400
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 75000,
+        "end_ms": 75000
+      },
+      {
+        "file": "07648.mp4",
+        "start_ms": 413458,
+        "end_ms": 413458
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 69000,
+        "end_ms": 69000
+      },
+      {
+        "file": "15254.mp4",
+        "start_ms": 112194,
+        "end_ms": 112194
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 163989,
+        "end_ms": 163989
+      },
+      {
+        "file": "23406.mp4",
+        "start_ms": 2885048,
+        "end_ms": 2898662
+      },
+      {
+        "file": "24663.mp4",
+        "start_ms": 166760,
+        "end_ms": 166760
+      },
+      {
+        "file": "11639.mp4",
+        "start_ms": 100520,
+        "end_ms": 100720
+      },
+      {
+        "file": "15254.mp4",
+        "start_ms": 117000,
+        "end_ms": 117000
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 69800,
+        "end_ms": 69800
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 73800,
+        "end_ms": 73800
+      },
+      {
+        "file": "11458.mp4",
+        "start_ms": 218916,
+        "end_ms": 219916
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 177208,
+        "end_ms": 177208
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1194210,
+        "end_ms": 1194210
+      },
+      {
+        "file": "17911.mp4",
+        "start_ms": 137637,
+        "end_ms": 137637
+      },
+      {
+        "file": "15254.mp4",
+        "start_ms": 116928,
+        "end_ms": 116928
+      },
+      {
+        "file": "26106.mp4",
+        "start_ms": 813200,
+        "end_ms": 813200
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 196145,
+        "end_ms": 196145
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 200767,
+        "end_ms": 200767
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 78200,
+        "end_ms": 78200
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 18500,
+        "end_ms": 19500
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 114405,
+        "end_ms": 114405
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 220519,
+        "end_ms": 220519
+      },
+      {
+        "file": "10272.mp4",
+        "start_ms": 48865,
+        "end_ms": 48865
+      },
+      {
+        "file": "15254.mp4",
+        "start_ms": 114781,
+        "end_ms": 114781
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 238121,
+        "end_ms": 238121
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 109800,
+        "end_ms": 109800
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 182600,
+        "end_ms": 182600
+      },
+      {
+        "file": "09912.mp4",
+        "start_ms": 517919,
+        "end_ms": 517919
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 305302,
+        "end_ms": 305302
+      },
+      {
+        "file": "15434.mp4",
+        "start_ms": 580800,
+        "end_ms": 580800
+      },
+      {
+        "file": "23406.mp4",
+        "start_ms": 2901298,
+        "end_ms": 2903800
+      },
+      {
+        "file": "11639.mp4",
+        "start_ms": 96000,
+        "end_ms": 96480
+      },
+      {
+        "file": "23406.mp4",
+        "start_ms": 2903834,
+        "end_ms": 2904301
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 226541,
+        "end_ms": 226541
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 156920,
+        "end_ms": 166120
+      },
+      {
+        "file": "23406.mp4",
+        "start_ms": 2904334,
+        "end_ms": 2904635
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 166160,
+        "end_ms": 166880
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 102600,
+        "end_ms": 102600
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 155520,
+        "end_ms": 156880
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 123256,
+        "end_ms": 123256
+      },
+      {
+        "file": "18938.mp4",
+        "start_ms": 158400,
+        "end_ms": 158400
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 76976,
+        "end_ms": 83650
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 78920,
+        "end_ms": 79520
+      },
+      {
+        "file": "02328.mp4",
+        "start_ms": 70800,
+        "end_ms": 70800
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 95562,
+        "end_ms": 98465
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 140800,
+        "end_ms": 140800
+      },
+      {
+        "file": "23149.mp4",
+        "start_ms": 230483,
+        "end_ms": 230483
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 243800,
+        "end_ms": 243800
+      },
+      {
+        "file": "20929.mp4",
+        "start_ms": 1285927,
+        "end_ms": 1285927
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 104763,
+        "end_ms": 104763
+      },
+      {
+        "file": "15254.mp4",
+        "start_ms": 112200,
+        "end_ms": 112200
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 101367,
+        "end_ms": 104304
+      },
+      {
+        "file": "18938.mp4",
+        "start_ms": 156800,
+        "end_ms": 156800
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 153453,
+        "end_ms": 160193
+      },
+      {
+        "file": "17814.mp4",
+        "start_ms": 343635,
+        "end_ms": 343635
+      },
+      {
+        "file": "24379.mp4",
+        "start_ms": 298599,
+        "end_ms": 298599
+      },
+      {
+        "file": "03714.mp4",
+        "start_ms": 184400,
+        "end_ms": 184400
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 193393,
+        "end_ms": 198898
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 56424,
+        "end_ms": 56424
+      },
+      {
+        "file": "21119.mp4",
+        "start_ms": 301360,
+        "end_ms": 304960
+      },
+      {
+        "file": "03319.mp4",
+        "start_ms": 592320,
+        "end_ms": 592760
+      },
+      {
+        "file": "18347.mp4",
+        "start_ms": 261500,
+        "end_ms": 261500
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 271960,
+        "end_ms": 271960
+      },
+      {
+        "file": "17511.mp4",
+        "start_ms": 75074,
+        "end_ms": 75074
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 124200,
+        "end_ms": 124200
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 536880,
+        "end_ms": 536880
+      },
+      {
+        "file": "27020.mp4",
+        "start_ms": 150876,
+        "end_ms": 150876
+      },
+      {
+        "file": "21119.mp4",
+        "start_ms": 305000,
+        "end_ms": 305760
+      },
+      {
+        "file": "04958.mp4",
+        "start_ms": 146000,
+        "end_ms": 147000
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 232200,
+        "end_ms": 232200
+      },
+      {
+        "file": "00577.mp4",
+        "start_ms": 642183,
+        "end_ms": 651567
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 110990,
+        "end_ms": 110990
+      },
+      {
+        "file": "03319.mp4",
+        "start_ms": 606560,
+        "end_ms": 607040
+      },
+      {
+        "file": "05555.mp4",
+        "start_ms": 1295400,
+        "end_ms": 1295400
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 163920,
+        "end_ms": 163920
+      },
+      {
+        "file": "21119.mp4",
+        "start_ms": 305800,
+        "end_ms": 306240
+      },
+      {
+        "file": "21119.mp4",
+        "start_ms": 306280,
+        "end_ms": 306960
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 161620,
+        "end_ms": 161620
+      },
+      {
+        "file": "11639.mp4",
+        "start_ms": 169560,
+        "end_ms": 170120
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 150600,
+        "end_ms": 150600
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 158120,
+        "end_ms": 158120
+      },
+      {
+        "file": "26106.mp4",
+        "start_ms": 948080,
+        "end_ms": 948080
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 128895,
+        "end_ms": 128895
+      },
+      {
+        "file": "13672.mp4",
+        "start_ms": 274800,
+        "end_ms": 274800
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 220360,
+        "end_ms": 220360
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 168560,
+        "end_ms": 168560
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 539600,
+        "end_ms": 539600
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 106480,
+        "end_ms": 106480
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 225959,
+        "end_ms": 226326
+      },
+      {
+        "file": "00577.mp4",
+        "start_ms": 651609,
+        "end_ms": 652151
+      },
+      {
+        "file": "00577.mp4",
+        "start_ms": 652193,
+        "end_ms": 655404
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 123400,
+        "end_ms": 123400
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 120400,
+        "end_ms": 120400
+      },
+      {
+        "file": "24739.mp4",
+        "start_ms": 281040,
+        "end_ms": 283040
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 438811,
+        "end_ms": 438811
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 113830,
+        "end_ms": 113830
+      },
+      {
+        "file": "07995.mp4",
+        "start_ms": 109800,
+        "end_ms": 109800
+      },
+      {
+        "file": "00180.mp4",
+        "start_ms": 132400,
+        "end_ms": 132400
+      },
+      {
+        "file": "24707.mp4",
+        "start_ms": 141120,
+        "end_ms": 143120
+      },
+      {
+        "file": "00577.mp4",
+        "start_ms": 620077,
+        "end_ms": 631172
+      },
+      {
+        "file": "03319.mp4",
+        "start_ms": 571880,
+        "end_ms": 572280
+      },
+      {
+        "file": "17911.mp4",
+        "start_ms": 138640,
+        "end_ms": 138640
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1101168,
+        "end_ms": 1101168
+      },
+      {
+        "file": "27846.mp4",
+        "start_ms": 319640,
+        "end_ms": 320120
+      },
+      {
+        "file": "27846.mp4",
+        "start_ms": 319320,
+        "end_ms": 319600
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 84797,
+        "end_ms": 84797
+      },
+      {
+        "file": "27846.mp4",
+        "start_ms": 320160,
+        "end_ms": 328120
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1194400,
+        "end_ms": 1194400
+      },
+      {
+        "file": "15254.mp4",
+        "start_ms": 109692,
+        "end_ms": 114697
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 26960,
+        "end_ms": 27920
+      },
+      {
+        "file": "15254.mp4",
+        "start_ms": 114739,
+        "end_ms": 114823
+      },
+      {
+        "file": "15254.mp4",
+        "start_ms": 119035,
+        "end_ms": 119953
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 82181,
+        "end_ms": 82181
+      },
+      {
+        "file": "16106.mp4",
+        "start_ms": 158465,
+        "end_ms": 158465
+      },
+      {
+        "file": "17814.mp4",
+        "start_ms": 32400,
+        "end_ms": 32400
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 184380,
+        "end_ms": 184380
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 122180,
+        "end_ms": 122180
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 72655,
+        "end_ms": 72655
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 102640,
+        "end_ms": 103240
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 70570,
+        "end_ms": 70570
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 103280,
+        "end_ms": 103680
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 103720,
+        "end_ms": 103960
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 65400,
+        "end_ms": 66320
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 68400,
+        "end_ms": 68400
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 82600,
+        "end_ms": 82600
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 105120,
+        "end_ms": 106040
+      },
+      {
+        "file": "06614.mp4",
+        "start_ms": 62880,
+        "end_ms": 64879
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 103800,
+        "end_ms": 103800
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 174600,
+        "end_ms": 174600
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 86002,
+        "end_ms": 86002
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 83520,
+        "end_ms": 83520
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 66200,
+        "end_ms": 66200
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 47720,
+        "end_ms": 47720
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 55320,
+        "end_ms": 56160
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 70960,
+        "end_ms": 71920
+      },
+      {
+        "file": "11639.mp4",
+        "start_ms": 102520,
+        "end_ms": 102760
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 492160,
+        "end_ms": 492160
+      },
+      {
+        "file": "15129.mp4",
+        "start_ms": 190576,
+        "end_ms": 192576
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 121200,
+        "end_ms": 121200
+      },
+      {
+        "file": "23149.mp4",
+        "start_ms": 227522,
+        "end_ms": 231567
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 127600,
+        "end_ms": 127600
+      },
+      {
+        "file": "17814.mp4",
+        "start_ms": 332000,
+        "end_ms": 332000
+      }
+    ],
+    "rejected": [
+      {
+        "file": "18460.mp4",
+        "start_ms": 515600,
+        "end_ms": 515600
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 88000,
+        "end_ms": 88000
+      },
+      {
+        "file": "04634.mp4",
+        "start_ms": 234400,
+        "end_ms": 234400
+      },
+      {
+        "file": "11639.mp4",
+        "start_ms": 130400,
+        "end_ms": 130400
+      },
+      {
+        "file": "16885.mp4",
+        "start_ms": 213874,
+        "end_ms": 213874
+      },
+      {
+        "file": "17814.mp4",
+        "start_ms": 338560,
+        "end_ms": 338560
+      },
+      {
+        "file": "24124.mp4",
+        "start_ms": 42340,
+        "end_ms": 42340
+      },
+      {
+        "file": "21971.mp4",
+        "start_ms": 35360,
+        "end_ms": 35360
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1127800,
+        "end_ms": 1127800
+      },
+      {
+        "file": "24124.mp4",
+        "start_ms": 19020,
+        "end_ms": 19020
+      },
+      {
+        "file": "16706.mp4",
+        "start_ms": 154270,
+        "end_ms": 154270
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1130000,
+        "end_ms": 1130000
+      },
+      {
+        "file": "10707.mp4",
+        "start_ms": 399200,
+        "end_ms": 399200
+      },
+      {
+        "file": "09963.mp4",
+        "start_ms": 162200,
+        "end_ms": 162200
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 24540,
+        "end_ms": 24540
+      },
+      {
+        "file": "01413.mp4",
+        "start_ms": 338046,
+        "end_ms": 338046
+      },
+      {
+        "file": "01484.mp4",
+        "start_ms": 210200,
+        "end_ms": 210200
+      },
+      {
+        "file": "09896.mp4",
+        "start_ms": 371440,
+        "end_ms": 371440
+      },
+      {
+        "file": "28385.mp4",
+        "start_ms": 178800,
+        "end_ms": 178800
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1127692,
+        "end_ms": 1127692
+      },
+      {
+        "file": "21971.mp4",
+        "start_ms": 35240,
+        "end_ms": 35240
+      },
+      {
+        "file": "04634.mp4",
+        "start_ms": 198600,
+        "end_ms": 198600
+      },
+      {
+        "file": "02563.mp4",
+        "start_ms": 79000,
+        "end_ms": 79000
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 492200,
+        "end_ms": 492200
+      },
+      {
+        "file": "04634.mp4",
+        "start_ms": 169000,
+        "end_ms": 169000
+      },
+      {
+        "file": "04634.mp4",
+        "start_ms": 209800,
+        "end_ms": 209800
+      },
+      {
+        "file": "09963.mp4",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "file": "27780.mp4",
+        "start_ms": 1679200,
+        "end_ms": 1679200
+      },
+      {
+        "file": "15450.mp4",
+        "start_ms": 513428,
+        "end_ms": 513428
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1128810,
+        "end_ms": 1128810
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 120100,
+        "end_ms": 120100
+      },
+      {
+        "file": "10925.mp4",
+        "start_ms": 368400,
+        "end_ms": 368400
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 659620,
+        "end_ms": 659620
+      },
+      {
+        "file": "04188.mp4",
+        "start_ms": 275400,
+        "end_ms": 275400
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 62000,
+        "end_ms": 62000
+      },
+      {
+        "file": "23452.mp4",
+        "start_ms": 223200,
+        "end_ms": 223200
+      },
+      {
+        "file": "05681.mp4",
+        "start_ms": 186000,
+        "end_ms": 186000
+      },
+      {
+        "file": "06077.mp4",
+        "start_ms": 218600,
+        "end_ms": 218600
+      },
+      {
+        "file": "24000.mp4",
+        "start_ms": 59800,
+        "end_ms": 59800
+      },
+      {
+        "file": "11552.mp4",
+        "start_ms": 222400,
+        "end_ms": 222400
+      },
+      {
+        "file": "22628.mp4",
+        "start_ms": 37103,
+        "end_ms": 37103
+      },
+      {
+        "file": "16989.mp4",
+        "start_ms": 182600,
+        "end_ms": 182600
+      },
+      {
+        "file": "04767.mp4",
+        "start_ms": 72320,
+        "end_ms": 72320
+      },
+      {
+        "file": "14740.mp4",
+        "start_ms": 184200,
+        "end_ms": 184200
+      },
+      {
+        "file": "27956.mp4",
+        "start_ms": 268199,
+        "end_ms": 268199
+      },
+      {
+        "file": "22628.mp4",
+        "start_ms": 37470,
+        "end_ms": 37470
+      },
+      {
+        "file": "00180.mp4",
+        "start_ms": 131092,
+        "end_ms": 131092
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 85710,
+        "end_ms": 86669
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 94177,
+        "end_ms": 95011
+      },
+      {
+        "file": "15897.mp4",
+        "start_ms": 85400,
+        "end_ms": 85400
+      },
+      {
+        "file": "00180.mp4",
+        "start_ms": 132182,
+        "end_ms": 132182
+      },
+      {
+        "file": "00577.mp4",
+        "start_ms": 531400,
+        "end_ms": 531400
+      },
+      {
+        "file": "20343.mp4",
+        "start_ms": 327000,
+        "end_ms": 327400
+      },
+      {
+        "file": "15469.mp4",
+        "start_ms": 147864,
+        "end_ms": 147864
+      },
+      {
+        "file": "09447.mp4",
+        "start_ms": 121960,
+        "end_ms": 123280
+      },
+      {
+        "file": "04634.mp4",
+        "start_ms": 227600,
+        "end_ms": 227600
+      },
+      {
+        "file": "24124.mp4",
+        "start_ms": 41680,
+        "end_ms": 41680
+      },
+      {
+        "file": "20108.mp4",
+        "start_ms": 321054,
+        "end_ms": 321204
+      },
+      {
+        "file": "20291.mp4",
+        "start_ms": 66000,
+        "end_ms": 66000
+      },
+      {
+        "file": "02797.mp4",
+        "start_ms": 981632,
+        "end_ms": 981632
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 120140,
+        "end_ms": 120140
+      },
+      {
+        "file": "20108.mp4",
+        "start_ms": 320753,
+        "end_ms": 321037
+      },
+      {
+        "file": "17345.mp4",
+        "start_ms": 20000,
+        "end_ms": 25000
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 119911,
+        "end_ms": 120370
+      },
+      {
+        "file": "22628.mp4",
+        "start_ms": 132800,
+        "end_ms": 132800
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1127690,
+        "end_ms": 1127690
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 120411,
+        "end_ms": 121329
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 121371,
+        "end_ms": 122372
+      },
+      {
+        "file": "02797.mp4",
+        "start_ms": 987337,
+        "end_ms": 987337
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 142120,
+        "end_ms": 142120
+      },
+      {
+        "file": "08394.mp4",
+        "start_ms": 233800,
+        "end_ms": 233800
+      },
+      {
+        "file": "27956.mp4",
+        "start_ms": 278121,
+        "end_ms": 278121
+      },
+      {
+        "file": "12577.mp4",
+        "start_ms": 1147800,
+        "end_ms": 1147800
+      },
+      {
+        "file": "04634.mp4",
+        "start_ms": 232200,
+        "end_ms": 232200
+      },
+      {
+        "file": "22345.mp4",
+        "start_ms": 159791,
+        "end_ms": 159791
+      },
+      {
+        "file": "20442.mp4",
+        "start_ms": 149000,
+        "end_ms": 149000
+      },
+      {
+        "file": "15707.mp4",
+        "start_ms": 1302000,
+        "end_ms": 1302000
+      },
+      {
+        "file": "04634.mp4",
+        "start_ms": 195000,
+        "end_ms": 195000
+      },
+      {
+        "file": "27053.mp4",
+        "start_ms": 156200,
+        "end_ms": 156200
+      },
+      {
+        "file": "17865.mp4",
+        "start_ms": 77535,
+        "end_ms": 85251
+      },
+      {
+        "file": "17911.mp4",
+        "start_ms": 183600,
+        "end_ms": 183600
+      },
+      {
+        "file": "17911.mp4",
+        "start_ms": 138800,
+        "end_ms": 138800
+      },
+      {
+        "file": "24881.mp4",
+        "start_ms": 141800,
+        "end_ms": 141800
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 436773,
+        "end_ms": 436773
+      },
+      {
+        "file": "04270.mp4",
+        "start_ms": 892600,
+        "end_ms": 892600
+      },
+      {
+        "file": "00180.mp4",
+        "start_ms": 131660,
+        "end_ms": 131660
+      },
+      {
+        "file": "14314.mp4",
+        "start_ms": 211694,
+        "end_ms": 211694
+      },
+      {
+        "file": "00180.mp4",
+        "start_ms": 129440,
+        "end_ms": 129440
+      },
+      {
+        "file": "20369.mp4",
+        "start_ms": 10000,
+        "end_ms": 15000
+      },
+      {
+        "file": "00180.mp4",
+        "start_ms": 194760,
+        "end_ms": 194760
+      },
+      {
+        "file": "04634.mp4",
+        "start_ms": 203600,
+        "end_ms": 203600
+      },
+      {
+        "file": "00180.mp4",
+        "start_ms": 179940,
+        "end_ms": 179940
+      },
+      {
+        "file": "04634.mp4",
+        "start_ms": 219200,
+        "end_ms": 219200
+      },
+      {
+        "file": "00180.mp4",
+        "start_ms": 167760,
+        "end_ms": 167760
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 132800,
+        "end_ms": 132800
+      },
+      {
+        "file": "04634.mp4",
+        "start_ms": 213800,
+        "end_ms": 213800
+      },
+      {
+        "file": "17911.mp4",
+        "start_ms": 154721,
+        "end_ms": 154721
+      },
+      {
+        "file": "00180.mp4",
+        "start_ms": 144940,
+        "end_ms": 144940
+      },
+      {
+        "file": "13155.mp4",
+        "start_ms": 242400,
+        "end_ms": 242400
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 448750,
+        "end_ms": 449750
+      },
+      {
+        "file": "00180.mp4",
+        "start_ms": 203640,
+        "end_ms": 203640
+      },
+      {
+        "file": "26106.mp4",
+        "start_ms": 822612,
+        "end_ms": 822612
+      },
+      {
+        "file": "17367.mp4",
+        "start_ms": 56040,
+        "end_ms": 56360
+      },
+      {
+        "file": "17367.mp4",
+        "start_ms": 56400,
+        "end_ms": 59440
+      },
+      {
+        "file": "23452.mp4",
+        "start_ms": 229200,
+        "end_ms": 229200
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 48600,
+        "end_ms": 48600
+      },
+      {
+        "file": "08394.mp4",
+        "start_ms": 277500,
+        "end_ms": 278500
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 111800,
+        "end_ms": 111800
+      },
+      {
+        "file": "03722.mp4",
+        "start_ms": 624200,
+        "end_ms": 624200
+      },
+      {
+        "file": "02932.mp4",
+        "start_ms": 1100974,
+        "end_ms": 1100974
+      },
+      {
+        "file": "23644.mp4",
+        "start_ms": 109000,
+        "end_ms": 109000
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 140765,
+        "end_ms": 140765
+      },
+      {
+        "file": "15707.mp4",
+        "start_ms": 514600,
+        "end_ms": 514600
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 139848,
+        "end_ms": 139848
+      },
+      {
+        "file": "14740.mp4",
+        "start_ms": 186600,
+        "end_ms": 186600
+      },
+      {
+        "file": "02357.mp4",
+        "start_ms": 12000,
+        "end_ms": 25000
+      },
+      {
+        "file": "06899.mp4",
+        "start_ms": 847800,
+        "end_ms": 847800
+      },
+      {
+        "file": "06077.mp4",
+        "start_ms": 138600,
+        "end_ms": 138600
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 120200,
+        "end_ms": 120200
+      },
+      {
+        "file": "18460.mp4",
+        "start_ms": 486444,
+        "end_ms": 486444
+      },
+      {
+        "file": "11442.mp4",
+        "start_ms": 164267,
+        "end_ms": 164267
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1190300,
+        "end_ms": 1190300
+      },
+      {
+        "file": "24707.mp4",
+        "start_ms": 142600,
+        "end_ms": 143260
+      },
+      {
+        "file": "01880.mp4",
+        "start_ms": 39040,
+        "end_ms": 39040
+      },
+      {
+        "file": "17814.mp4",
+        "start_ms": 331400,
+        "end_ms": 331400
+      },
+      {
+        "file": "09173.mp4",
+        "start_ms": 1429428,
+        "end_ms": 1429428
+      },
+      {
+        "file": "10558.mp4",
+        "start_ms": 96600,
+        "end_ms": 96600
+      },
+      {
+        "file": "09228.mp4",
+        "start_ms": 219000,
+        "end_ms": 219000
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 66040,
+        "end_ms": 66480
+      },
+      {
+        "file": "16308.mp4",
+        "start_ms": 166800,
+        "end_ms": 166800
+      },
+      {
+        "file": "17911.mp4",
+        "start_ms": 132000,
+        "end_ms": 133000
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 114400,
+        "end_ms": 114400
+      },
+      {
+        "file": "11960.mp4",
+        "start_ms": 369960,
+        "end_ms": 369960
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 103806,
+        "end_ms": 103806
+      },
+      {
+        "file": "03714.mp4",
+        "start_ms": 49000,
+        "end_ms": 49000
+      },
+      {
+        "file": "17497.mp4",
+        "start_ms": 258000,
+        "end_ms": 258000
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1127392,
+        "end_ms": 1127392
+      },
+      {
+        "file": "01413.mp4",
+        "start_ms": 336252,
+        "end_ms": 336628
+      },
+      {
+        "file": "22632.mp4",
+        "start_ms": 232402,
+        "end_ms": 234402
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 33000,
+        "end_ms": 33000
+      },
+      {
+        "file": "22632.mp4",
+        "start_ms": 231500,
+        "end_ms": 232500
+      },
+      {
+        "file": "17911.mp4",
+        "start_ms": 154800,
+        "end_ms": 154800
+      },
+      {
+        "file": "13291.mp4",
+        "start_ms": 1240940,
+        "end_ms": 1240940
+      },
+      {
+        "file": "15096.mp4",
+        "start_ms": 1240940,
+        "end_ms": 1240940
+      },
+      {
+        "file": "19410.mp4",
+        "start_ms": 314814,
+        "end_ms": 314814
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 7,
+        "end_ms": 13
+      },
+      {
+        "file": "00561.mp4",
+        "start_ms": 6000,
+        "end_ms": 6000
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 152000,
+        "end_ms": 152000
+      },
+      {
+        "file": "24221.mp4",
+        "start_ms": 1539671,
+        "end_ms": 1539671
+      },
+      {
+        "file": "10408.mp4",
+        "start_ms": 171800,
+        "end_ms": 171800
+      },
+      {
+        "file": "23358.mp4",
+        "start_ms": 433400,
+        "end_ms": 433400
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 136074,
+        "end_ms": 136074
+      },
+      {
+        "file": "05794.mp4",
+        "start_ms": 313667,
+        "end_ms": 313667
+      },
+      {
+        "file": "02797.mp4",
+        "start_ms": 618384,
+        "end_ms": 619719
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1187400,
+        "end_ms": 1187400
+      },
+      {
+        "file": "16345.mp4",
+        "start_ms": 206145,
+        "end_ms": 206145
+      },
+      {
+        "file": "24124.mp4",
+        "start_ms": 101300,
+        "end_ms": 101300
+      },
+      {
+        "file": "11458.mp4",
+        "start_ms": 217708,
+        "end_ms": 218375
+      },
+      {
+        "file": "22345.mp4",
+        "start_ms": 162020,
+        "end_ms": 162020
+      },
+      {
+        "file": "11826.mp4",
+        "start_ms": 30800,
+        "end_ms": 30800
+      },
+      {
+        "file": "10814.mp4",
+        "start_ms": 7,
+        "end_ms": 7
+      },
+      {
+        "file": "12722.mp4",
+        "start_ms": 95040,
+        "end_ms": 97040
+      },
+      {
+        "file": "11458.mp4",
+        "start_ms": 217333,
+        "end_ms": 217666
+      },
+      {
+        "file": "24441.mp4",
+        "start_ms": 432200,
+        "end_ms": 432200
+      },
+      {
+        "file": "28398.mp4",
+        "start_ms": 489455,
+        "end_ms": 489455
+      },
+      {
+        "file": "06561.mp4",
+        "start_ms": 141000,
+        "end_ms": 141000
+      },
+      {
+        "file": "22628.mp4",
+        "start_ms": 21571,
+        "end_ms": 21571
+      },
+      {
+        "file": "10707.mp4",
+        "start_ms": 369000,
+        "end_ms": 369000
+      },
+      {
+        "file": "05794.mp4",
+        "start_ms": 314000,
+        "end_ms": 314000
+      },
+      {
+        "file": "04639.mp4",
+        "start_ms": 172120,
+        "end_ms": 174240
+      },
+      {
+        "file": "24707.mp4",
+        "start_ms": 106305,
+        "end_ms": 108305
+      },
+      {
+        "file": "00249.mp4",
+        "start_ms": 91600,
+        "end_ms": 91600
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 86000,
+        "end_ms": 86000
+      },
+      {
+        "file": "03722.mp4",
+        "start_ms": 621800,
+        "end_ms": 621800
+      },
+      {
+        "file": "23406.mp4",
+        "start_ms": 2995659,
+        "end_ms": 3000230
+      },
+      {
+        "file": "01404.mp4",
+        "start_ms": 511000,
+        "end_ms": 511000
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 143142,
+        "end_ms": 143142
+      },
+      {
+        "file": "10866.mp4",
+        "start_ms": 149949,
+        "end_ms": 153419
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 1176191,
+        "end_ms": 1176191
+      },
+      {
+        "file": "24707.mp4",
+        "start_ms": 106018,
+        "end_ms": 108018
+      },
+      {
+        "file": "03319.mp4",
+        "start_ms": 585080,
+        "end_ms": 585400
+      },
+      {
+        "file": "10408.mp4",
+        "start_ms": 105400,
+        "end_ms": 105400
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 100600,
+        "end_ms": 100600
+      },
+      {
+        "file": "17511.mp4",
+        "start_ms": 121588,
+        "end_ms": 122188
+      },
+      {
+        "file": "15859.mp4",
+        "start_ms": 470720,
+        "end_ms": 470720
+      },
+      {
+        "file": "11639.mp4",
+        "start_ms": 81520,
+        "end_ms": 81920
+      },
+      {
+        "file": "03319.mp4",
+        "start_ms": 593640,
+        "end_ms": 593840
+      },
+      {
+        "file": "20929.mp4",
+        "start_ms": 1290090,
+        "end_ms": 1290090
+      },
+      {
+        "file": "11639.mp4",
+        "start_ms": 74320,
+        "end_ms": 75360
+      },
+      {
+        "file": "11639.mp4",
+        "start_ms": 89520,
+        "end_ms": 90040
+      },
+      {
+        "file": "22628.mp4",
+        "start_ms": 133834,
+        "end_ms": 135834
+      },
+      {
+        "file": "01617.mp4",
+        "start_ms": 359200,
+        "end_ms": 359200
+      },
+      {
+        "file": "25617.mp4",
+        "start_ms": 95000,
+        "end_ms": 95000
+      },
+      {
+        "file": "19975.mp4",
+        "start_ms": 356405,
+        "end_ms": 356405
+      },
+      {
+        "file": "13936.mp4",
+        "start_ms": 942000,
+        "end_ms": 942000
+      },
+      {
+        "file": "03319.mp4",
+        "start_ms": 566120,
+        "end_ms": 566200
+      },
+      {
+        "file": "19888.mp4",
+        "start_ms": 241400,
+        "end_ms": 241400
+      },
+      {
+        "file": "08456.mp4",
+        "start_ms": 144200,
+        "end_ms": 144200
+      },
+      {
+        "file": "03432.mp4",
+        "start_ms": 147800,
+        "end_ms": 147800
+      },
+      {
+        "file": "01512.mp4",
+        "start_ms": 321922,
+        "end_ms": 321922
+      },
+      {
+        "file": "06669.mp4",
+        "start_ms": 167236,
+        "end_ms": 169236
+      },
+      {
+        "file": "00577.mp4",
+        "start_ms": 536600,
+        "end_ms": 536600
+      },
+      {
+        "file": "01404.mp4",
+        "start_ms": 507360,
+        "end_ms": 509360
+      },
+      {
+        "file": "11639.mp4",
+        "start_ms": 75400,
+        "end_ms": 75680
+      },
+      {
+        "file": "01921.mp4",
+        "start_ms": 247600,
+        "end_ms": 247600
+      },
+      {
+        "file": "00577.mp4",
+        "start_ms": 539250,
+        "end_ms": 539250
+      },
+      {
+        "file": "08505.mp4",
+        "start_ms": 153000,
+        "end_ms": 153000
+      }
+    ]
+  },
+  {
+    "name": "vbs25-qa5",
+    "accepted": [
+      "diamond",
+      "superman logo",
+      "superman",
+      "the superman logo (S)",
+      "red S in yellow on blue shirt",
+      "Superman logo",
+      "blue (superman)",
+      "superman S",
+      "letter S, it is a superman costume",
+      "superman symbol",
+      "Logo superman",
+      "Superman",
+      "logo superman",
+      "superman sign",
+      "super man"
+    ],
+    "rejected": [
+      "red",
+      "yellow",
+      "black",
+      "white",
+      "spiderman logo",
+      "blue",
+      "a cartoon death",
+      "head of a man",
+      "a laughing skull",
+      "green",
+      "crocodile",
+      "carnavan",
+      "logo",
+      "colorful graphic with white face",
+      "logo of skull"
+    ]
+  },
+  {
+    "name": "vbs25-qa6",
+    "accepted": [
+      "hawaii",
+      "Hawaii",
+      "Hawai"
+    ],
+    "rejected": [
+      "LAE",
+      "Louisiana",
+      "LAE 680, guess Loas Angeles?",
+      "LAE 680",
+      "California",
+      "LA",
+      "Florida",
+      "kansas",
+      "mana",
+      "california",
+      "florida"
+    ]
+  },
+  {
+    "name": "vbs25-avs4",
+    "accepted": [
+      {
+        "file": "20745.mp4",
+        "start_ms": 104200,
+        "end_ms": 104200
+      },
+      {
+        "file": "26308.mp4",
+        "start_ms": 29600,
+        "end_ms": 29600
+      },
+      {
+        "file": "25059.mp4",
+        "start_ms": 264800,
+        "end_ms": 264800
+      },
+      {
+        "file": "02257.mp4",
+        "start_ms": 18764,
+        "end_ms": 20764
+      },
+      {
+        "file": "13226.mp4",
+        "start_ms": 72533,
+        "end_ms": 72533
+      },
+      {
+        "file": "02257.mp4",
+        "start_ms": 52486,
+        "end_ms": 54486
+      },
+      {
+        "file": "27523.mp4",
+        "start_ms": 96520,
+        "end_ms": 97320
+      },
+      {
+        "file": "24740.mp4",
+        "start_ms": 173740,
+        "end_ms": 173740
+      },
+      {
+        "file": "05019.mp4",
+        "start_ms": 111208,
+        "end_ms": 111208
+      },
+      {
+        "file": "20745.mp4",
+        "start_ms": 104160,
+        "end_ms": 104160
+      },
+      {
+        "file": "13226.mp4",
+        "start_ms": 162111,
+        "end_ms": 162111
+      },
+      {
+        "file": "13226.mp4",
+        "start_ms": 177620,
+        "end_ms": 177620
+      },
+      {
+        "file": "13343.mp4",
+        "start_ms": 68600,
+        "end_ms": 68600
+      },
+      {
+        "file": "18698.mp4",
+        "start_ms": 4440,
+        "end_ms": 8080
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 186085,
+        "end_ms": 186085
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 186385,
+        "end_ms": 186385
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 187286,
+        "end_ms": 187286
+      },
+      {
+        "file": "13226.mp4",
+        "start_ms": 177400,
+        "end_ms": 177400
+      },
+      {
+        "file": "01541.mp4",
+        "start_ms": 162833,
+        "end_ms": 162833
+      },
+      {
+        "file": "03983.mp4",
+        "start_ms": 177000,
+        "end_ms": 177000
+      },
+      {
+        "file": "26308.mp4",
+        "start_ms": 28127,
+        "end_ms": 30127
+      },
+      {
+        "file": "01798.mp4",
+        "start_ms": 257374,
+        "end_ms": 257374
+      },
+      {
+        "file": "13226.mp4",
+        "start_ms": 180129,
+        "end_ms": 180129
+      },
+      {
+        "file": "15000.mp4",
+        "start_ms": 361758,
+        "end_ms": 361758
+      },
+      {
+        "file": "06998.mp4",
+        "start_ms": 182549,
+        "end_ms": 182549
+      },
+      {
+        "file": "20745.mp4",
+        "start_ms": 227000,
+        "end_ms": 227000
+      }
+    ],
+    "rejected": [
+      {
+        "file": "25472.mp4",
+        "start_ms": 286600,
+        "end_ms": 286600
+      },
+      {
+        "file": "25472.mp4",
+        "start_ms": 287600,
+        "end_ms": 287600
+      },
+      {
+        "file": "26562.mp4",
+        "start_ms": 108400,
+        "end_ms": 108400
+      },
+      {
+        "file": "02573.mp4",
+        "start_ms": 267000,
+        "end_ms": 267000
+      },
+      {
+        "file": "24501.mp4",
+        "start_ms": 95766,
+        "end_ms": 95766
+      },
+      {
+        "file": "22614.mp4",
+        "start_ms": 115200,
+        "end_ms": 115200
+      },
+      {
+        "file": "02573.mp4",
+        "start_ms": 7200,
+        "end_ms": 7200
+      },
+      {
+        "file": "02573.mp4",
+        "start_ms": 267800,
+        "end_ms": 267800
+      },
+      {
+        "file": "21330.mp4",
+        "start_ms": 437200,
+        "end_ms": 437200
+      },
+      {
+        "file": "09702.mp4",
+        "start_ms": 69800,
+        "end_ms": 69800
+      },
+      {
+        "file": "16978.mp4",
+        "start_ms": 54000,
+        "end_ms": 54000
+      },
+      {
+        "file": "19835.mp4",
+        "start_ms": 353400,
+        "end_ms": 353400
+      },
+      {
+        "file": "20575.mp4",
+        "start_ms": 103800,
+        "end_ms": 103800
+      },
+      {
+        "file": "19357.mp4",
+        "start_ms": 141800,
+        "end_ms": 141800
+      },
+      {
+        "file": "24066.mp4",
+        "start_ms": 68523,
+        "end_ms": 68523
+      },
+      {
+        "file": "19835.mp4",
+        "start_ms": 244000,
+        "end_ms": 244000
+      },
+      {
+        "file": "02573.mp4",
+        "start_ms": 264600,
+        "end_ms": 264600
+      },
+      {
+        "file": "06548.mp4",
+        "start_ms": 1365495,
+        "end_ms": 1365495
+      },
+      {
+        "file": "02573.mp4",
+        "start_ms": 5600,
+        "end_ms": 5600
+      },
+      {
+        "file": "11255.mp4",
+        "start_ms": 138800,
+        "end_ms": 138800
+      },
+      {
+        "file": "19835.mp4",
+        "start_ms": 288000,
+        "end_ms": 288000
+      },
+      {
+        "file": "08596.mp4",
+        "start_ms": 598600,
+        "end_ms": 598600
+      },
+      {
+        "file": "22079.mp4",
+        "start_ms": 77800,
+        "end_ms": 77800
+      },
+      {
+        "file": "24957.mp4",
+        "start_ms": 2163240,
+        "end_ms": 2163240
+      },
+      {
+        "file": "02573.mp4",
+        "start_ms": 5000,
+        "end_ms": 5000
+      },
+      {
+        "file": "11746.mp4",
+        "start_ms": 564030,
+        "end_ms": 564030
+      },
+      {
+        "file": "08735.mp4",
+        "start_ms": 339776,
+        "end_ms": 339776
+      },
+      {
+        "file": "24957.mp4",
+        "start_ms": 2169040,
+        "end_ms": 2169040
+      },
+      {
+        "file": "06552.mp4",
+        "start_ms": 37792,
+        "end_ms": 37792
+      },
+      {
+        "file": "00384.mp4",
+        "start_ms": 4200,
+        "end_ms": 4200
+      },
+      {
+        "file": "05439.mp4",
+        "start_ms": 27800,
+        "end_ms": 27800
+      },
+      {
+        "file": "09702.mp4",
+        "start_ms": 57400,
+        "end_ms": 57400
+      },
+      {
+        "file": "04085.mp4",
+        "start_ms": 1448400,
+        "end_ms": 1448400
+      },
+      {
+        "file": "19745.mp4",
+        "start_ms": 246913,
+        "end_ms": 246913
+      },
+      {
+        "file": "22079.mp4",
+        "start_ms": 80800,
+        "end_ms": 80800
+      },
+      {
+        "file": "16845.mp4",
+        "start_ms": 273089,
+        "end_ms": 273089
+      },
+      {
+        "file": "13343.mp4",
+        "start_ms": 214020,
+        "end_ms": 214020
+      },
+      {
+        "file": "06548.mp4",
+        "start_ms": 1364000,
+        "end_ms": 1364000
+      },
+      {
+        "file": "02113.mp4",
+        "start_ms": 82200,
+        "end_ms": 82200
+      },
+      {
+        "file": "25989.mp4",
+        "start_ms": 105560,
+        "end_ms": 105560
+      },
+      {
+        "file": "18892.mp4",
+        "start_ms": 78978,
+        "end_ms": 78978
+      },
+      {
+        "file": "12979.mp4",
+        "start_ms": 63600,
+        "end_ms": 63600
+      },
+      {
+        "file": "18768.mp4",
+        "start_ms": 349200,
+        "end_ms": 349200
+      },
+      {
+        "file": "11344.mp4",
+        "start_ms": 66600,
+        "end_ms": 66600
+      },
+      {
+        "file": "11344.mp4",
+        "start_ms": 121600,
+        "end_ms": 121600
+      },
+      {
+        "file": "02657.mp4",
+        "start_ms": 415600,
+        "end_ms": 415600
+      },
+      {
+        "file": "26484.mp4",
+        "start_ms": 132769,
+        "end_ms": 132769
+      },
+      {
+        "file": "19835.mp4",
+        "start_ms": 199800,
+        "end_ms": 199800
+      },
+      {
+        "file": "25051.mp4",
+        "start_ms": 165200,
+        "end_ms": 165200
+      },
+      {
+        "file": "27542.mp4",
+        "start_ms": 91167,
+        "end_ms": 91167
+      },
+      {
+        "file": "20414.mp4",
+        "start_ms": 246720,
+        "end_ms": 246720
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 181981,
+        "end_ms": 181981
+      },
+      {
+        "file": "22369.mp4",
+        "start_ms": 50800,
+        "end_ms": 50800
+      },
+      {
+        "file": "25387.mp4",
+        "start_ms": 43200,
+        "end_ms": 43200
+      },
+      {
+        "file": "20745.mp4",
+        "start_ms": 123160,
+        "end_ms": 130280
+      },
+      {
+        "file": "19560.mp4",
+        "start_ms": 462907,
+        "end_ms": 462907
+      },
+      {
+        "file": "16777.mp4",
+        "start_ms": 26600,
+        "end_ms": 26600
+      },
+      {
+        "file": "02113.mp4",
+        "start_ms": 62795,
+        "end_ms": 62795
+      },
+      {
+        "file": "06998.mp4",
+        "start_ms": 201084,
+        "end_ms": 201084
+      },
+      {
+        "file": "25051.mp4",
+        "start_ms": 86216,
+        "end_ms": 86216
+      },
+      {
+        "file": "24066.mp4",
+        "start_ms": 107200,
+        "end_ms": 107200
+      },
+      {
+        "file": "23710.mp4",
+        "start_ms": 189520,
+        "end_ms": 189960
+      },
+      {
+        "file": "09609.mp4",
+        "start_ms": 502600,
+        "end_ms": 502600
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 192008,
+        "end_ms": 192008
+      },
+      {
+        "file": "19944.mp4",
+        "start_ms": 11000,
+        "end_ms": 11000
+      },
+      {
+        "file": "08730.mp4",
+        "start_ms": 272600,
+        "end_ms": 272600
+      },
+      {
+        "file": "08730.mp4",
+        "start_ms": 271400,
+        "end_ms": 271400
+      },
+      {
+        "file": "20745.mp4",
+        "start_ms": 102400,
+        "end_ms": 102400
+      },
+      {
+        "file": "08730.mp4",
+        "start_ms": 273200,
+        "end_ms": 273200
+      },
+      {
+        "file": "10236.mp4",
+        "start_ms": 150616,
+        "end_ms": 150616
+      },
+      {
+        "file": "08331.mp4",
+        "start_ms": 405354,
+        "end_ms": 405354
+      },
+      {
+        "file": "21783.mp4",
+        "start_ms": 126375,
+        "end_ms": 126375
+      },
+      {
+        "file": "11344.mp4",
+        "start_ms": 127583,
+        "end_ms": 127583
+      },
+      {
+        "file": "23710.mp4",
+        "start_ms": 189740,
+        "end_ms": 189740
+      },
+      {
+        "file": "08596.mp4",
+        "start_ms": 158200,
+        "end_ms": 158200
+      },
+      {
+        "file": "25059.mp4",
+        "start_ms": 263400,
+        "end_ms": 263400
+      },
+      {
+        "file": "13226.mp4",
+        "start_ms": 180390,
+        "end_ms": 180390
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 179862,
+        "end_ms": 179862
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 180797,
+        "end_ms": 180797
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 180513,
+        "end_ms": 180513
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 181280,
+        "end_ms": 181280
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 182565,
+        "end_ms": 182565
+      },
+      {
+        "file": "16352.mp4",
+        "start_ms": 108691,
+        "end_ms": 108691
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 182865,
+        "end_ms": 182865
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 183366,
+        "end_ms": 183366
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 184267,
+        "end_ms": 184267
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 185151,
+        "end_ms": 185151
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 185685,
+        "end_ms": 185685
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 202819,
+        "end_ms": 202819
+      },
+      {
+        "file": "02841.mp4",
+        "start_ms": 493380,
+        "end_ms": 493380
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 201350,
+        "end_ms": 201350
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 190239,
+        "end_ms": 190239
+      },
+      {
+        "file": "11746.mp4",
+        "start_ms": 561190,
+        "end_ms": 561730
+      },
+      {
+        "file": "17768.mp4",
+        "start_ms": 259800,
+        "end_ms": 259800
+      },
+      {
+        "file": "17608.mp4",
+        "start_ms": 189572,
+        "end_ms": 189572
+      },
+      {
+        "file": "17768.mp4",
+        "start_ms": 105200,
+        "end_ms": 105200
+      },
+      {
+        "file": "21201.mp4",
+        "start_ms": 67360,
+        "end_ms": 67360
+      },
+      {
+        "file": "11255.mp4",
+        "start_ms": 444000,
+        "end_ms": 444000
+      },
+      {
+        "file": "10236.mp4",
+        "start_ms": 151000,
+        "end_ms": 151000
+      },
+      {
+        "file": "20745.mp4",
+        "start_ms": 45520,
+        "end_ms": 45920
+      },
+      {
+        "file": "13226.mp4",
+        "start_ms": 198461,
+        "end_ms": 198461
+      },
+      {
+        "file": "23710.mp4",
+        "start_ms": 192420,
+        "end_ms": 192420
+      },
+      {
+        "file": "23710.mp4",
+        "start_ms": 189160,
+        "end_ms": 189160
+      },
+      {
+        "file": "25059.mp4",
+        "start_ms": 0,
+        "end_ms": 0
+      },
+      {
+        "file": "13343.mp4",
+        "start_ms": 213094,
+        "end_ms": 215094
+      },
+      {
+        "file": "08730.mp4",
+        "start_ms": 270400,
+        "end_ms": 270400
+      },
+      {
+        "file": "12192.mp4",
+        "start_ms": 24007,
+        "end_ms": 24007
+      },
+      {
+        "file": "08730.mp4",
+        "start_ms": 215200,
+        "end_ms": 215200
+      },
+      {
+        "file": "08730.mp4",
+        "start_ms": 215800,
+        "end_ms": 215800
+      },
+      {
+        "file": "08730.mp4",
+        "start_ms": 220800,
+        "end_ms": 220800
+      },
+      {
+        "file": "08730.mp4",
+        "start_ms": 226800,
+        "end_ms": 226800
+      },
+      {
+        "file": "08730.mp4",
+        "start_ms": 242000,
+        "end_ms": 242000
+      },
+      {
+        "file": "08730.mp4",
+        "start_ms": 240400,
+        "end_ms": 240400
+      },
+      {
+        "file": "25472.mp4",
+        "start_ms": 276963,
+        "end_ms": 276963
+      },
+      {
+        "file": "23710.mp4",
+        "start_ms": 180460,
+        "end_ms": 180460
+      },
+      {
+        "file": "08730.mp4",
+        "start_ms": 243600,
+        "end_ms": 243600
+      },
+      {
+        "file": "08730.mp4",
+        "start_ms": 245800,
+        "end_ms": 245800
+      },
+      {
+        "file": "08730.mp4",
+        "start_ms": 294400,
+        "end_ms": 294400
+      },
+      {
+        "file": "24501.mp4",
+        "start_ms": 140360,
+        "end_ms": 140360
+      },
+      {
+        "file": "20745.mp4",
+        "start_ms": 102637,
+        "end_ms": 102637
+      },
+      {
+        "file": "02841.mp4",
+        "start_ms": 178600,
+        "end_ms": 178600
+      },
+      {
+        "file": "20745.mp4",
+        "start_ms": 137480,
+        "end_ms": 142160
+      },
+      {
+        "file": "06657.mp4",
+        "start_ms": 196078,
+        "end_ms": 196078
+      },
+      {
+        "file": "06657.mp4",
+        "start_ms": 238104,
+        "end_ms": 238104
+      },
+      {
+        "file": "06657.mp4",
+        "start_ms": 193176,
+        "end_ms": 193176
+      },
+      {
+        "file": "06657.mp4",
+        "start_ms": 185802,
+        "end_ms": 185802
+      },
+      {
+        "file": "06657.mp4",
+        "start_ms": 236169,
+        "end_ms": 236169
+      },
+      {
+        "file": "06657.mp4",
+        "start_ms": 185435,
+        "end_ms": 185435
+      },
+      {
+        "file": "06657.mp4",
+        "start_ms": 238738,
+        "end_ms": 238738
+      },
+      {
+        "file": "06657.mp4",
+        "start_ms": 188371,
+        "end_ms": 188371
+      },
+      {
+        "file": "20745.mp4",
+        "start_ms": 142677,
+        "end_ms": 142677
+      },
+      {
+        "file": "06657.mp4",
+        "start_ms": 192342,
+        "end_ms": 192342
+      },
+      {
+        "file": "20745.mp4",
+        "start_ms": 145381,
+        "end_ms": 145381
+      },
+      {
+        "file": "06657.mp4",
+        "start_ms": 78294,
+        "end_ms": 78294
+      },
+      {
+        "file": "06657.mp4",
+        "start_ms": 197780,
+        "end_ms": 197780
+      },
+      {
+        "file": "18501.mp4",
+        "start_ms": 243717,
+        "end_ms": 243717
+      },
+      {
+        "file": "11255.mp4",
+        "start_ms": 443600,
+        "end_ms": 443600
+      },
+      {
+        "file": "11344.mp4",
+        "start_ms": 103737,
+        "end_ms": 103737
+      },
+      {
+        "file": "12356.mp4",
+        "start_ms": 123416,
+        "end_ms": 123416
+      },
+      {
+        "file": "25293.mp4",
+        "start_ms": 276810,
+        "end_ms": 276810
+      },
+      {
+        "file": "25293.mp4",
+        "start_ms": 277010,
+        "end_ms": 277010
+      },
+      {
+        "file": "25293.mp4",
+        "start_ms": 277410,
+        "end_ms": 277410
+      },
+      {
+        "file": "25293.mp4",
+        "start_ms": 273110,
+        "end_ms": 273110
+      },
+      {
+        "file": "02841.mp4",
+        "start_ms": 634217,
+        "end_ms": 634217
+      },
+      {
+        "file": "25293.mp4",
+        "start_ms": 271670,
+        "end_ms": 271670
+      },
+      {
+        "file": "11344.mp4",
+        "start_ms": 109730,
+        "end_ms": 109730
+      },
+      {
+        "file": "25293.mp4",
+        "start_ms": 274670,
+        "end_ms": 274670
+      },
+      {
+        "file": "25293.mp4",
+        "start_ms": 276210,
+        "end_ms": 276210
+      },
+      {
+        "file": "11344.mp4",
+        "start_ms": 126800,
+        "end_ms": 126800
+      },
+      {
+        "file": "09554.mp4",
+        "start_ms": 320519,
+        "end_ms": 320519
+      },
+      {
+        "file": "23710.mp4",
+        "start_ms": 181680,
+        "end_ms": 181680
+      },
+      {
+        "file": "02841.mp4",
+        "start_ms": 427800,
+        "end_ms": 427800
+      },
+      {
+        "file": "13226.mp4",
+        "start_ms": 125333,
+        "end_ms": 125333
+      },
+      {
+        "file": "25293.mp4",
+        "start_ms": 278210,
+        "end_ms": 278210
+      },
+      {
+        "file": "17768.mp4",
+        "start_ms": 18200,
+        "end_ms": 18200
+      },
+      {
+        "file": "19835.mp4",
+        "start_ms": 80260,
+        "end_ms": 80260
+      },
+      {
+        "file": "04358.mp4",
+        "start_ms": 151166,
+        "end_ms": 151166
+      },
+      {
+        "file": "06998.mp4",
+        "start_ms": 63130,
+        "end_ms": 63600
+      },
+      {
+        "file": "26415.mp4",
+        "start_ms": 37600,
+        "end_ms": 37600
+      },
+      {
+        "file": "04438.mp4",
+        "start_ms": 86155,
+        "end_ms": 86155
+      },
+      {
+        "file": "19835.mp4",
+        "start_ms": 252200,
+        "end_ms": 252200
+      },
+      {
+        "file": "16845.mp4",
+        "start_ms": 216482,
+        "end_ms": 216482
+      },
+      {
+        "file": "16667.mp4",
+        "start_ms": 255800,
+        "end_ms": 255800
+      },
+      {
+        "file": "23710.mp4",
+        "start_ms": 160480,
+        "end_ms": 160480
+      },
+      {
+        "file": "04001.mp4",
+        "start_ms": 192400,
+        "end_ms": 192400
+      },
+      {
+        "file": "22614.mp4",
+        "start_ms": 76600,
+        "end_ms": 76600
+      },
+      {
+        "file": "01982.mp4",
+        "start_ms": 78500,
+        "end_ms": 78500
+      },
+      {
+        "file": "24501.mp4",
+        "start_ms": 123880,
+        "end_ms": 123880
+      },
+      {
+        "file": "26308.mp4",
+        "start_ms": 32647,
+        "end_ms": 32647
+      },
+      {
+        "file": "13054.mp4",
+        "start_ms": 251880,
+        "end_ms": 252280
+      },
+      {
+        "file": "26308.mp4",
+        "start_ms": 130000,
+        "end_ms": 130000
+      },
+      {
+        "file": "18432.mp4",
+        "start_ms": 133733,
+        "end_ms": 133733
+      },
+      {
+        "file": "02841.mp4",
+        "start_ms": 635040,
+        "end_ms": 635040
+      },
+      {
+        "file": "03309.mp4",
+        "start_ms": 40423,
+        "end_ms": 40423
+      },
+      {
+        "file": "04358.mp4",
+        "start_ms": 106800,
+        "end_ms": 106800
+      },
+      {
+        "file": "21330.mp4",
+        "start_ms": 613640,
+        "end_ms": 613640
+      }
+    ]
+  },
+  {
+    "name": "vbs25-qa7",
+    "accepted": [
+      "a white plastic bag",
+      "plastic bag",
+      "a white bag",
+      "white plastic bag",
+      "a bag",
+      "plactics bag",
+      "A white bag",
+      "white bag"
+    ],
+    "rejected": [
+      "black bike lock",
+      "nothing",
+      "books",
+      "flowers",
+      "flower"
+    ]
+  },
+  {
+    "name": "vbs25-avs1N",
+    "accepted": [
+      {
+        "file": "16299.mp4",
+        "start_ms": 539480,
+        "end_ms": 539680
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 58760,
+        "end_ms": 61840
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 14240,
+        "end_ms": 17080
+      },
+      {
+        "file": "22073.mp4",
+        "start_ms": 258487,
+        "end_ms": 258487
+      },
+      {
+        "file": "19189.mp4",
+        "start_ms": 96480,
+        "end_ms": 98640
+      },
+      {
+        "file": "23104.mp4",
+        "start_ms": 174600,
+        "end_ms": 174600
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 29400,
+        "end_ms": 29400
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 56880,
+        "end_ms": 58720
+      },
+      {
+        "file": "22073.mp4",
+        "start_ms": 257736,
+        "end_ms": 257736
+      },
+      {
+        "file": "19731.mp4",
+        "start_ms": 333880,
+        "end_ms": 335880
+      },
+      {
+        "file": "22073.mp4",
+        "start_ms": 257247,
+        "end_ms": 259247
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 51040,
+        "end_ms": 52600
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 17120,
+        "end_ms": 18840
+      },
+      {
+        "file": "25824.mp4",
+        "start_ms": 214920,
+        "end_ms": 214920
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 30200,
+        "end_ms": 31920
+      },
+      {
+        "file": "18518.mp4",
+        "start_ms": 14200,
+        "end_ms": 14200
+      },
+      {
+        "file": "19189.mp4",
+        "start_ms": 96300,
+        "end_ms": 96300
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 29080,
+        "end_ms": 30160
+      },
+      {
+        "file": "05822.mp4",
+        "start_ms": 493800,
+        "end_ms": 493800
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 208800,
+        "end_ms": 209920
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 196320,
+        "end_ms": 198760
+      },
+      {
+        "file": "17435.mp4",
+        "start_ms": 181600,
+        "end_ms": 181600
+      },
+      {
+        "file": "19189.mp4",
+        "start_ms": 96400,
+        "end_ms": 96400
+      },
+      {
+        "file": "06638.mp4",
+        "start_ms": 311686,
+        "end_ms": 312186
+      },
+      {
+        "file": "13474.mp4",
+        "start_ms": 12840,
+        "end_ms": 12960
+      },
+      {
+        "file": "15694.mp4",
+        "start_ms": 165600,
+        "end_ms": 165600
+      },
+      {
+        "file": "13579.mp4",
+        "start_ms": 288000,
+        "end_ms": 288000
+      },
+      {
+        "file": "19189.mp4",
+        "start_ms": 98680,
+        "end_ms": 98760
+      },
+      {
+        "file": "22396.mp4",
+        "start_ms": 130760,
+        "end_ms": 140960
+      },
+      {
+        "file": "02448.mp4",
+        "start_ms": 179846,
+        "end_ms": 180280
+      },
+      {
+        "file": "25235.mp4",
+        "start_ms": 137237,
+        "end_ms": 161494
+      },
+      {
+        "file": "13474.mp4",
+        "start_ms": 176480,
+        "end_ms": 178200
+      },
+      {
+        "file": "02448.mp4",
+        "start_ms": 183183,
+        "end_ms": 183183
+      },
+      {
+        "file": "13474.mp4",
+        "start_ms": 44360,
+        "end_ms": 44440
+      },
+      {
+        "file": "13474.mp4",
+        "start_ms": 14960,
+        "end_ms": 16440
+      },
+      {
+        "file": "13474.mp4",
+        "start_ms": 230600,
+        "end_ms": 232720
+      },
+      {
+        "file": "25824.mp4",
+        "start_ms": 222400,
+        "end_ms": 222400
+      },
+      {
+        "file": "13474.mp4",
+        "start_ms": 188200,
+        "end_ms": 189120
+      },
+      {
+        "file": "13474.mp4",
+        "start_ms": 32320,
+        "end_ms": 35040
+      },
+      {
+        "file": "02448.mp4",
+        "start_ms": 155722,
+        "end_ms": 156456
+      },
+      {
+        "file": "02448.mp4",
+        "start_ms": 191891,
+        "end_ms": 192458
+      },
+      {
+        "file": "13474.mp4",
+        "start_ms": 193600,
+        "end_ms": 194920
+      },
+      {
+        "file": "02448.mp4",
+        "start_ms": 189556,
+        "end_ms": 190023
+      },
+      {
+        "file": "02448.mp4",
+        "start_ms": 190657,
+        "end_ms": 191191
+      },
+      {
+        "file": "13474.mp4",
+        "start_ms": 172720,
+        "end_ms": 173720
+      },
+      {
+        "file": "17435.mp4",
+        "start_ms": 233200,
+        "end_ms": 233200
+      },
+      {
+        "file": "13474.mp4",
+        "start_ms": 173960,
+        "end_ms": 175200
+      },
+      {
+        "file": "20413.mp4",
+        "start_ms": 2061400,
+        "end_ms": 2061400
+      },
+      {
+        "file": "02448.mp4",
+        "start_ms": 152152,
+        "end_ms": 152452
+      },
+      {
+        "file": "00548.mp4",
+        "start_ms": 88520,
+        "end_ms": 92920
+      },
+      {
+        "file": "02448.mp4",
+        "start_ms": 151784,
+        "end_ms": 152118
+      },
+      {
+        "file": "26344.mp4",
+        "start_ms": 1209332,
+        "end_ms": 1209332
+      },
+      {
+        "file": "00548.mp4",
+        "start_ms": 113200,
+        "end_ms": 117280
+      },
+      {
+        "file": "00548.mp4",
+        "start_ms": 20120,
+        "end_ms": 23520
+      },
+      {
+        "file": "27152.mp4",
+        "start_ms": 452320,
+        "end_ms": 454320
+      },
+      {
+        "file": "25235.mp4",
+        "start_ms": 48515,
+        "end_ms": 51751
+      },
+      {
+        "file": "25235.mp4",
+        "start_ms": 51785,
+        "end_ms": 63129
+      },
+      {
+        "file": "00548.mp4",
+        "start_ms": 165800,
+        "end_ms": 168280
+      },
+      {
+        "file": "02448.mp4",
+        "start_ms": 66,
+        "end_ms": 20220
+      },
+      {
+        "file": "25235.mp4",
+        "start_ms": 87287,
+        "end_ms": 111544
+      },
+      {
+        "file": "25235.mp4",
+        "start_ms": 111578,
+        "end_ms": 112846
+      },
+      {
+        "file": "19354.mp4",
+        "start_ms": 307800,
+        "end_ms": 307800
+      },
+      {
+        "file": "25235.mp4",
+        "start_ms": 194427,
+        "end_ms": 194761
+      },
+      {
+        "file": "25992.mp4",
+        "start_ms": 797400,
+        "end_ms": 797400
+      },
+      {
+        "file": "19807.mp4",
+        "start_ms": 154080,
+        "end_ms": 154480
+      },
+      {
+        "file": "25235.mp4",
+        "start_ms": 224090,
+        "end_ms": 232498
+      },
+      {
+        "file": "25235.mp4",
+        "start_ms": 232532,
+        "end_ms": 238137
+      },
+      {
+        "file": "17554.mp4",
+        "start_ms": 402480,
+        "end_ms": 402480
+      },
+      {
+        "file": "01484.mp4",
+        "start_ms": 123600,
+        "end_ms": 123600
+      },
+      {
+        "file": "10687.mp4",
+        "start_ms": 133800,
+        "end_ms": 133800
+      },
+      {
+        "file": "19778.mp4",
+        "start_ms": 193720,
+        "end_ms": 194880
+      },
+      {
+        "file": "23104.mp4",
+        "start_ms": 146400,
+        "end_ms": 146400
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 15660,
+        "end_ms": 15660
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 209360,
+        "end_ms": 209360
+      },
+      {
+        "file": "21458.mp4",
+        "start_ms": 40,
+        "end_ms": 25960
+      },
+      {
+        "file": "21458.mp4",
+        "start_ms": 26000,
+        "end_ms": 44760
+      },
+      {
+        "file": "21458.mp4",
+        "start_ms": 44800,
+        "end_ms": 73120
+      },
+      {
+        "file": "21458.mp4",
+        "start_ms": 73160,
+        "end_ms": 73240
+      },
+      {
+        "file": "21458.mp4",
+        "start_ms": 73280,
+        "end_ms": 74240
+      },
+      {
+        "file": "21458.mp4",
+        "start_ms": 74280,
+        "end_ms": 103520
+      },
+      {
+        "file": "21458.mp4",
+        "start_ms": 103560,
+        "end_ms": 133080
+      },
+      {
+        "file": "21458.mp4",
+        "start_ms": 133120,
+        "end_ms": 138920
+      },
+      {
+        "file": "21458.mp4",
+        "start_ms": 156200,
+        "end_ms": 173240
+      },
+      {
+        "file": "21458.mp4",
+        "start_ms": 173280,
+        "end_ms": 202400
+      },
+      {
+        "file": "21458.mp4",
+        "start_ms": 202440,
+        "end_ms": 231560
+      },
+      {
+        "file": "21458.mp4",
+        "start_ms": 231600,
+        "end_ms": 260720
+      },
+      {
+        "file": "21458.mp4",
+        "start_ms": 260760,
+        "end_ms": 273000
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 131800,
+        "end_ms": 133720
+      }
+    ],
+    "rejected": [
+      {
+        "file": "27922.mp4",
+        "start_ms": 40000,
+        "end_ms": 40280
+      },
+      {
+        "file": "19237.mp4",
+        "start_ms": 80,
+        "end_ms": 24760
+      },
+      {
+        "file": "19237.mp4",
+        "start_ms": 251240,
+        "end_ms": 251840
+      },
+      {
+        "file": "22569.mp4",
+        "start_ms": 160166,
+        "end_ms": 160458
+      },
+      {
+        "file": "15448.mp4",
+        "start_ms": 183625,
+        "end_ms": 184416
+      },
+      {
+        "file": "20151.mp4",
+        "start_ms": 171666,
+        "end_ms": 171666
+      },
+      {
+        "file": "24602.mp4",
+        "start_ms": 138179,
+        "end_ms": 140473
+      },
+      {
+        "file": "26706.mp4",
+        "start_ms": 142308,
+        "end_ms": 142308
+      },
+      {
+        "file": "23647.mp4",
+        "start_ms": 57340,
+        "end_ms": 57340
+      },
+      {
+        "file": "04249.mp4",
+        "start_ms": 24816,
+        "end_ms": 24816
+      },
+      {
+        "file": "22073.mp4",
+        "start_ms": 85000,
+        "end_ms": 85000
+      },
+      {
+        "file": "02448.mp4",
+        "start_ms": 165832,
+        "end_ms": 165832
+      },
+      {
+        "file": "00337.mp4",
+        "start_ms": 713000,
+        "end_ms": 713000
+      },
+      {
+        "file": "18033.mp4",
+        "start_ms": 190895,
+        "end_ms": 190895
+      },
+      {
+        "file": "12631.mp4",
+        "start_ms": 29562,
+        "end_ms": 29562
+      },
+      {
+        "file": "26706.mp4",
+        "start_ms": 148398,
+        "end_ms": 148398
+      },
+      {
+        "file": "26706.mp4",
+        "start_ms": 153882,
+        "end_ms": 153882
+      },
+      {
+        "file": "00337.mp4",
+        "start_ms": 798440,
+        "end_ms": 798440
+      },
+      {
+        "file": "17281.mp4",
+        "start_ms": 116632,
+        "end_ms": 116632
+      },
+      {
+        "file": "22073.mp4",
+        "start_ms": 87000,
+        "end_ms": 87000
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 41760,
+        "end_ms": 43400
+      },
+      {
+        "file": "19731.mp4",
+        "start_ms": 335200,
+        "end_ms": 337200
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 204480,
+        "end_ms": 207120
+      },
+      {
+        "file": "25040.mp4",
+        "start_ms": 424640,
+        "end_ms": 432040
+      },
+      {
+        "file": "25040.mp4",
+        "start_ms": 432080,
+        "end_ms": 440880
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 102600,
+        "end_ms": 103520
+      },
+      {
+        "file": "26706.mp4",
+        "start_ms": 194194,
+        "end_ms": 194194
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 219680,
+        "end_ms": 220120
+      },
+      {
+        "file": "06808.mp4",
+        "start_ms": 96200,
+        "end_ms": 96200
+      },
+      {
+        "file": "00337.mp4",
+        "start_ms": 727260,
+        "end_ms": 727260
+      },
+      {
+        "file": "00337.mp4",
+        "start_ms": 713900,
+        "end_ms": 713900
+      },
+      {
+        "file": "02448.mp4",
+        "start_ms": 165565,
+        "end_ms": 166099
+      },
+      {
+        "file": "00337.mp4",
+        "start_ms": 718680,
+        "end_ms": 718680
+      },
+      {
+        "file": "18518.mp4",
+        "start_ms": 34860,
+        "end_ms": 34860
+      },
+      {
+        "file": "06267.mp4",
+        "start_ms": 462800,
+        "end_ms": 462800
+      },
+      {
+        "file": "26348.mp4",
+        "start_ms": 189340,
+        "end_ms": 189340
+      },
+      {
+        "file": "22073.mp4",
+        "start_ms": 87170,
+        "end_ms": 87170
+      },
+      {
+        "file": "21211.mp4",
+        "start_ms": 1214314,
+        "end_ms": 1222122
+      },
+      {
+        "file": "26828.mp4",
+        "start_ms": 50258,
+        "end_ms": 52010
+      },
+      {
+        "file": "22396.mp4",
+        "start_ms": 243400,
+        "end_ms": 272800
+      },
+      {
+        "file": "01090.mp4",
+        "start_ms": 1896200,
+        "end_ms": 1896200
+      },
+      {
+        "file": "25040.mp4",
+        "start_ms": 484400,
+        "end_ms": 492640
+      },
+      {
+        "file": "17520.mp4",
+        "start_ms": 162280,
+        "end_ms": 191280
+      },
+      {
+        "file": "25614.mp4",
+        "start_ms": 295866,
+        "end_ms": 320000
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 79520,
+        "end_ms": 79520
+      },
+      {
+        "file": "10732.mp4",
+        "start_ms": 143000,
+        "end_ms": 143000
+      },
+      {
+        "file": "00548.mp4",
+        "start_ms": 77960,
+        "end_ms": 80600
+      },
+      {
+        "file": "26653.mp4",
+        "start_ms": 462760,
+        "end_ms": 462760
+      },
+      {
+        "file": "07773.mp4",
+        "start_ms": 97221,
+        "end_ms": 97221
+      },
+      {
+        "file": "00548.mp4",
+        "start_ms": 176520,
+        "end_ms": 178240
+      },
+      {
+        "file": "00548.mp4",
+        "start_ms": 29760,
+        "end_ms": 33040
+      },
+      {
+        "file": "25235.mp4",
+        "start_ms": 28862,
+        "end_ms": 48481
+      },
+      {
+        "file": "07845.mp4",
+        "start_ms": 58200,
+        "end_ms": 58200
+      },
+      {
+        "file": "25235.mp4",
+        "start_ms": 63163,
+        "end_ms": 87253
+      },
+      {
+        "file": "24945.mp4",
+        "start_ms": 85800,
+        "end_ms": 85800
+      },
+      {
+        "file": "25235.mp4",
+        "start_ms": 112879,
+        "end_ms": 137203
+      },
+      {
+        "file": "25235.mp4",
+        "start_ms": 175041,
+        "end_ms": 194394
+      },
+      {
+        "file": "25235.mp4",
+        "start_ms": 194794,
+        "end_ms": 202001
+      },
+      {
+        "file": "01308.mp4",
+        "start_ms": 698100,
+        "end_ms": 698100
+      },
+      {
+        "file": "25235.mp4",
+        "start_ms": 216816,
+        "end_ms": 224057
+      },
+      {
+        "file": "25992.mp4",
+        "start_ms": 791400,
+        "end_ms": 792600
+      },
+      {
+        "file": "19731.mp4",
+        "start_ms": 97946,
+        "end_ms": 97946
+      },
+      {
+        "file": "13078.mp4",
+        "start_ms": 1327333,
+        "end_ms": 1327333
+      },
+      {
+        "file": "24803.mp4",
+        "start_ms": 128600,
+        "end_ms": 128600
+      },
+      {
+        "file": "21278.mp4",
+        "start_ms": 96763,
+        "end_ms": 100141
+      },
+      {
+        "file": "25824.mp4",
+        "start_ms": 243000,
+        "end_ms": 243000
+      },
+      {
+        "file": "22683.mp4",
+        "start_ms": 269800,
+        "end_ms": 269800
+      },
+      {
+        "file": "06476.mp4",
+        "start_ms": 174140,
+        "end_ms": 174340
+      },
+      {
+        "file": "06638.mp4",
+        "start_ms": 292285,
+        "end_ms": 292285
+      },
+      {
+        "file": "19778.mp4",
+        "start_ms": 163680,
+        "end_ms": 164960
+      },
+      {
+        "file": "27152.mp4",
+        "start_ms": 453000,
+        "end_ms": 453000
+      },
+      {
+        "file": "10614.mp4",
+        "start_ms": 166603,
+        "end_ms": 166603
+      },
+      {
+        "file": "24908.mp4",
+        "start_ms": 170500,
+        "end_ms": 170500
+      },
+      {
+        "file": "06267.mp4",
+        "start_ms": 317800,
+        "end_ms": 317800
+      },
+      {
+        "file": "06808.mp4",
+        "start_ms": 1637120,
+        "end_ms": 1637120
+      },
+      {
+        "file": "10258.mp4",
+        "start_ms": 453360,
+        "end_ms": 453360
+      },
+      {
+        "file": "10258.mp4",
+        "start_ms": 165780,
+        "end_ms": 165780
+      },
+      {
+        "file": "10258.mp4",
+        "start_ms": 179640,
+        "end_ms": 179640
+      },
+      {
+        "file": "10258.mp4",
+        "start_ms": 464580,
+        "end_ms": 464580
+      },
+      {
+        "file": "10258.mp4",
+        "start_ms": 47180,
+        "end_ms": 47180
+      },
+      {
+        "file": "04330.mp4",
+        "start_ms": 129639,
+        "end_ms": 129639
+      }
+    ]
+  },
+  {
+    "name": "vbs25-avs5N",
+    "accepted": [
+      {
+        "file": "09200.mp4",
+        "start_ms": 42160,
+        "end_ms": 45160
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 31640,
+        "end_ms": 35120
+      },
+      {
+        "file": "24520.mp4",
+        "start_ms": 369766,
+        "end_ms": 369766
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 48600,
+        "end_ms": 52120
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 169764,
+        "end_ms": 171764
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 33380,
+        "end_ms": 33380
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 168840,
+        "end_ms": 172240
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 195360,
+        "end_ms": 195360
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 51052,
+        "end_ms": 51052
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 195560,
+        "end_ms": 195560
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 35160,
+        "end_ms": 38640
+      },
+      {
+        "file": "05863.mp4",
+        "start_ms": 16340,
+        "end_ms": 16340
+      },
+      {
+        "file": "05863.mp4",
+        "start_ms": 14600,
+        "end_ms": 18080
+      },
+      {
+        "file": "20823.mp4",
+        "start_ms": 187853,
+        "end_ms": 187853
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 50160,
+        "end_ms": 50160
+      },
+      {
+        "file": "14760.mp4",
+        "start_ms": 638460,
+        "end_ms": 638460
+      },
+      {
+        "file": "05863.mp4",
+        "start_ms": 30560,
+        "end_ms": 33520
+      },
+      {
+        "file": "05863.mp4",
+        "start_ms": 26280,
+        "end_ms": 30520
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 27000,
+        "end_ms": 27000
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 194000,
+        "end_ms": 196720
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 43600,
+        "end_ms": 43600
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 21600,
+        "end_ms": 25160
+      },
+      {
+        "file": "06341.mp4",
+        "start_ms": 198794,
+        "end_ms": 198794
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 55433,
+        "end_ms": 55433
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 194000,
+        "end_ms": 194000
+      },
+      {
+        "file": "00778.mp4",
+        "start_ms": 27210,
+        "end_ms": 27210
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 195360,
+        "end_ms": 195360
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 50400,
+        "end_ms": 50400
+      },
+      {
+        "file": "18363.mp4",
+        "start_ms": 23556,
+        "end_ms": 23556
+      },
+      {
+        "file": "20785.mp4",
+        "start_ms": 60259,
+        "end_ms": 60259
+      },
+      {
+        "file": "15320.mp4",
+        "start_ms": 75241,
+        "end_ms": 82624
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 171000,
+        "end_ms": 171000
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 193123,
+        "end_ms": 193123
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 54760,
+        "end_ms": 58520
+      },
+      {
+        "file": "18363.mp4",
+        "start_ms": 24457,
+        "end_ms": 24891
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 189400,
+        "end_ms": 192800
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 28240,
+        "end_ms": 31600
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 195400,
+        "end_ms": 195400
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 56600,
+        "end_ms": 56600
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 33337,
+        "end_ms": 33337
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 169440,
+        "end_ms": 169440
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 192840,
+        "end_ms": 204440
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 196600,
+        "end_ms": 196600
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 40400,
+        "end_ms": 40400
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 25200,
+        "end_ms": 28800
+      },
+      {
+        "file": "19486.mp4",
+        "start_ms": 343661,
+        "end_ms": 343661
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 56640,
+        "end_ms": 56640
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 170800,
+        "end_ms": 170800
+      },
+      {
+        "file": "19486.mp4",
+        "start_ms": 346955,
+        "end_ms": 346955
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 191100,
+        "end_ms": 191100
+      },
+      {
+        "file": "00778.mp4",
+        "start_ms": 25492,
+        "end_ms": 25492
+      },
+      {
+        "file": "18363.mp4",
+        "start_ms": 26993,
+        "end_ms": 38004
+      },
+      {
+        "file": "05863.mp4",
+        "start_ms": 37680,
+        "end_ms": 40640
+      },
+      {
+        "file": "13667.mp4",
+        "start_ms": 47233,
+        "end_ms": 47233
+      },
+      {
+        "file": "18363.mp4",
+        "start_ms": 23800,
+        "end_ms": 23800
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 170540,
+        "end_ms": 170540
+      },
+      {
+        "file": "19486.mp4",
+        "start_ms": 342967,
+        "end_ms": 351100
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 43660,
+        "end_ms": 43660
+      },
+      {
+        "file": "24520.mp4",
+        "start_ms": 380358,
+        "end_ms": 380358
+      },
+      {
+        "file": "18363.mp4",
+        "start_ms": 22800,
+        "end_ms": 22800
+      },
+      {
+        "file": "14858.mp4",
+        "start_ms": 100333,
+        "end_ms": 100333
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 195669,
+        "end_ms": 195669
+      },
+      {
+        "file": "00778.mp4",
+        "start_ms": 24891,
+        "end_ms": 29529
+      },
+      {
+        "file": "10174.mp4",
+        "start_ms": 172639,
+        "end_ms": 172639
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 50360,
+        "end_ms": 50360
+      },
+      {
+        "file": "25293.mp4",
+        "start_ms": 120900,
+        "end_ms": 121120
+      },
+      {
+        "file": "24520.mp4",
+        "start_ms": 354645,
+        "end_ms": 358733
+      },
+      {
+        "file": "05863.mp4",
+        "start_ms": 26280,
+        "end_ms": 26280
+      },
+      {
+        "file": "19486.mp4",
+        "start_ms": 347033,
+        "end_ms": 347033
+      }
+    ],
+    "rejected": [
+      {
+        "file": "06785.mp4",
+        "start_ms": 50360,
+        "end_ms": 50360
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 188800,
+        "end_ms": 191440
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 161640,
+        "end_ms": 163600
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 198960,
+        "end_ms": 200800
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 219240,
+        "end_ms": 221080
+      },
+      {
+        "file": "09787.mp4",
+        "start_ms": 47320,
+        "end_ms": 48760
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 110080,
+        "end_ms": 113840
+      },
+      {
+        "file": "05863.mp4",
+        "start_ms": 195360,
+        "end_ms": 195360
+      },
+      {
+        "file": "23511.mp4",
+        "start_ms": 152840,
+        "end_ms": 152840
+      },
+      {
+        "file": "20067.mp4",
+        "start_ms": 127127,
+        "end_ms": 135176
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 170600,
+        "end_ms": 170600
+      },
+      {
+        "file": "05106.mp4",
+        "start_ms": 25625,
+        "end_ms": 25625
+      },
+      {
+        "file": "20067.mp4",
+        "start_ms": 92404,
+        "end_ms": 92404
+      },
+      {
+        "file": "18363.mp4",
+        "start_ms": 22022,
+        "end_ms": 24424
+      },
+      {
+        "file": "06341.mp4",
+        "start_ms": 195360,
+        "end_ms": 195360
+      },
+      {
+        "file": "21558.mp4",
+        "start_ms": 151720,
+        "end_ms": 152680
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 202560,
+        "end_ms": 204360
+      },
+      {
+        "file": "23852.mp4",
+        "start_ms": 421289,
+        "end_ms": 421289
+      },
+      {
+        "file": "09787.mp4",
+        "start_ms": 164340,
+        "end_ms": 164340
+      },
+      {
+        "file": "24520.mp4",
+        "start_ms": 195360,
+        "end_ms": 195360
+      },
+      {
+        "file": "11475.mp4",
+        "start_ms": 148187,
+        "end_ms": 148187
+      },
+      {
+        "file": "14760.mp4",
+        "start_ms": 638440,
+        "end_ms": 638440
+      },
+      {
+        "file": "14760.mp4",
+        "start_ms": 636120,
+        "end_ms": 640800
+      },
+      {
+        "file": "14810.mp4",
+        "start_ms": 7673,
+        "end_ms": 7673
+      },
+      {
+        "file": "09787.mp4",
+        "start_ms": 50360,
+        "end_ms": 50360
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 119628,
+        "end_ms": 119628
+      },
+      {
+        "file": "20823.mp4",
+        "start_ms": 50360,
+        "end_ms": 50360
+      },
+      {
+        "file": "18363.mp4",
+        "start_ms": 24000,
+        "end_ms": 24000
+      },
+      {
+        "file": "25855.mp4",
+        "start_ms": 4537,
+        "end_ms": 4938
+      },
+      {
+        "file": "11475.mp4",
+        "start_ms": 146708,
+        "end_ms": 149666
+      },
+      {
+        "file": "24520.mp4",
+        "start_ms": 354395,
+        "end_ms": 354604
+      },
+      {
+        "file": "10174.mp4",
+        "start_ms": 50360,
+        "end_ms": 50360
+      },
+      {
+        "file": "06785.mp4",
+        "start_ms": 41740,
+        "end_ms": 41740
+      },
+      {
+        "file": "06719.mp4",
+        "start_ms": 67240,
+        "end_ms": 71920
+      },
+      {
+        "file": "10978.mp4",
+        "start_ms": 242075,
+        "end_ms": 242275
+      },
+      {
+        "file": "20067.mp4",
+        "start_ms": 153695,
+        "end_ms": 160118
+      },
+      {
+        "file": "09200.mp4",
+        "start_ms": 198640,
+        "end_ms": 198640
+      },
+      {
+        "file": "23416.mp4",
+        "start_ms": 76160,
+        "end_ms": 76160
+      }
+    ]
+  }
+]

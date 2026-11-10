@@ -1,0 +1,16 @@
+{
+  "annotator": "A4",
+  "video_id": "video_42",
+  "started_at": "2026-08-18T11:55:03.414Z",
+  "submitted_at": "2026-08-18T11:58:03.460Z",
+  "elapsed_seconds": 180.047,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The video shows a youger guy poitning a Camera up at themselves in front of a boarded wall of a family dining. he appears to be speaking and constantly scratching their right eye. the have brown locks and a red shirt. the surrounding area is pitch black and the light only comes from the overhead sign.  The video quality is quite fuzzy and appears old, like from the 90s with a camcorder."
+  },
+  "tool_version": 1
+}

@@ -1,0 +1,6 @@
+{
+  "task_type": "avs",
+  "dataset": "all",
+  "max_iterations": 100,
+  "hide_avs_submission_ratings_from_planner": true
+}

@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_03",
+  "started_at": "2026-08-18T11:39:23.335Z",
+  "submitted_at": "2026-08-18T11:42:23.406Z",
+  "elapsed_seconds": 180.071,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "the view shows some part of the human body. bottom left is black, while the top right shows tissue with little red lines that carry blood (veins or arteires) are visible.  \nthe shot then pans slightly th te left, revewaling a deeper view into the organs. something is carefully poking inside it"
+  },
+  "tool_version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_02",
+  "started_at": "2026-08-18T11:04:41.905Z",
+  "submitted_at": "2026-08-18T11:07:41.985Z",
+  "elapsed_seconds": 180.08,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "the video shows a skater on a skateboard in an indoor skatepark, waering a green t shirt, jeans, vans and a basecap.\nThw video follows the skater as he goes from one end of the hall to the other and performs a couple of tricks on skate ramps. The camera is a bit jittery.\nThw walls of the skatepark are covered in graffitis"
+  },
+  "tool_version": 1
+}

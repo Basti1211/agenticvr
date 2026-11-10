@@ -1,0 +1,16 @@
+{
+  "annotator": "A6",
+  "video_id": "video_35",
+  "started_at": "2026-08-19T12:04:22.449Z",
+  "submitted_at": "2026-08-19T12:07:23.185Z",
+  "elapsed_seconds": 180.736,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Greyscale video. Some artsy studio. Big drawing on the wall. Rail of lamps hanging from the ceiling. Big ladder to the right. One person climbs the ladder and adjusts it. video is in timelapse style. multiple people doing random things throughout the video. table gets moved and disappears eventually."
+  },
+  "tool_version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_11",
+  "started_at": "2026-08-18T11:10:46.113Z",
+  "submitted_at": "2026-08-18T11:13:46.188Z",
+  "elapsed_seconds": 180.075,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "the video shows a city in winder, where a small downhill slope full of snow was erected with hay to the side of it.\n3 lanes are constructed, whiere the video is focused on the rightmost lane.\nA girl with a red sleigh can be seen, as she is pushed by a man in a white t shirt, causing her to go downhill.\nA man in beige pants and a blue jacket holding a shovel is blocking the view.\nin the background, red and green flags are waving in the wind"
+  },
+  "tool_version": 1
+}

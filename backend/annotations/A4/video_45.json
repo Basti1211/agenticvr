@@ -1,0 +1,16 @@
+{
+  "annotator": "A4",
+  "video_id": "video_45",
+  "started_at": "2026-08-18T12:52:48.934Z",
+  "submitted_at": "2026-08-18T12:55:49.121Z",
+  "elapsed_seconds": 180.186,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Video of a bycicle shop being one long hallway. at the end showing a man opening the door with both arms stretched out. to the left and right onthe walls and ceiling there are multiple bicycles in various colors. one racing variant is very close to the camera witha  white paint finsish and smaller tires. it appears very cramed but teh tools on the side are properly ordered."
+  },
+  "tool_version": 1
+}

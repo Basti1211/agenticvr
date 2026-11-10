@@ -1,0 +1,16 @@
+{
+  "annotator": "A6",
+  "video_id": "video_24",
+  "started_at": "2026-08-19T11:25:37.969Z",
+  "submitted_at": "2026-08-19T11:28:38.167Z",
+  "elapsed_seconds": 180.197,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Boxing fight. Filmed through the meshed fence of the ocatgon. \"Northwest Fighting .com\" watermark in the bottom right with some white-red elements surrounding the text. Audience visible in the background. The contestants are throwing hard punched at each other. One contestant is wearing a black pear of shorts and has a mushroom type haircut, throws"
+  },
+  "tool_version": 1
+}

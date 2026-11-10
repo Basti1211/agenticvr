@@ -1,0 +1,16 @@
+{
+  "annotator": "A4",
+  "video_id": "video_05",
+  "started_at": "2026-08-18T11:44:11.873Z",
+  "submitted_at": "2026-08-18T11:47:12.053Z",
+  "elapsed_seconds": 180.18,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The video shows some internal tissue of a human or animal. its yellow-ish with arteries going top to bottom. \nThe camera is stable, and the only movement is some quick contraction to the top left of whatever organ this is.\n\nBottom right is more pale in color and doesn't move as much.\nThere is text on the bottom right corner."
+  },
+  "tool_version": 1
+}

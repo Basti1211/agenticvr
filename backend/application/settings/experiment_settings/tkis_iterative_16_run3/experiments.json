@@ -1,0 +1,6 @@
+{
+  "task_type": "t-kis",
+  "dataset": "all",
+  "hint_index": "iterative",
+  "max_iterations": 1000
+}

@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_32",
+  "started_at": "2026-08-18T11:01:38.830Z",
+  "submitted_at": "2026-08-18T11:04:38.841Z",
+  "elapsed_seconds": 180.011,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The underwater video shows a small shark in the center of the frame that is photographed from a diver frrom behind.\nThere is another shark to the right but not in full view.\nCorals can be seen in the bottom left corner.\nthe shark slightly snaps and moves forward, followed by a camera pan to keep the shark in the center of the frame."
+  },
+  "tool_version": 1
+}

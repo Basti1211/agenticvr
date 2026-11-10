@@ -1,0 +1,9 @@
+{
+  "split_video_after_seconds": 10.0,
+  "minimum_segment_length_seconds": 1.0,
+  "resolution_width": 682,
+  "resolution_height": 384,
+  "max_tokens": 1000,
+  "include_video_frames": false,
+  "video_frame_count": 5
+}

@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_45",
+  "started_at": "2026-08-18T11:21:34.791Z",
+  "submitted_at": "2026-08-18T11:24:34.855Z",
+  "elapsed_seconds": 180.065,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "A scene in a bicycle shop where a man with black clothes in the background opens the door. The shop is a long alley with bikes on both sides of the floor. The closest bike is on the right and is white. There is also a lot of bike equipment hanging on the walls. On the left side hangs also a fire extinguisher."
+  },
+  "tool_version": 1
+}

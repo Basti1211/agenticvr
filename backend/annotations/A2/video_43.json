@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_43",
+  "started_at": "2026-08-18T11:15:16.485Z",
+  "submitted_at": "2026-08-18T11:18:16.516Z",
+  "elapsed_seconds": 180.031,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "scene at a large street carnival. there are stands constructed to both sides of the street, with many people wathing a parade from the stands. the main color is yellow, and many people who are participating in the parade are dressedd in yellow, red, and green, some of them having their faces painted white. The parade moves with groups of 4 arranged man, woman, woman, man.\nThe first shot shows the people in the stands, while a second shot is close up at the street filming the actual parade."
+  },
+  "tool_version": 1
+}

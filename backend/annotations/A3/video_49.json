@@ -1,0 +1,16 @@
+{
+  "annotator": "A3",
+  "video_id": "video_49",
+  "started_at": "2026-08-18T11:43:09.943Z",
+  "submitted_at": "2026-08-18T11:46:10.001Z",
+  "elapsed_seconds": 180.058,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "A woman is sitting down at a chair at a desk with a red lamp on top of it. The women looks like from the earlier years maybe in her mid 30s and wears a white dress. and has short brown hair The camera perspective then switches and the woman directly looks into the camera (she is on the left side of the screen now). The overall scne is quite dark and the only light comes from the red lamp on the desk. She looks boring until something caught here attention where see looks into the camera."
+  },
+  "tool_version": 1
+}

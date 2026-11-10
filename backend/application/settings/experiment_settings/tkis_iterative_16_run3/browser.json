@@ -1,0 +1,10 @@
+{
+  "max_tokens": 500,
+  "clip_frame_rate": 5,
+  "clip_resolution_width": 682,
+  "clip_resolution_height": 384,
+  "clip_timeout_seconds": 60,
+  "clip_retry_count": 1,
+  "image_download_concurrency": 8,
+  "video_materialization_concurrency": 3
+}

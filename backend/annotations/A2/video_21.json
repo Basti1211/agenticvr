@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_21",
+  "started_at": "2026-08-18T11:25:46.620Z",
+  "submitted_at": "2026-08-18T11:28:46.720Z",
+  "elapsed_seconds": 180.101,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "on the bottom of the sea, a living organism is moving while the camera is following it. it does not appear to have feet, but rather little flaps that facilitate the moving. the shape of the organism is mostly oval, with a larger flap hanging down from one side,\nMost of the organism is brownish, with a white patch and some detailed patterns on the mentioned flap"
+  },
+  "tool_version": 1
+}

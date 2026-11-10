@@ -1,0 +1,16 @@
+{
+  "annotator": "A6",
+  "video_id": "video_09",
+  "started_at": "2026-08-19T12:13:44.953Z",
+  "submitted_at": "2026-08-19T12:16:45.134Z",
+  "elapsed_seconds": 180.182,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Greyscale with sepia tint. Look like old movie with vertical black bars moving rapidly throughout the image. Brock pillar in the middle. People look like military personnel holding stuff and bantering. There is a Christmas tree on a table to the right. One frame shows some illegible old German text."
+  },
+  "tool_version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_34",
+  "started_at": "2026-08-18T11:18:19.936Z",
+  "submitted_at": "2026-08-18T11:21:20.007Z",
+  "elapsed_seconds": 180.07,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "shots from what appear to be a business get together.\nIn the frist scene, 2 people get food from a series of heated metal containers.\nthen a white and black man with badges can be seen smiling with phones in their hand.\nNew we see a close up shot of a tree and leaves.\nThe last shot shows a stage with 2 persons on it, while a large crowd is wathcing them.\nMany things feel unnatural about the video, especially the smiling of the white and black man."
+  },
+  "tool_version": 1
+}

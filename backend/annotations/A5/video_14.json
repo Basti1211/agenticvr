@@ -1,0 +1,16 @@
+{
+  "annotator": "A5",
+  "video_id": "video_14",
+  "started_at": "2026-08-18T19:16:53.296Z",
+  "submitted_at": "2026-08-18T19:19:53.412Z",
+  "elapsed_seconds": 180.121,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Eine Szene innerhalb eines Körpers. hellrosa Gewebe zeigt sich im Hintergrund, wobei gelbliche Fettpolster an der Gewebewand im Hintergrund zu sehen sind, die von einer Membran gehalten werden. Von der Mitte nach links ist eine weitere Struktur zu sehen, die von einer Membran umschlossen ist. ein schwarzes längliches Instrument mit einem Haken am Ende ist zu sehen, der von unten nach oben durch die Membran der länglichen Gewebestrukur fährt und diese dabei auftrennt. Etwas Rauch weht durchs Bild. Rechts ist schwarz verbranntes Gewebe zu sehen. Nach dem Schnitt ist das Gewebe leicht gelblich. Unten ist eine Öffnung mit Fettgewebe."
+  },
+  "tool_version": 1
+}

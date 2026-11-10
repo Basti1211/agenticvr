@@ -1,0 +1,16 @@
+{
+  "annotator": "A1",
+  "video_id": "video_43",
+  "started_at": "2026-08-18T12:24:09.635Z",
+  "submitted_at": "2026-08-18T12:27:09.700Z",
+  "elapsed_seconds": 180.064,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The video starts on viewer ranks. Those are half empty with people dressed in normal more short clothes. In the background, there is the a street and more viewer ranks. The second scene is on the street filming some sort of Carnaval parade. There is several rows of four people with two men accompanying two women each. The men were black pants and yellow shirt and a red cap with a stick in their hands. the women were black dresses with red and yellow decoration at the sleeves, bottom of the dress and hair "
+  },
+  "tool_version": 1
+}

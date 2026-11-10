@@ -1,0 +1,16 @@
+{
+  "annotator": "A6",
+  "video_id": "video_05",
+  "started_at": "2026-08-19T11:50:25.671Z",
+  "submitted_at": "2026-08-19T11:53:25.794Z",
+  "elapsed_seconds": 180.123,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Body internals. No surgery. All yellow with some red streaks. Pulsating in a steady rythm. Maybe heartbeat type shit or something. \"📉NOVADAO\" watermark in the bottom right. A Lightbulb 💡pictogram in the top right of the image."
+  },
+  "tool_version": 1
+}

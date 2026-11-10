@@ -1,0 +1,8 @@
+{
+  "max_tokens": 1000,
+  "fps": 5,
+  "resolution_width": 682,
+  "resolution_height": 384,
+  "vqa_max_scenes": 5,
+  "max_vqa_attemps": 3
+}

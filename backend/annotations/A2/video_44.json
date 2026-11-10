@@ -1,0 +1,16 @@
+{
+  "annotator": "A2",
+  "video_id": "video_44",
+  "started_at": "2026-08-18T11:07:43.694Z",
+  "submitted_at": "2026-08-18T11:10:43.766Z",
+  "elapsed_seconds": 180.072,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "the vides shows different scenes of stand up paddeling.\nin the first scene, 2 surfers, one wearing a red swimsuit, whil the other wears a white shirt and black swimwear, are on their boards and are navigating with a padel.\nthe water hits the camerat and only the surfer with the red swimsuit sis visible.\nnext a woman wearing a cyan bikini is shown on a surfboard and paddeling.\nlastly, the next scene shows the surfer with the red swimwear holding the surfboard outside of the water at the beach.\nweather is sunny."
+  },
+  "tool_version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "annotator": "A4",
+  "video_id": "video_48",
+  "started_at": "2026-08-18T12:37:36.750Z",
+  "submitted_at": "2026-08-18T12:40:36.800Z",
+  "elapsed_seconds": 180.049,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Video shows the ocean coastline with some larger citry and a suspension bridge in the background. next shot focusses in on a two story boat cruising along. last shot shows the view from onboard the ship out to one of the sides. "
+  },
+  "tool_version": 1
+}

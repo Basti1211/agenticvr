@@ -1,0 +1,16 @@
+{
+  "annotator": "A1",
+  "video_id": "video_31",
+  "started_at": "2026-08-18T13:00:15.305Z",
+  "submitted_at": "2026-08-18T13:03:15.393Z",
+  "elapsed_seconds": 180.09,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "The scene is underwater with not a lot of light and sand on the ground. The central part of the video is one bigger fish. The camera follows it but we see it first from the front, then the side, then the back. It has a large had and is grey/ beige with light brown dots. It has two small fins in the side barely moving, one on top and bottom moving a lot and the large fish tail fin. The eyes are placed at the side of its head. in the end we see a yellow fin from a d"
+  },
+  "tool_version": 1
+}

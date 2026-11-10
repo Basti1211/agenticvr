@@ -1,0 +1,16 @@
+{
+  "annotator": "A5",
+  "video_id": "video_07",
+  "started_at": "2026-08-18T18:43:23.882Z",
+  "submitted_at": "2026-08-18T18:46:23.989Z",
+  "elapsed_seconds": 180.112,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Ein Korallenriff ist zu sehen. Die Kamera macht eine Rundumdrehung von links nach rechts. Zu Beginn sieht man eine grau-schwarze Ebene, mit einer Erhöhung im Hintergrund. Einige Fische schwimmen durchs Bild. Mit der Drehung kommen weitere Korallen ins Bild, wobei die Szenerie dunkel bleibt. Die Kamera bleibt stehen, sodass im Vordergrund im Zentrum ein schwarzer Abgrund zu sehen ist. Im Hintergrund ist eine steil aufragende Felswand zusehen, die von Korallen bedeckt ist. Rechts das Abgrunds sind orange, Röhrenförmige Korallen zu sehen. Die Kamera fährt weiter, wobei der Korallenbewuchs abnimmt bis wieder eine leere Ebene zu sehen ist. Einige SF"
+  },
+  "tool_version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "annotator": "A4",
+  "video_id": "video_31",
+  "started_at": "2026-08-18T12:07:08.352Z",
+  "submitted_at": "2026-08-18T12:10:08.409Z",
+  "elapsed_seconds": 180.057,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Video of the ocen floor, showing a fish with black dots and a yellowish white body swimming infront of the camera. the ocean floor is sandy and very coarse. towards a end as fin of a diver can be seen in the frame top let."
+  },
+  "tool_version": 1
+}

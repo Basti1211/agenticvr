@@ -1,0 +1,16 @@
+{
+  "annotator": "A4",
+  "video_id": "video_40",
+  "started_at": "2026-08-18T12:43:38.873Z",
+  "submitted_at": "2026-08-18T12:46:38.936Z",
+  "elapsed_seconds": 180.063,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "An older man insid a rundown stable touching the mouth and nose of a reined brown horse. the horse seems to try and get something out the hand that scratches it while the manis unphased by the larger movement of the horses head towards him. "
+  },
+  "tool_version": 1
+}

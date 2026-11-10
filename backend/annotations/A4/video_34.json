@@ -1,0 +1,16 @@
+{
+  "annotator": "A4",
+  "video_id": "video_34",
+  "started_at": "2026-08-18T11:52:02.218Z",
+  "submitted_at": "2026-08-18T11:55:02.393Z",
+  "elapsed_seconds": 180.175,
+  "timed_out": true,
+  "complete": true,
+  "failed": false,
+  "missing_required": [],
+  "validation_errors": [],
+  "annotation": {
+    "description": "Video shows people at some conference, first shot is of a handful of them standing in line at a buffee with trays holding Pasta They are all dressed formally with either suit or shirt, with some people in the background at standing tables. Then, inteh next shot, two smiling people in suites at a table holding smrt phones, after that a shot of some metal rust coated butterfly artwork in a tree.  Lastly, a shot of a conference hall pointing at the speaker and their presentation with trees on the side. "
+  },
+  "tool_version": 1
+}
