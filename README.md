@@ -61,14 +61,15 @@ Human annotations can be found in [`backend/annotations`](backend/annotations).
 ## Inspect task logs
 
 Experiment runs write one JSON log per task to
-[`backend/task_logs`](backend/task_logs). Subdirectories group the logs by
+[`backend/task_logs`](backend/task_logs.zip). Subdirectories group the logs by
 experiment setting.
 
 To inspect a log:
 
-1. Start the application and open [http://localhost:5173](http://localhost:5173).
-2. Select **Logs** in the frontend.
-3. Choose a run from the **Task log** list. The frontend automatically lists the
+1. Unzip the task_logs
+2. Start the application and open [http://localhost:5173](http://localhost:5173).
+3. Select **Logs** in the frontend.
+4. Choose a run from the **Task log** list. The frontend automatically lists the
    logs stored under `backend/task_logs`, including its subdirectories.
 
 The log view shows the task configuration, retrieval iterations, submissions,
